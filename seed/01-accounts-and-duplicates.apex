@@ -102,9 +102,9 @@ for (Integer i = 0; i < CLEAN_COUNT; i++) {
         Phone             = '(02) ' + (4000 + Math.mod(i * 29, 5000)) + ' ' + (1000 + Math.mod(i * 31, 9000)),
         BillingStreet     = (1 + Math.mod(i * 11, 220)) + ' ' + STREETS[Math.mod(i * 3, STREETS.size())],
         BillingCity       = sp[0],
-        BillingState      = 'NSW',
+        BillingStateCode      = 'NSW',
         BillingPostalCode = sp[1],
-        BillingCountry    = 'Australia'
+        BillingCountryCode    = 'AU'
     ));
 }
 insert clean;
@@ -125,9 +125,9 @@ for (Account a : clean) {
         Phone             = a.Phone,
         MailingStreet     = a.BillingStreet,
         MailingCity       = a.BillingCity,
-        MailingState      = 'NSW',
+        MailingStateCode      = 'NSW',
         MailingPostalCode = a.BillingPostalCode,
-        MailingCountry    = 'Australia'
+        MailingCountryCode    = 'AU'
     ));
 }
 insert cons;
@@ -148,9 +148,9 @@ for (Integer i = 0; i < DUPE_COUNT; i++) {
     Account d = new Account(
         Service_Region__c = src.Service_Region__c,
         BillingCity       = src.BillingCity,
-        BillingState      = 'NSW',
+        BillingStateCode      = 'NSW',
         BillingPostalCode = src.BillingPostalCode,
-        BillingCountry    = 'Australia'
+        BillingCountryCode    = 'AU'
     );
 
     if (pattern == 0) {

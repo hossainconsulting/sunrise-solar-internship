@@ -97,9 +97,9 @@ for (Integer i = 0; i < 150 * SCALE; i++) {
         LeadSource = LEAD_SOURCE[Math.mod(i * 5, LEAD_SOURCE.size())],
         Street     = (1 + Math.mod(i * 11, 220)) + ' Solar Way',
         City       = sp[0],
-        State      = 'NSW',
+        StateCode      = 'NSW',
         PostalCode = sp[1],
-        Country    = 'Australia'
+        CountryCode    = 'AU'
     ));
 }
 insert leads;

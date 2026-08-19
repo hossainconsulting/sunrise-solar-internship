@@ -2,7 +2,7 @@
 
 **For:** Hemayet · **Date:** 19/08/2026 · **Est. 45–60 min total**
 
-Everything Marcus's review threw up that can only be fixed *in the org*. Written
+Everything Marcus's review threw up that can only be fixed _in the org_. Written
 click-by-click. Do them in order — Task 1 is the one that matters.
 
 **Getting to Setup, every time:** click the **gear icon** top-right of any
@@ -44,9 +44,9 @@ one role you need and writing down that the rest is sample data.
 1. Setup → Quick Find: `Roles` → click **Roles**.
 2. If you get an "Understanding Roles" explainer page, click **Set Up Roles**.
 3. You'll see the tree with **CEO** at the top. Find **Director, Direct Sales**
-   (it sits under *VP, North American Sales*). It already has two children:
-   *Eastern Sales Team* and *Western Sales Team*.
-4. Click **Add Role** underneath *Director, Direct Sales*.
+   (it sits under _VP, North American Sales_). It already has two children:
+   _Eastern Sales Team_ and _Western Sales Team_.
+4. Click **Add Role** underneath _Director, Direct Sales_.
    If the tree view is fiddly, switch to the list view via the link at the top,
    use the **New Role** button, and set the parent manually.
 5. Fill in:
@@ -56,7 +56,7 @@ one role you need and writing down that the rest is sample data.
    - **Role Name as displayed on reports:** `Newcastle Sales`
 6. **Save.**
 
-> **Why under *Director, Direct Sales*?** Because that is where the other two
+> **Why under _Director, Direct Sales_?** Because that is where the other two
 > sales team roles already sit, so Ben's records roll up the same way theirs
 > would. You are matching the existing shape rather than inventing a parallel one.
 > Say exactly that if Marcus asks.
@@ -74,9 +74,9 @@ one role you need and writing down that the rest is sample data.
 
 > **Why you as Manager?** Because Jack Nguyen and Mia Kelly already have you as
 > their Manager, and Marcus and Jake do not exist as users in this org.
-> Consistency beats invented accuracy — but **write the follow-up down**: *"Manager
+> Consistency beats invented accuracy — but **write the follow-up down**: _"Manager
 > set to admin as placeholder; reassign when the real reporting line exists as
-> users."*
+> users."_
 
 ### 1c. The bit you'll be tempted to skip
 
@@ -84,8 +84,8 @@ Jack and Mia are also Sales Representatives with **no Role**. If Ben has one and
 they don't, you have created a new inconsistency while fixing the old one.
 
 You don't know which office Jack and Mia are in — so **don't guess**. Add a
-follow-up instead: *"Jack Nguyen and Mia Kelly have no role assigned. Awaiting
-confirmation of their office before placing them in the hierarchy."*
+follow-up instead: _"Jack Nguyen and Mia Kelly have no role assigned. Awaiting
+confirmation of their office before placing them in the hierarchy."_
 
 Knowing that you don't know, and saying so, is the right answer here.
 
@@ -112,18 +112,18 @@ is unconfirmed. Make one of them true.
 
 **Check these and write down what you see:**
 
-- [ ] Which apps can he reach? (App Launcher — the grid icon, top left)
-- [ ] Can he see **Opportunities**? Open the tab, open a record.
-- [ ] Can he **create** an Opportunity? Open the New form — you can cancel it.
-- [ ] Can he reach **Setup**? He should **not** be able to. The gear menu should
-      have no Setup option.
-- [ ] Can he edit a **Campaign**? He should not — his Marketing User checkbox is
-      off. This is exactly what Zara's Ticket 1.3 is about, so you get a free
-      look at it here.
+- [ Y] Which apps can he reach? (App Launcher — the grid icon, top left)
+- [Y ] Can he see **Opportunities**? Open the tab, open a record.
+- [ Y] Can he **create** an Opportunity? Open the New form — you can cancel it.
+- [ Y] Can he reach **Setup**? He should **not** be able to. The gear menu should
+  have no Setup option.
+- [Y ] Can he edit a **Campaign**? He should not — his Marketing User checkbox is
+  off. This is exactly what Zara's YTicket 1.3 is about, so you get a free
+  look at it here.
 
 4. Click **Log out** in the banner at the top to return to your own session.
 
-> **Novice trap:** "Log out" in that banner returns you to *your* admin session.
+> **Novice trap:** "Log out" in that banner returns you to _your_ admin session.
 > It does not log you out of Salesforce entirely. That is what you want.
 
 ---
@@ -135,12 +135,12 @@ want to know that before Marcus does.
 
 **What the org shows right now:**
 
-| Thing | Your write-up says | The org says |
-|---|---|---|
-| Lead assignment rule "Standard" | Reassigned to H. Hossain | ✅ **Matches.** Still there, active, 2 entries, both pointing at you |
-| Case assignment rule "Standard" (5 entries) | Reassigned to H. Hossain | ⚠️ **Gone.** There are no case assignment rules at all |
-| Case escalation rule "Standard" (8 entries) | Reassigned — and a later note says deleted | ⚠️ **Gone.** There are no case escalation rules at all |
-| Web-to-Lead config | Deleted | ❓ Not checked — see 3c |
+| Thing                                       | Your write-up says                         | The org says                                                         |
+| ------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------- |
+| Lead assignment rule "Standard"             | Reassigned to H. Hossain                   | ✅ **Matches.** Still there, active, 2 entries, both pointing at you |
+| Case assignment rule "Standard" (5 entries) | Reassigned to H. Hossain                   | ⚠️ **Gone.** There are no case assignment rules at all               |
+| Case escalation rule "Standard" (8 entries) | Reassigned — and a later note says deleted | ⚠️ **Gone.** There are no case escalation rules at all               |
+| Web-to-Lead config                          | Deleted                                    | ❓ Not checked — see 3c                                              |
 
 So it looks like you **deleted** the two Case rules rather than reassigning them.
 That may well have been the right call. But it is not what your document says, and
@@ -151,15 +151,20 @@ reads this next.
 
 Setup → Quick Find: `Case Assignment Rules`. Expect an empty list.
 
+- I deleted it
+
 ### 3b. Confirm the case escalation rules are gone
 
 Setup → Quick Find: `Escalation Rules`. Expect empty.
+
+- I deleted it
 
 ### 3c. Check Web-to-Lead
 
 Setup → Quick Find: `Web-to-Lead`.
 
-- Note who the **Default Lead Creator** is now.
+- I deleted it
+- Note who the **Default Lead Creator** is now. Default Lead Creator: Hemayet Hossain
 - Note whether Web-to-Lead is **enabled**.
 - Screenshot either way.
 
@@ -170,8 +175,8 @@ somewhere odd:
 
 1. Setup → Quick Find: `Support Settings` — **Automated Case User** and **Default
    Case Owner** should both be Hemayet Hossain.
-2. Setup → Quick Find: `Lead Settings` — **Default Lead Owner**.
-3. Setup → Quick Find: `Process Automation Settings` — **Default Workflow User**.
+2. Setup → Quick Find: `Lead Settings` — **Default Lead Owner**. - Default Lead Owner Hemayet Hossain
+3. Setup → Quick Find: `Process Automation Settings` — **Default Workflow User**. -Hemayet Hossain
 
 Screenshot each.
 

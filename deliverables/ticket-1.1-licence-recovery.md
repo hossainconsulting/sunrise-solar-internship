@@ -9,8 +9,17 @@ the unused OrgFarm EPIC provisioning account.
 
 ## Justification
 
-- OrgFarm EPIC is Salesforce's org-provisioning account. No human has ever used it,
-  it has no login history, and it was consuming 1 of 4 Salesforce licences.
+- OrgFarm EPIC is Salesforce's org-provisioning account, consuming 1 of 4 Salesforce
+  licences.
+- **Correction (verified 19/08 against `LoginHistory`):** the account is *not*
+  loginless. It has three successful logins — 11/08 16:54, 15/08 11:00 and 18/08
+  11:05 — all via the `orgfarm_app_1` application from AWS addresses (52.1.139.45,
+  54.146.115.54), not a browser, and none by a person. The justification stands, but
+  the accurate wording is "no interactive human login; automated provisioning access
+  only", not "never logged in". An auditor pulls `LoginHistory` and the original
+  claim does not survive contact with it.
+- Note the 18/08 11:05 login landed the same day this deactivation was performed,
+  which is exactly the kind of detail that reads badly if someone else finds it first.
 - Three new hires start Monday. The org was at 4/4 licence capacity — verified in
   `Setup → Company Information` **before** any change was made.
 - Deactivating an unused system account is reversible and does not delete data;
@@ -41,7 +50,13 @@ meant the previous reference had been cleared successfully.
 ## Verification
 
 `Setup → Company Information → User Licenses` → Salesforce: **Used 3 of 4,
-Remaining 1**. The licence is genuinely recovered, not merely a user switched off.
+Remaining 1** immediately after deactivation. The licence is genuinely recovered,
+not merely a user switched off.
+
+**Current state (re-verified 19/08 via `UserLicense`):** Salesforce is back to
+**4 of 4 used** — Ben Carter consumed the recovered licence, as intended. There is
+no slack left. Salesforce Platform is 0 of 6 used, which is where Alan, Lisa and
+Priya go in Tickets 1.2 and 1.3.
 
 ## Lessons captured (folded into the SOP)
 

@@ -5,7 +5,19 @@
 **Scope:** removing access when someone leaves, without orphaning their records
 or stranding their licence. Companion to [sop-user-provisioning.md](sop-user-provisioning.md).
 
-**Golden rule: transfer → freeze → deactivate. In that order, every time.**
+**Golden rule: freeze → transfer → deactivate. In that order, every time.**
+
+> An earlier draft of this SOP said *transfer → freeze → deactivate*, which
+> contradicted its own numbered steps below. Freeze comes first, and the reason is
+> that the two actions answer different questions. **Freeze is a security decision
+> and it is urgent** — it stops login within seconds, costs nothing, and is
+> reversible. **Transfer is a data decision and it is not urgent** — it can take
+> days if you have to chase who inherits what. Doing the slow one first leaves a
+> departed employee able to log in for the duration.
+>
+> What must never happen is **deactivating before transferring**, which orphans
+> their records. Both orderings protect against that; only one also closes access
+> immediately.
 
 ---
 

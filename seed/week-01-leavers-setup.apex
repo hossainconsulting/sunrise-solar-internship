@@ -60,8 +60,21 @@ if (!existing.containsKey('lisa.fernandez@sunrise.hossain.dev')) {
 }
 
 if (!toCreate.isEmpty()) {
-    insert toCreate;
-    System.debug('Created ' + toCreate.size() + ' user(s) on ' + platformProfile.Name);
+    // Suppress the welcome / set-password email. SOP section 2 says leave the
+    // password email until the user's actual start date; these two are being
+    // created only so they can be offboarded, so it should never fire at all.
+    // The checkbox in the UI is this flag over the API.
+    Database.DMLOptions dlo = new Database.DMLOptions();
+    dlo.EmailHeader.triggerUserEmail = false;
+
+    List<Database.SaveResult> srs = Database.insert(toCreate, dlo);
+    for (Integer i = 0; i < srs.size(); i++) {
+        if (srs[i].isSuccess()) {
+            System.debug('Created ' + toCreate[i].Username + ' on ' + platformProfile.Name);
+        } else {
+            System.debug('FAILED ' + toCreate[i].Username + ' :: ' + srs[i].getErrors()[0].getMessage());
+        }
+    }
 } else {
     System.debug('Both users already exist - skipping creation.');
 }

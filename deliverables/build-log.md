@@ -36,15 +36,24 @@ artefact that survives the project and the one an auditor or a successor reads.
 | 21/08/2026 | Users: Alan, Lisa | Deactivation | Both deactivated, no blockers | Records were already clear, so nothing orphaned — the whole point of the ordering |
 | 21/08/2026 | Company Information | Verification | Salesforce Platform back to **0 of 6 used** | Deactivated ≠ licence recovered until verified. It was |
 | 21/08/2026 | Deliverable | Correction | [sop-user-deactivation.md](sop-user-deactivation.md) golden rule changed from *transfer → freeze → deactivate* to **freeze → transfer → deactivate** | The summary line contradicted the SOP's own numbered steps. Freeze is an urgent security action; transfer is a slower data action. Doing the slow one first leaves a leaver able to log in |
+| 21/08/2026 | User: Priya Sharma | Creation | Created on a **Salesforce Platform** licence. Title *Marketing Coordinator*, Manager set, Australia/Sydney, en_AU, password email suppressed (starts Monday) | Ticket 1.3. Platform is the only licence type available — Salesforce is 4 of 4 |
+| 21/08/2026 | User: Priya Sharma | Finding | `UserPermissionsMarketingUser = true` rejected: `FIELD_INTEGRITY_EXCEPTION :: Marketing User is not allowed for this License Type` | **The brief's Ticket 1.3 instruction is not executable.** It says create Priya on a Platform licence and tick Marketing User; the two are mutually exclusive |
+| 21/08/2026 | Object: Campaign | Finding | `Campaign` has **no** `ObjectPermissions` row for the `Standard Platform User` profile — only for `Standard User`. Platform licences do not include Campaigns at all | Confirms no permission set, profile change or checkbox can grant Campaign access on a Platform licence. Priya needs a **Salesforce** licence, and there are none spare |
+| 21/08/2026 | Permission set: `Marketing Campaign Access` | Deferred | **Not built.** Permission sets are constrained by licence type, so it would grant nothing until Priya is on a Salesforce licence | Building it now would look like progress and deliver none |
+| 21/08/2026 | Deliverable | Documentation | [ticket-1.3-reply-to-zara.md](ticket-1.3-reply-to-zara.md) — reply to Zara, what Priya can and cannot do, and the 5 steps to finish once a licence exists | Ticket 1.3 deliverable. Third request this week blocked on the same unanswered licence decision |
 
 ## Outstanding
 
-- [ ] Jack Nguyen and Mia Kelly have **no role** assigned. Awaiting confirmation of
-      their office before placing them in the hierarchy.
-- [ ] Ben's Manager is a placeholder (the admin). Reassign once Marcus, Jake or a
-      Newcastle team lead exists as a user.
-- [ ] The role hierarchy is Salesforce's default sample structure. A real SunRise
+- [ ] **Licence decision from Marcus** — now blocking three things: two of the three
+      Monday new hires, and Priya's Campaign access. Salesforce is 4 of 4 used.
+- [ ] Jack Nguyen and Mia Kelly have **no role**, have never logged in, and hold 2
+      of the 4 Salesforce licences. Reviewing their licence *type* is the cheapest
+      path to unblocking all three items above.
+- [ ] Ben's Manager is a placeholder (the admin). Reassign when the real reporting
+      line exists as users.
+- [ ] The role hierarchy is Salesforce's default sample structure; a real SunRise
       hierarchy is undesigned.
-- [ ] Default owner fields all point at the admin. Revisit once queues exist and
-      reassign to a queue where that is the correct owner.
-- [ ] Decision from Marcus on the two unprovisioned hires.
+- [ ] Default owner fields all point at the admin. Revisit once queues exist.
+- [ ] Seven `TODO` markers remain across the three SOPs — the freeze-vs-deactivate
+      reasoning is now written, but the provisioning SOP still has blanks and is
+      versioned v1.0 with holes in it.

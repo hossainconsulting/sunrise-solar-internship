@@ -134,16 +134,46 @@ place it exists.
 
 ---
 
-## ⑤ Rollback position — weaker than it should be
+## ⑤ Rollback position — recovered, with one caveat
 
-**There is no pre-merge export.** The 301-row snapshot the procedure called for
-was never taken before the first merges, and it cannot be created retrospectively.
+**An earlier draft of this audit stated the pre-merge export could not be created
+retrospectively. That was wrong, and it has been corrected.**
 
-What exists:
+The 301-row snapshot was never taken before the first merges. However, the merged
+losers remain in the Salesforce Recycle Bin and are queryable with `--all-rows`.
+Joining them to the surviving records reconstructs the original set exactly:
+
+```
+250 absorbed records (Recycle Bin)  +  51 survivors  =  301 rows
+```
+
+That is the original count to the record. Produced 25/08/2026 as
+`evidence/week-02/accounts-pre-merge-reconstructed.csv`, with 13 fields including
+`BillingStreet`, `BillingPostalCode`, `Service_Region__c`, `MasterRecordId`, and a
+`RecordState` column marking each row `ABSORBED` or `SURVIVOR`.
+
+**The caveat, stated precisely.** This is not identical to a true pre-merge export:
+
+- **Absorbed rows are exact.** Their field values were frozen at deletion and are
+  reproduced as they were.
+- **Survivor rows are current, not pre-merge.** Where a merge overwrote a field on
+  a surviving record, this file shows the post-merge value. Salesforce keeps no
+  history of the overwritten one.
+
+So the reconstruction recovers **250 of 301 records exactly**, and the remaining 51
+at their present state. For the practical question — *what did this household look
+like before we merged it* — that is sufficient, because the absorbed rows carry the
+alternative addresses and phone numbers.
+
+**This was time-limited.** The Recycle Bin holds deleted records for **15 days**;
+after roughly 08/09/2026 this reconstruction would no longer have been possible.
+
+What now exists:
 
 | Artefact | Covers | Restores |
 |---|---|---|
-| `evidence/week-02/accounts-post-merge.csv` | Current 51 records, 7 fields | A baseline for future work, not the past |
+| `evidence/week-02/accounts-pre-merge-reconstructed.csv` | **All 301 pre-merge records**, 13 fields | The original dataset — absorbed rows exactly, survivors at current state |
+| `evidence/week-02/accounts-post-merge.csv` | Current 51 records, 7 fields | The forward baseline |
 | `deliverables/merge-log.md` | All 50 groups, 250 absorbed records | Which record went into which, former phone and suburb, timestamp |
 | Salesforce Recycle Bin | Deleted losers, **15 days only** | The records themselves — expires ~08/09/2026 |
 
@@ -158,8 +188,10 @@ survivors, **0 orphaned**. Record ownership unchanged throughout.
 
 ## Recommendations
 
-1. **Take the export now.** `accounts-post-merge.csv` is the baseline for
-   everything that follows. Re-take it before any further merging.
+1. ~~Take the export now.~~ **Done 25/08.** The pre-merge set was reconstructed
+   from the Recycle Bin (`accounts-pre-merge-reconstructed.csv`, 301 rows) before
+   the 15-day window closed. Re-take `accounts-post-merge.csv` before any further
+   merging.
 2. **Resolve the ten middle-initial pairs** — that is the difference between
    reporting 51 and reporting 41.
 3. **Confirm the six bucket C addresses with the customers** before any technician

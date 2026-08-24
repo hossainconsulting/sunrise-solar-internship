@@ -176,7 +176,11 @@ Both departures are recorded in `build-log.md` against the groups they affected.
 | C — address conflict, **zero** won opportunities | 6 | 23 | **No survivor rule available.** Survivor by record age alone |
 | *(earlier, reconstructed)* | 7 | 33 | Logged after the fact |
 
-**Held: none.**
+**Held: the ten middle-initial pairs** — 20 records, decided 25/08, HOLD Task open
+on both halves of each, decision due 08/09. See §①.
+
+No duplicate group identified under the name + `… Residence` rule remains unmerged.
+The ten pairs are a *different* pattern, held deliberately rather than missed.
 
 ### The scope deviation — stated plainly
 

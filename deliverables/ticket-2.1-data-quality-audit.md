@@ -58,15 +58,50 @@ And from 51 records to 41 households:
 **If that assumption is wrong for all ten pairs, the figure is 51.** It cannot be
 lower than 41 or higher than 51. There is no third possibility.
 
-### Freeze point
+### The ten initial-pairs are HELD, not merged
 
-**The ten initial-pairs will be resolved by close of business Thursday
-27 August 2026**, ahead of the month-end board pack. From that date the number is
-final — either 41 confirmed, or a stated figure between 41 and 51 with the
-exceptions named.
+**Decision, 25/08/2026: they will not be merged on name similarity and record age.**
 
-Until then the correct form of words is: **"51 records, 41 households, with ten
-pairs under confirmation."** Not "approximately".
+That is the same substituted rule that produced the problems in §③ and §④ — a
+name match plus a fallback tiebreak, with no evidence behind the survivor. Applying
+it again to close a reporting gap would be repeating a mistake for the convenience
+of a rounder number.
+
+**The evidence is strong but circumstantial.** Across all ten pairs:
+
+- **9 of 10 share the same suburb.** The exception is Oliver Murphy — Chatswood
+  versus Campbelltown — and the Campbelltown value is itself a bucket C address
+  chosen by record age, so the mismatch may be an artefact of our own merge rather
+  than real.
+- **10 of 10 split landline and mobile** — every plain record carries an `(02)`
+  landline, every `J.` record an `04` mobile. That is exactly what two import
+  sources for one household look like.
+
+Strong enough to act on? No. Strong enough to state as the expected answer, yes.
+
+**Verification:** confirmed by **phone at the next contact with that customer** —
+"are both of these numbers yours?" No outbound campaign, no cost.
+
+**Decision date: Tuesday 8 September 2026**, two weeks out.
+
+**A HOLD Task is open on both halves of all ten pairs** — 20 Tasks, due 08/09,
+each naming its counterpart, the phone evidence, and the instruction **do not merge
+on name similarity alone**.
+
+### The rule for when the number moves
+
+The number stops drifting because the condition for changing it is now written
+down rather than decided ad hoc:
+
+> **51 records / 41 households.** Each confirmed pair moves one record out of the
+> record count. Each disproved pair moves one household into the household count.
+> Nothing else moves either figure.
+>
+> Until 08/09 the form of words is: **"51 records, 41 households, ten pairs under
+> confirmation."** Not "approximately".
+
+If all ten confirm, it is 41 records and 41 households. If none confirm, 51 and 51.
+Any mix lands between. There is no outcome outside that range.
 
 ---
 
@@ -267,9 +302,10 @@ survivors, **0 orphaned**. Record ownership unchanged throughout.
    from the Recycle Bin (`accounts-pre-merge-reconstructed.csv`, 301 rows) before
    the 15-day window closed. Re-take `accounts-post-merge.csv` before any further
    merging.
-2. **Resolve the ten middle-initial pairs by close of business Thursday 27/08/2026.**
-   That is the only thing standing between a range and a final number, and it is the
-   freeze point committed in §①.
+2. **The ten middle-initial pairs are HELD, not merged** — decided 25/08. They will
+   not be merged on name similarity and record age, because that is the substituted
+   rule that caused §③. Confirmed by phone at next customer contact; **decision date
+   08/09/2026**; a HOLD Task is open on both halves of all ten pairs. See §①.
 3. ~~Confirm the six bucket C addresses with the customers.~~ **Mechanism in place
    25/08.** A High-priority Task is open on each of the six accounts, due 27/08, and
    the address is confirmed at the next booking call. **No dispatch on an

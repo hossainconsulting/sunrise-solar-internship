@@ -160,13 +160,51 @@ This is recorded as an **accepted risk**, not presented as rule-compliant. The
 decision was mine; the consequence — a possibly wrong service address on six
 households — is real and belongs on this page rather than in a footnote.
 
-**Every discarded address is recorded in `build-log.md`**, per group. For example:
+**Every discarded address is recorded in `build-log.md`**, per group, and in
+`accounts-pre-merge-reconstructed.csv`.
 
-> Andrew J. Anderson Residence — surviving address **Campbelltown**.
-> Discarded: Penrith · Chatswood · Campbelltown.
+### The six accounts with an unconfirmed service address
 
-That detail cannot be recovered from the org after a merge. The log is the only
-place it exists.
+These are the bucket C households. On each, the surviving suburb was chosen by
+record age because no won Opportunity existed to discriminate between the merged
+records. **The address on these six accounts is not evidence-based.**
+
+| Account | Address retained | Addresses discarded |
+|---|---|---|
+| Andrew J. Anderson Residence | Campbelltown | Campbelltown · Chatswood · Penrith |
+| Daniel J. Clark Residence | Campbelltown | Campbelltown · Chatswood · Penrith |
+| Joshua J. Patel Residence | Penrith | Campbelltown · Chatswood · Penrith |
+| Lucas J. Tran Residence | Chatswood | Campbelltown · Penrith |
+| Samuel J. Fitzgerald Residence | Chatswood | Campbelltown · Penrith |
+| Oliver J. Murphy Residence | Campbelltown | Chatswood · Penrith |
+
+### No van rolls before confirmation
+
+This is not a note in a document — it is enforced in the org.
+
+**A High-priority Task has been created on each of the six accounts**, due
+**27/08/2026**, subject:
+
+> *Confirm service address before next job — address chosen by record age during
+> dedupe*
+
+Each Task body names the retained address, the discarded alternatives, and points
+at the pre-merge data. The Task sits on the Account, so anyone opening the record
+to book a job sees it in the activity timeline before dispatching anyone.
+
+**Verification mechanism:** the address is confirmed with the customer **at the
+next booking call** — the first moment we are speaking to them anyway, so it costs
+nothing and requires no outbound campaign. The agent updates the account and closes
+the Task with the confirmed address in the comments.
+
+**Why a Task and not a note in this audit.** A document records that a risk
+existed. A Task on the record puts the warning in front of the person about to act,
+at the moment they act. Six accounts is small enough that a list would probably
+have held; the mechanism is what makes it hold when it is six hundred.
+
+**Escalation if unconfirmed:** if a job is booked on one of these accounts before
+the Task is closed, the address is confirmed on that call before the technician is
+scheduled. No dispatch on an unconfirmed address.
 
 ---
 

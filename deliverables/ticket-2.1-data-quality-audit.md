@@ -270,8 +270,10 @@ survivors, **0 orphaned**. Record ownership unchanged throughout.
 2. **Resolve the ten middle-initial pairs by close of business Thursday 27/08/2026.**
    That is the only thing standing between a range and a final number, and it is the
    freeze point committed in §①.
-3. **Confirm the six bucket C addresses with the customers** before any technician
-   is dispatched to them. The suburb on those records was chosen by record age.
+3. ~~Confirm the six bucket C addresses with the customers.~~ **Mechanism in place
+   25/08.** A High-priority Task is open on each of the six accounts, due 27/08, and
+   the address is confirmed at the next booking call. **No dispatch on an
+   unconfirmed address** — see §④.
 4. **Ticket 2.2 must handle all three patterns.** A matching rule covering only
    exact names and `… Residence` leaves the initial variants untouched, and the
    org rebuilds itself.

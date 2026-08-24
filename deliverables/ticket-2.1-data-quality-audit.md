@@ -7,30 +7,66 @@
 
 ## ① The number
 
-> **SunRise Solar has approximately 41 customers.**
+> **SunRise Solar holds 51 Account records representing 41 households.**
 >
-> The 301 figure in the report counted **records, not customers**. The org held
-> roughly seven records per household, created by repeated imports under three
-> different naming conventions.
+> The 301 figure counted records, not customers — an average of **7.3 records per
+> household**, created by repeated imports under three different naming
+> conventions.
 
-That is the line for the board. Everything below is why it can be defended — and
-where it is still soft.
+**The gap between 51 and 41 is exactly ten**: ten households currently exist as two
+records each, separated only by a middle initial (§②, third pattern). Nothing else
+is unresolved.
+
+### The reconciliation
+
+Every one of the original 301 records is accounted for:
+
+```
+250  absorbed by merging      (50 groups, all logged)
+ 51  surviving records
+───
+301  original Account records                    ✓ reconciles exactly
+```
+
+And from 51 records to 41 households:
+
+```
+ 51  surviving records
+−10  duplicate halves of the ten initial-pairs
+───
+ 41  households
+```
 
 | Measure | Before | Now |
 |---|---|---|
 | Account records | 301 | **51** |
+| Households | unknown | **41** |
 | Duplicate groups (name + `… Residence`) | 60 | **0** |
 | Records absorbed by merging | — | **250** across 50 groups |
 | Opportunities | 890 | **890**, none orphaned |
-| **Customers, best estimate** | unknown | **~41** |
 
-**Why 41 and not 51.** Ten households still exist as two records each, separated
-only by a middle initial (§②, third pattern). Those are the same customers. Until
-they are merged the record count reads 51; the customer count is 41.
+### What is certain, and what is not
 
-**Confidence.** The 51 is exact. The 41 is a considered estimate — it assumes each
-`X` / `X J.` pair is one household, which is consistent with matching suburbs and
-phone patterns but has not been confirmed with the customers themselves.
+- **51 records — certain.** Direct count.
+- **250 absorbed — certain.** Each one logged with its survivor, former phone and
+  former suburb.
+- **41 households — one open assumption**, and only one: that each `X` / `X J.`
+  pair is a single household. The evidence is matching suburbs and complementary
+  phone formats (landline on one, mobile on the other), consistent with two import
+  sources for the same customer. It has not been confirmed with the customers.
+
+**If that assumption is wrong for all ten pairs, the figure is 51.** It cannot be
+lower than 41 or higher than 51. There is no third possibility.
+
+### Freeze point
+
+**The ten initial-pairs will be resolved by close of business Thursday
+27 August 2026**, ahead of the month-end board pack. From that date the number is
+final — either 41 confirmed, or a stated figure between 41 and 51 with the
+exceptions named.
+
+Until then the correct form of words is: **"51 records, 41 households, with ten
+pairs under confirmation."** Not "approximately".
 
 ---
 
@@ -166,7 +202,8 @@ like before we merged it* — that is sufficient, because the absorbed rows carr
 alternative addresses and phone numbers.
 
 **This was time-limited.** The Recycle Bin holds deleted records for **15 days**;
-after roughly 08/09/2026 this reconstruction would no longer have been possible.
+the merges ran 24–25/08, so the earliest expiry is **08/09/2026**. After that this
+reconstruction is no longer possible.
 
 What now exists:
 
@@ -175,7 +212,7 @@ What now exists:
 | `evidence/week-02/accounts-pre-merge-reconstructed.csv` | **All 301 pre-merge records**, 13 fields | The original dataset — absorbed rows exactly, survivors at current state |
 | `evidence/week-02/accounts-post-merge.csv` | Current 51 records, 7 fields | The forward baseline |
 | `deliverables/merge-log.md` | All 50 groups, 250 absorbed records | Which record went into which, former phone and suburb, timestamp |
-| Salesforce Recycle Bin | Deleted losers, **15 days only** | The records themselves — expires ~08/09/2026 |
+| Salesforce Recycle Bin | Deleted losers, **15 days from deletion** | The records themselves — earliest expiry **08/09/2026** |
 
 **What cannot be recovered at all:** field values overwritten on a *surviving*
 record during a merge. Salesforce keeps no history of those. If a survivor's phone
@@ -192,8 +229,9 @@ survivors, **0 orphaned**. Record ownership unchanged throughout.
    from the Recycle Bin (`accounts-pre-merge-reconstructed.csv`, 301 rows) before
    the 15-day window closed. Re-take `accounts-post-merge.csv` before any further
    merging.
-2. **Resolve the ten middle-initial pairs** — that is the difference between
-   reporting 51 and reporting 41.
+2. **Resolve the ten middle-initial pairs by close of business Thursday 27/08/2026.**
+   That is the only thing standing between a range and a final number, and it is the
+   freeze point committed in §①.
 3. **Confirm the six bucket C addresses with the customers** before any technician
    is dispatched to them. The suburb on those records was chosen by record age.
 4. **Ticket 2.2 must handle all three patterns.** A matching rule covering only

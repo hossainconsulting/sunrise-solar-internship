@@ -229,6 +229,7 @@ pages are why he can defend it.
   -"Anderson merge performed in error against HOLD status; reversed via undelete [7:58am]; child record placement verified."
   -children were concentrated on survivor pre-merge; nothing lost."
   - Duplicate inventory rebuilt 24/08. Grouping key corrected from phone-only to name + address after the original key missed 127 duplicate accounts. Final state: 82 duplicate households identified (276 accounts), 0 merged, 18 clean and ready to merge, 64 requiring review for conflicting phone numbers. Anderson resolves to 3 households across Campbelltown, Penrith and Chatswood; whether the three are one premises with bad suburb data remains open. Survivor selection rule not yet established — neither Created Date nor field completeness discriminates within any household.
+  - SunRise Solar has approximately 41 customers. The 301 figure counted records, not customers — roughly seven records per household across three naming conventions.
 
 ## Ticket 2.2 — Stop it happening again
 

@@ -1,0 +1,51 @@
+============= TICKET 2.2 — BEFORE/AFTER TEST =============
+Accounts in org       : 51
+Duplicate Record Sets : 75
+Probe source          : Andrew Anderson Residence &#124; (02) 4290 1310 &#124; 111 Sunset Rd, Campbelltown
+
+=========== PART A — which duplicate rule matches ===========
+---------------------------------------------------------
+PROBE 1  phone twin, same format   [Probe One / (02) 4290 1310]
+   MATCHED by : Account_Duplicate_Rule_Phone   (1 existing record(s))
+---------------------------------------------------------
+PROBE 2  phone twin, different format   [Probe Two / 0242901310]
+   MATCHED by : Account_Duplicate_Rule_Phone   (1 existing record(s))
+---------------------------------------------------------
+PROBE 3  household twin (same address, new phone, middle initial)   [Andrew J. Anderson / 0499 000 001]
+   MATCHED by : Account_Duplicate_Rule_Household   (1 existing record(s))
+   MATCHED by : Standard_Account_Duplicate_Rule   (1 existing record(s))
+---------------------------------------------------------
+PROBE 4  name breaks the naming standard   [Probe Four Residence / 0499 000 002]
+   MATCHED by : nothing — this pattern is invisible to every active rule
+
+=========== PART B — insert with "Save anyway" allowed ===========
+AllowSave=true means an Alert is overridden. Anything still
+refused below is a real Block.
+---------------------------------------------------------
+PROBE 1  phone twin, same format
+   RESULT : REFUSED (hard block)
+   status : DUPLICATES_DETECTED
+   shown  : Possible duplicate — an account with this phone number already exists. Check before saving. Naming standard: use the person's name only, e.g. "Amelia Martin", not "Amelia Martin Residence". The property goes in the address fields.
+---------------------------------------------------------
+PROBE 2  phone twin, different format
+   RESULT : REFUSED (hard block)
+   status : DUPLICATES_DETECTED
+   shown  : Possible duplicate — an account with this phone number already exists. Check before saving. Naming standard: use the person's name only, e.g. "Amelia Martin", not "Amelia Martin Residence". The property goes in the address fields.
+---------------------------------------------------------
+PROBE 3  household twin (same address, new phone, middle initial)
+   RESULT : SAVED (alert only)
+---------------------------------------------------------
+PROBE 4  name breaks the naming standard
+   RESULT : REFUSED (hard block)
+   status : FIELD_CUSTOM_VALIDATION_EXCEPTION
+   shown  : Naming standard: use the person's name only, e.g. &quot;Amelia Martin&quot; — not &quot;Amelia Martin Residence&quot;. The property belongs in the address fields. One account per household.
+---------------------------------------------------------
+PROBE 5  edit legacy "Andrew Anderson Residence" without renaming it
+   RESULT : ALLOWED — rep is not trapped
+
+===================== RESULT =====================
+Duplicate Record Sets before : 75
+Duplicate Record Sets after  : 75   (new: 0)
+Probes saved despite alert    : 1 of 4
+Cleaned up 1 probe record(s).
+Accounts in org after cleanup: 51

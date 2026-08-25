@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DuplicateRule xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <actionOnInsert>Allow</actionOnInsert>
+    <actionOnUpdate>Allow</actionOnUpdate>
+    <alertText>Possible duplicate — an account with a similar name already exists at this address. Check before saving: if this is the same household, update the existing account instead of creating a second one.</alertText>
+    <description>Ticket 2.2. Catches same-address household duplicates the phone rule misses (the Andrew J. Anderson pattern). Alert not Block: two accounts at one address can be legitimate. Report on, so matches reach Duplicate Record Sets.</description>
+    <duplicateRuleFilter xsi:nil="true"/>
+    <duplicateRuleMatchRules>
+        <matchRuleSObjectType>Account</matchRuleSObjectType>
+        <matchingRule>Account_Household_Match</matchingRule>
+        <objectMapping xsi:nil="true"/>
+    </duplicateRuleMatchRules>
+    <isActive>true</isActive>
+    <masterLabel>Account Duplicate Rule — Household</masterLabel>
+    <operationsOnInsert>Alert</operationsOnInsert>
+    <operationsOnInsert>Report</operationsOnInsert>
+    <operationsOnUpdate>Alert</operationsOnUpdate>
+    <operationsOnUpdate>Report</operationsOnUpdate>
+    <securityOption>EnforceSharingRules</securityOption>
+    <sortOrder>2</sortOrder>
+</DuplicateRule>

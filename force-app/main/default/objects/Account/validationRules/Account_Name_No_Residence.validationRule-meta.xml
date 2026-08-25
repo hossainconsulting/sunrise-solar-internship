@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Account_Name_No_Residence</fullName>
+    <active>true</active>
+    <description>Enforces residential naming standard (Ticket 2.2): accounts are named for the person; sites live in address fields. Fires only on create or when the name is edited, so the 47 legacy &quot;... Residence&quot; accounts stay editable until they are renamed.</description>
+    <errorConditionFormula>AND(
+  CONTAINS(LOWER(Name), &quot;residence&quot;),
+  OR(ISNEW(), ISCHANGED(Name))
+)</errorConditionFormula>
+    <errorDisplayField>Name</errorDisplayField>
+    <errorMessage>Naming standard: use the person&apos;s name only, e.g. &quot;Amelia Martin&quot; — not &quot;Amelia Martin Residence&quot;. The property belongs in the address fields. One account per household.</errorMessage>
+</ValidationRule>

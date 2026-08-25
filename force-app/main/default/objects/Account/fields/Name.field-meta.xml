@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Name</fullName>
+    <inlineHelpText>Person&apos;s name only, e.g. &quot;Amelia Martin&quot; — never &quot;Amelia Martin Residence&quot;. The property goes in the address fields. One account per household.</inlineHelpText>
+</CustomField>

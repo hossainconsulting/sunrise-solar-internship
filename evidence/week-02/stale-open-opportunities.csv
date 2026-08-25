@@ -1,0 +1,57 @@
+Id,Name,Account.Name,Owner.Name,Owner.IsActive,StageName,Amount,CloseDate,LastActivityDate,CreatedDate,ForecastCategoryName
+006gK00000MlfzAQAR,James Nguyen Residence - 6.6kW Rooftop Solar,James Nguyen Residence,OrgFarm EPIC,false,Prospecting,8960,2026-07-01,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUpQAN,Sophie Wilson Residence - 13.2kW Rooftop Solar,Sophie Wilson Residence,Mia Kelly,true,Qualification,11776,2026-07-02,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUSQA3,Benjamin Walker Residence - 6.6kW Rooftop Solar,Benjamin Walker Residence,OrgFarm EPIC,false,Qualification,16000,2026-07-03,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0TQAR,Sarah Barnes Residence - 13.2kW Rooftop Solar,Sarah Barnes Residence,Hemayet Hossain,true,Needs Analysis,12416,2026-07-04,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg06QAB,Joshua Patel Residence - 6.6kW Rooftop Solar,Joshua Patel Residence,Jack Nguyen,true,Id. Decision Makers,16640,2026-07-05,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzjQAB,Sienna Lewis Residence - 13.2kW Rooftop Solar,Sienna Lewis Residence,Mia Kelly,true,Prospecting,13056,2026-07-06,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzMQAR,Thomas Hughes Residence - 6.6kW Rooftop Solar,Thomas Hughes Residence,OrgFarm EPIC,false,Id. Decision Makers,9472,2026-07-07,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBV1QAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Hannah Smith Residence,Mia Kelly,true,Qualification,12288,2026-07-08,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUeQAN,Daniel Clark Residence - 6.6kW Rooftop Solar,Daniel Clark Residence,OrgFarm EPIC,false,Needs Analysis,16512,2026-07-09,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0fQAB,Zoe Foster Residence - 13.2kW Rooftop Solar,Zoe Foster Residence,Hemayet Hossain,true,Id. Decision Makers,12928,2026-07-10,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0IQAR,James Nguyen Residence - 6.6kW Rooftop Solar,James Nguyen Residence,Jack Nguyen,true,Prospecting,9344,2026-07-11,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzvQAB,Ruby Harris Residence - 13.2kW Rooftop Solar,Ruby Harris Residence,Mia Kelly,true,Id. Decision Makers,13568,2026-07-12,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzYQAR,Liam Bennett Residence - 6.6kW Rooftop Solar,Liam Bennett Residence,OrgFarm EPIC,false,Needs Analysis,9984,2026-07-13,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzBQAR,Jessica Silva Residence - 13.2kW Rooftop Solar,Jessica Silva Residence,Hemayet Hossain,true,Qualification,14208,2026-07-14,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUqQAN,Joshua Patel Residence - 6.6kW Rooftop Solar,Joshua Patel Residence,OrgFarm EPIC,false,Id. Decision Makers,9216,2026-07-15,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUTQA3,Sienna Lewis Residence - 13.2kW Rooftop Solar,Sienna Lewis Residence,Hemayet Hossain,true,Prospecting,13440,2026-07-16,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0UQAR,Thomas Hughes Residence - 6.6kW Rooftop Solar,Thomas Hughes Residence,Jack Nguyen,true,Id. Decision Makers,9856,2026-07-17,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg07QAB,Hannah Smith Residence - 13.2kW Rooftop Solar,Hannah Smith Residence,Mia Kelly,true,Needs Analysis,14080,2026-07-18,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzkQAB,Daniel Clark Residence - 6.6kW Rooftop Solar,Daniel Clark Residence,OrgFarm EPIC,false,Qualification,10496,2026-07-19,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzNQAR,Zoe Foster Residence - 13.2kW Rooftop Solar,Zoe Foster Residence,Hemayet Hossain,true,Qualification,14720,2026-07-20,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBV2QAN,James Nguyen Residence - 6.6kW Rooftop Solar,James Nguyen Residence,OrgFarm EPIC,false,Prospecting,9728,2026-07-21,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUfQAN,Ruby Harris Residence - 13.2kW Rooftop Solar,Ruby Harris Residence,Hemayet Hossain,true,Id. Decision Makers,13952,2026-07-22,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0gQAB,Liam Bennett Residence - 6.6kW Rooftop Solar,Liam Bennett Residence,Jack Nguyen,true,Needs Analysis,10368,2026-07-23,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0JQAR,Jessica Silva Residence - 13.2kW Rooftop Solar,Jessica Silva Residence,Mia Kelly,true,Qualification,14592,2026-07-24,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzwQAB,Jack White Residence - 6.6kW Rooftop Solar,Jack White Residence,OrgFarm EPIC,false,Qualification,11008,2026-07-25,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzZQAR,Olivia Campbell Residence - 13.2kW Rooftop Solar,Olivia Campbell Residence,Hemayet Hossain,true,Needs Analysis,15232,2026-07-26,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzCQAR,William Kowalski Residence - 6.6kW Rooftop Solar,William Kowalski Residence,Jack Nguyen,true,Id. Decision Makers,11648,2026-07-27,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUrQAN,Harper Thompson Residence - 13.2kW Rooftop Solar,Harper Thompson Residence,Hemayet Hossain,true,Needs Analysis,14464,2026-07-28,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUUQA3,Daniel Clark Residence - 6.6kW Rooftop Solar,Daniel Clark Residence,Jack Nguyen,true,Qualification,10880,2026-07-29,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0VQAR,Zoe Foster Residence - 13.2kW Rooftop Solar,Zoe Foster Residence,Mia Kelly,true,Qualification,15104,2026-07-30,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg08QAB,James Nguyen Residence - 6.6kW Rooftop Solar,James Nguyen Residence,OrgFarm EPIC,false,Needs Analysis,11520,2026-07-31,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzlQAB,Ruby Harris Residence - 13.2kW Rooftop Solar,Ruby Harris Residence,Hemayet Hossain,true,Id. Decision Makers,15744,2026-08-01,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzOQAR,Liam Bennett Residence - 6.6kW Rooftop Solar,Liam Bennett Residence,Jack Nguyen,true,Prospecting,12160,2026-08-02,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBV3QAN,Jessica Silva Residence - 13.2kW Rooftop Solar,Jessica Silva Residence,Hemayet Hossain,true,Qualification,14976,2026-08-03,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUgQAN,Jack White Residence - 6.6kW Rooftop Solar,Jack White Residence,Jack Nguyen,true,Qualification,11392,2026-08-04,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0hQAB,Olivia Campbell Residence - 13.2kW Rooftop Solar,Olivia Campbell Residence,Mia Kelly,true,Needs Analysis,15616,2026-08-05,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0KQAR,William Kowalski Residence - 6.6kW Rooftop Solar,William Kowalski Residence,OrgFarm EPIC,false,Id. Decision Makers,12032,2026-08-06,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzxQAB,Harper Thompson Residence - 13.2kW Rooftop Solar,Harper Thompson Residence,Hemayet Hossain,true,Prospecting,16256,2026-08-07,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzaQAB,Nathan Ryan Residence - 6.6kW Rooftop Solar,Nathan Ryan Residence,Jack Nguyen,true,Id. Decision Makers,12672,2026-08-08,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzDQAR,Ava Mancini Residence - 13.2kW Rooftop Solar,Ava Mancini,Mia Kelly,true,Needs Analysis,9088,2026-08-09,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUsQAN,Andrew Anderson Residence - 6.6kW Rooftop Solar,Andrew Anderson Residence,Jack Nguyen,true,Needs Analysis,11904,2026-08-10,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUVQA3,Ruby Harris Residence - 13.2kW Rooftop Solar,Ruby Harris Residence,Mia Kelly,true,Id. Decision Makers,16128,2026-08-11,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0WQAR,Liam Bennett Residence - 6.6kW Rooftop Solar,Liam Bennett Residence,OrgFarm EPIC,false,Prospecting,12544,2026-08-12,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg09QAB,Jessica Silva Residence - 13.2kW Rooftop Solar,Jessica Silva Residence,Hemayet Hossain,true,Id. Decision Makers,8960,2026-08-13,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzmQAB,Jack White Residence - 6.6kW Rooftop Solar,Jack White Residence,Jack Nguyen,true,Needs Analysis,13184,2026-08-14,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzPQAR,Olivia Campbell Residence - 13.2kW Rooftop Solar,Olivia Campbell Residence,Mia Kelly,true,Qualification,9600,2026-08-15,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBV4QAN,William Kowalski Residence - 6.6kW Rooftop Solar,William Kowalski Residence,Jack Nguyen,true,Id. Decision Makers,12416,2026-08-16,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUhQAN,Harper Thompson Residence - 13.2kW Rooftop Solar,Harper Thompson Residence,Mia Kelly,true,Prospecting,16640,2026-08-17,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0iQAB,Nathan Ryan Residence - 6.6kW Rooftop Solar,Nathan Ryan Residence,OrgFarm EPIC,false,Id. Decision Makers,13056,2026-08-18,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0LQAR,Ava Mancini Residence - 13.2kW Rooftop Solar,Ava Mancini,Hemayet Hossain,true,Needs Analysis,9472,2026-08-19,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzyQAB,Andrew Anderson Residence - 6.6kW Rooftop Solar,Andrew Anderson Residence,Jack Nguyen,true,Qualification,13696,2026-08-20,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzbQAB,Lily Kelly Residence - 13.2kW Rooftop Solar,Lily Kelly Residence,Mia Kelly,true,Qualification,10112,2026-08-21,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MlfzEQAR,David Doyle Residence - 6.6kW Rooftop Solar,David Doyle Residence,OrgFarm EPIC,false,Needs Analysis,14336,2026-08-22,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUtQAN,Amelia Martin Residence - 13.2kW Rooftop Solar,Amelia Martin,Mia Kelly,true,Id. Decision Makers,9344,2026-08-23,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000MmBUWQA3,Oliver Murphy Residence - 6.6kW Rooftop Solar,Oliver Murphy Residence,OrgFarm EPIC,false,Needs Analysis,13568,2026-08-24,,2026-08-17T07:54:20.000+0000,Pipeline
+006gK00000Mlg0XQAR,Olivia Campbell Residence - 13.2kW Rooftop Solar,Olivia Campbell Residence,Hemayet Hossain,true,Qualification,9984,2026-08-25,,2026-08-17T07:54:20.000+0000,Pipeline

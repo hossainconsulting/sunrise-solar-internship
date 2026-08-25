@@ -1,8 +1,22 @@
 # SOP — User provisioning & deactivation
 
-**SunRise Solar · Owner: Hemayet Hossain · v1.0 — 19/08/2026**
+**SunRise Solar · Owner: Hemayet Hossain · v0.9 (DRAFT — not yet issuable) — 26/08/2026**
 
 **Scope:** creating, verifying, and deactivating internal Salesforce users.
+
+> ### ⚠️ This document is a draft. Do not treat it as the standard.
+>
+> **Four `✍️ TODO` sections below are unwritten** — §1, §3, §4 and §7. Until they
+> are filled in, this SOP cannot be handed to anyone as the way SunRise provisions
+> users, because its reasoning is missing in exactly the places that explain *why*
+> the steps are in the order they are.
+>
+> **Version history:**
+>
+> | Version | Date | Change |
+> |---|---|---|
+> | v1.0 | 19/08/2026 | First issue — **stamped 1.0 in error, with four sections unwritten** |
+> | **v0.9** | **26/08/2026** | **Reversioned down.** A document numbered 1.0 claims to be finished. This one is not, and a reader has no way to tell from the header. Reverting the number is the honest fix; it goes back to 1.0 when the blanks are filled, not before |
 
 > Items marked **✍️ TODO** are deliberately left for the SOP owner to write in
 > their own words. An SOP in someone else's voice is not yours to defend.

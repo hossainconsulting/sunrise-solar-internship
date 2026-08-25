@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <accessType>Public</accessType>
+    <folderShares>
+        <accessLevel>View</accessLevel>
+        <sharedTo>jack.nguyen@sunrise.hossain.dev</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>View</accessLevel>
+        <sharedTo>mia.kelly@sunrise.hossain.dev</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <name>SunRise Ops</name>
+    <publicFolderAccess>ReadWrite</publicFolderAccess>
+</ReportFolder>

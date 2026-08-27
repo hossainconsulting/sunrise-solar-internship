@@ -27,8 +27,9 @@ written by Hemayet.**
 
 | # | Ticket | From | Status | Blocked on |
 |---|---|---|---|---|
-| CF-01 | The customer-count freeze point passes today | W2 · 2.1 | 🔴 DUE | Hemayet |
+| CF-01 | The customer-count freeze point passes today | W2 · 2.1 | 🟠 **NOTE DRAFTED** | Marcus to reply |
 | CF-02 | Six bucket-C address confirmations due today | W2 · 2.1 | 🔴 DUE | Field contact |
+| CF-21 | Open-task visibility — report built | W2 · CF-01 | ✅ **DONE 27/08** | — |
 | CF-03 | Licence decision — Salesforce is 4 of 4 | W1 · 1.1 | 🟠 BLOCKED | Marcus |
 | CF-04 | Who inherits the 666 unowned Opportunities | W2 · 2.3 | 🟠 BLOCKED | Marcus |
 | CF-05 | Stale-pipeline threshold: 30 days or 14 | W2 · 2.3 | 🟠 BLOCKED | Marcus |
@@ -81,6 +82,19 @@ the exact substitution Ticket 2.1 §③ and §④ already record as a mistake.
 The cheap version is one line, today: *"The 41–51 range holds for the board pack — the
 ten pairs need a phone confirmation and that lands 08/09, not today. Range with the
 arithmetic behind it, or do you want me to chase the confirmations this week?"*
+
+### Update 27/08, evening
+
+**Note drafted:** [status-note-marcus-cf-01-freeze-point.md](status-note-marcus-cf-01-freeze-point.md)
+— leads with the one-line Chatter message, states the 41–51 range with both
+reconciliations, and says plainly that the date given on the 25th was never supported
+by the Tasks created the same day. Two asks: range-or-chase for the count, and the
+same question for CF-02's six addresses.
+
+**Still open until Marcus replies.** The ticket moves to done when there is an answer,
+not when the note is written.
+
+**The read-side is now built — see CF-21.**
 
 ---
 
@@ -343,6 +357,34 @@ mistake Ticket 2.1 §③/§④ already records.
 
 This is what keeps the customer count a **41–51 range**, and it is the mechanism CF-01's
 freeze point depends on.
+
+---
+
+# ✅ Done
+
+## CF-21 — Open-task visibility
+
+**Raised and closed 27/08 · Report `00OgK00000DlqOfUAJ`, folder SunRise Ops**
+
+CF-02, CF-07 and CF-20 all failed the same way: a control existed and nobody opened it.
+**Open Tasks had no report at all**, so twenty-six pieces of dated work sat in the org
+visible only to whoever thought to look at a stock list view.
+
+**Built:** *CF-01 Open tasks by due date* — Activity report, summary format, grouped by
+due date, filtered to `Status ≠ Completed AND Task = True`. Columns: Subject, Assigned,
+Related To, Status, Priority. Reads **6 due 27/08, 20 due 08/09**.
+
+Two corrections made to the version built in the UI:
+
+1. **Scope was `user`, now `organization`.** As built it showed only the running user's
+   own Tasks. It *looked* correct because Hemayet is assigned all 26 — the same way
+   Ticket 2.3's "ask the owner" looked workable until anyone checked who the owners
+   were. The moment a Task is assigned to a rep, a user-scoped report stops showing it
+   to the person meant to be supervising.
+2. **Moved from Public Reports to SunRise Ops**, and committed to
+   `force-app/main/default/reports/`. Yesterday four near-identical Pipeline Hygiene
+   reports had to be deleted because parallel UI and metadata builds scattered them
+   across three folders. One canonical copy, in version control, from the start.
 
 ---
 

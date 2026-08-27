@@ -1,0 +1,12 @@
+Name,Username,Email,IsActive,LastLoginDate,Profile.Name,UserRole.Name,Title,UserPermissionsMarketingUser,CreatedDate
+Ben Carter,ben.carter@sunrise.hossain.dev,ben.carter@sunrise.hossain.dev,true,,Standard User,Newcastle Sales Team,Sales Representative,false,2026-08-18T16:24:58.000+0000
+Chatter Expert,chatty.00dgk00000wybzgua3.fyf3iy7utzqb@chatter.salesforce.com,noreply@example.com,true,,Chatter Free User,,,false,2026-08-11T16:21:37.000+0000
+Hemayet Hossain,hossainconsulting+sunrise.0ba6f20667ac@agentforce.com,hossainconsulting+sunrise@gmail.com,true,2026-08-27T03:56:19.000+0000,System Administrator,,,true,2026-08-15T11:00:41.000+0000
+Integration User,integration@00dgk00000wybzgua3.com,noreply@example.com,true,,Analytics Cloud Integration User,,,false,2026-08-11T16:21:37.000+0000
+Jack Nguyen,jack.nguyen@sunrise.hossain.dev,hossainconsulting+jack@gmail.com,true,,Standard User,,Sales Representative,false,2026-08-17T07:34:45.000+0000
+Mia Kelly,mia.kelly@sunrise.hossain.dev,hossainconsulting+mia@gmail.com,true,,Standard User,,Sales Representative,false,2026-08-17T07:37:39.000+0000
+Priya Sharma,priya.sharma@sunrise.hossain.dev,hossainconsulting+priya@gmail.com,true,,Standard Platform User,,Marketing Coordinator,false,2026-08-20T21:15:22.000+0000
+Security User,insightssecurity@00dgk00000wybzgua3.com,noreply@example.com,true,,Analytics Cloud Security User,,,false,2026-08-11T16:21:37.000+0000
+Alan Brooks,alan.brooks@sunrise.hossain.dev,hossainconsulting+alan@gmail.com,false,,Standard Platform User,,,false,2026-08-20T21:08:14.000+0000
+Lisa Fernandez,lisa.fernandez@sunrise.hossain.dev,hossainconsulting+lisa@gmail.com,false,,Standard Platform User,,,false,2026-08-20T21:08:48.000+0000
+OrgFarm EPIC,epic.56bcef64cf17@orgfarm.salesforce.com,epic.orgfarm@salesforce.com,false,2026-08-18T11:05:25.000+0000,System Administrator,,,true,2026-08-11T16:21:37.000+0000

@@ -21,7 +21,18 @@ written by Hemayet.**
 > Escalations` built, and **all six notes sent**. Salesforce licences untouched at 4 of 4.
 >
 > **So "blocked on Marcus" now means what it says.** Before today it meant nobody had
-> been asked. **Six of the tickets below are genuinely with him as of 29/08.**
+> been asked. **Eight of the tickets below are genuinely with him as of 29/08.**
+>
+> **All eight are consolidated into one numbered list:**
+> **[decision-list-marcus.md](decision-list-marcus.md)** — CF-01, CF-02, CF-03, CF-04,
+> CF-05, CF-06, CF-07, CF-13, each with a recommendation and a note on whether it is
+> reversible. Six prose posts carrying eight decisions was not answerable; this is eight
+> short answers. **CF-04 is the one with no recommendation, because there is no name to
+> give — and that is the finding, not a gap in the list.**
+>
+> ⚠️ **Marcus has not logged in and nothing has been read.** The channel is built and
+> **unproven**. Confirm `marcus.head@sunrise.hossain.dev` actually received the welcome
+> email before treating CF-22 as fully closed.
 >
 > **CF-13 was re-scoped and moved from 🟡 READY to 🟠 BLOCKED.** Its premise was wrong —
 > Ticket 2.1 never touched the Contact object — and **134 of 137 Contacts are unmerged

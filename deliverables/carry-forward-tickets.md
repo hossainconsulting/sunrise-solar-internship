@@ -10,6 +10,24 @@ it is not found sooner.
 **20 tickets. 3 are overdue or due today. 5 are blocked on Marcus. 4 can only be
 written by Hemayet.**
 
+> **Revised 29/08/2026 — now 22 tickets.** CF-02 was worked and its control rebuilt, but
+> the six confirmations are still not made, so it moves to blocked on Marcus rather than
+> done, taking that group to **six**. CF-03 was put to Marcus as three costs.
+>
+> **And CF-22 was raised and closed the same day.** Marcus had no user account in this
+> org — nor do Jake, Sarah or Zara — and there were no Chatter groups at all. **Every
+> escalation written in Weeks 1 and 2 had been addressed to a channel that reached
+> nobody.** Fixed: **Marcus Head** created on a free Chatter licence, `SunRise Ops —
+> Escalations` built, and **all six notes sent**. Salesforce licences untouched at 4 of 4.
+>
+> **So "blocked on Marcus" now means what it says.** Before today it meant nobody had
+> been asked. **Six of the tickets below are genuinely with him as of 29/08.**
+>
+> **CF-13 was re-scoped and moved from 🟡 READY to 🟠 BLOCKED.** Its premise was wrong —
+> Ticket 2.1 never touched the Contact object — and **134 of 137 Contacts are unmerged
+> duplicates.** The merge needs a survivorship rule from Marcus, so **CF-22 is now
+> blocking build work, not only reporting.**
+
 ---
 
 ## How to read this
@@ -28,9 +46,10 @@ written by Hemayet.**
 | # | Ticket | From | Status | Blocked on |
 |---|---|---|---|---|
 | CF-01 | The customer-count freeze point passes today | W2 · 2.1 | 🟠 **NOTE DRAFTED** | Marcus to reply |
-| CF-02 | Six bucket-C address confirmations due today | W2 · 2.1 | 🔴 DUE | Field contact |
+| CF-02 | Six bucket-C address confirmations due today | W2 · 2.1 | 🟠 **CONTROL REBUILT** | Marcus to roster the calls |
 | CF-21 | Open-task visibility — report built | W2 · CF-01 | ✅ **DONE 27/08** | — |
-| CF-03 | Licence decision — Salesforce is 4 of 4 | W1 · 1.1 | 🟠 BLOCKED | Marcus |
+| CF-22 | Every escalation was addressed to a channel that cannot reach anyone | W1–W2 | ✅ **DONE 29/08** — channel built, six notes sent | — |
+| CF-03 | Licence decision — Salesforce is 4 of 4 | W1 · 1.1 | 🟠 **COSTED 29/08** | Marcus to pick one |
 | CF-04 | Who inherits the 666 unowned Opportunities | W2 · 2.3 | 🟠 BLOCKED | Marcus |
 | CF-05 | Stale-pipeline threshold: 30 days or 14 | W2 · 2.3 | 🟠 BLOCKED | Marcus |
 | CF-06 | Confirm Block-on-create for duplicate accounts | W2 · 2.2 | 🟠 BLOCKED | Marcus |
@@ -40,7 +59,7 @@ written by Hemayet.**
 | CF-10 | Dormant-user review: the send decision | W1 · 1.2 | 🟠 BLOCKED | Hemayet |
 | CF-11 | Zara's reply: the three-sentence version | W1 · 1.3 | 🟠 BLOCKED | Hemayet |
 | CF-12 | Jack and Mia have no role | W1 · 1.1 | 🟡 READY | — |
-| CF-13 | Contact and Lead still run stock rules only | W2 · 2.2 | 🟡 READY | — |
+| CF-13 | **134 of 137 Contacts are unmerged duplicates** *(re-scoped 29/08)* | W2 · 2.2 | 🟠 BLOCKED | CF-22 → Marcus |
 | CF-14 | Week 1 evidence was never captured | W1 | 🟡 READY | — |
 | CF-15 | The role hierarchy is Salesforce's US sample | W1 · 1.1 | 🟡 READY | — |
 | CF-16 | Default owner fields all point at the admin | W1 · 1.1 | 🟡 READY | — |
@@ -125,6 +144,189 @@ campaign — which is correct, but means they only close when someone rings.
 honestly, or make the six calls. Leaving six overdue high-priority Tasks sitting in
 the org is how the 74 unread Duplicate Record Sets happened.
 
+### Update 29/08 — worked, and the outcome is not what the org briefly said it was
+
+**Full record: [cf-02-address-confirmations.md](cf-02-address-confirmations.md)**
+
+**What happened first:** between 04:29 and 07:24 on 29/08 all six Tasks were marked
+**Completed**. Checked against the org: **no address changed** — all six Accounts still
+carried `LastModifiedDate` of 24/08 — and **no confirmation was recorded**, every closed
+Task still holding its original comment reading *"Service address on this account was NOT
+confirmed with the customer."* It was an administrative closure to clear an overdue date.
+
+**The org therefore briefly held six Completed high-priority tasks whose own comments
+said the work had not been done** — and the CF-01 report, built two days earlier to
+surface exactly this, dropped from **6 due 27/08 to 0**. The instrument built to make the
+problem visible was the instrument that stopped showing it.
+
+**What was done about it, same day:**
+
+1. **All six reopened** to `Not Started`, each carrying a dated note recording the
+   closure and the reopening. The history is in the record, not only in a document.
+2. **`ActivityDate` cleared on all six.** The invented 27/08 date was the root cause —
+   this obligation has no date, it has a trigger. An invented date does not create
+   urgency, it creates an overdue flag, and an overdue flag creates pressure to clear it.
+3. **`Account.Service_Address_Unconfirmed__c`** built, deployed, FLS granted to the three
+   human profiles, placed on `Account Layout` **immediately below Account Name**, and set
+   `true` on the six. The control now sits on the Account in front of whoever books the
+   job, and **cannot be cleared by closing a task.**
+
+**Still 0 of 6 addresses confirmed.** Nothing on 29/08 changed that, and the ticket does
+not close until six customers have been rung. **Blocked on Marcus** to roster who makes
+the calls — the second ask in
+[status-note-marcus-cf-01-freeze-point.md](status-note-marcus-cf-01-freeze-point.md),
+still unanswered.
+
+**One gap left open deliberately, named in the deliverable:** the new
+`CF-02 · Address confirmations` list view was built as *"Only I can see this list view"*
+— the identical defect corrected on the CF-01 report two days earlier. Left visible
+rather than quietly corrected, because a defect repeated three days after it was fixed
+is the more useful thing to notice.
+
+---
+
+## CF-22 — Every escalation was addressed to a channel that cannot reach anyone
+
+**Raised 29/08 · Found while writing click-by-click steps to post CF-03 to Marcus**
+
+**Marcus has no user account in this org.** Not inactive — absent. Neither do **Jake,
+Sarah or Zara**. And there are **no Chatter groups at all**.
+
+| Referenced in the deliverables | Has a user |
+|---|---|
+| Marcus (139 mentions) | **No** |
+| Jake (75) | **No** |
+| Zara (28) | **No** |
+| Sarah (20) | **No** |
+
+The only people who can receive a Chatter post here are Ben Carter, Jack Nguyen, Mia
+Kelly and Priya Sharma — **three of whom have never logged in.**
+
+**Five documents are affected**, each carrying a *"line to post now"* aimed at Chatter:
+
+- `status-note-marcus-ticket-2.2.md` — *"this goes to Chatter the moment it is known"*
+- `status-note-marcus-ticket-2.3.md` — same
+- `status-note-marcus-cf-01-freeze-point.md`
+- `status-note-marcus-cf-03-licence-decision.md`
+- `cf-02-address-confirmations.md`
+
+> **Correction, 29/08 (later):** this list originally read **six** documents and included
+> `ticket-1.3-reply-to-zara.md`, citing *"use Chatter"* in it. **That was a misreading.**
+> The phrase appears in a list of what **Priya** can do on a Platform licence — *"Can: log
+> in, see Accounts and Contacts, run and build reports and dashboards, use Chatter"* — not
+> in a delivery instruction. **Zara emailed in** (*"Zara, email, Wednesday · Subject:
+> Campaign access"*) and the deliverable was always *"a three-sentence email reply"*.
+> **Her channel was never Chatter and was never broken. Five documents, not six.**
+>
+> Worth noting how it happened: the word was grepped for and the hit was counted without
+> reading the sentence around it. **That is the same shape as the failure this ticket
+> describes** — a fact recorded correctly and then connected to the wrong thing.
+
+And `sop-escalating-rule-changes.md` **mandated** the unreachable route: *"Post it where
+the approver will see it. In this org that is Chatter on the record or the ticket."*
+
+### It was never unknown — it was written down on 25/08
+
+The build log, **25/08**, under Ticket 2.3 Phase 3:
+
+> *"**Jake has no user account in this org, nor does Marcus.** Active users are Hemayet,
+> Ben Carter, Jack Nguyen, Mia Kelly, Priya Sharma + 5 service accounts."*
+
+**On that same day**, two other documents were written:
+
+- `sop-escalating-rule-changes.md` **v1.0** — *"Post it where the approver will see it.
+  In this org that is Chatter on the record or the ticket."*
+- `status-note-marcus-ticket-2.2.md` — *"this goes to Chatter the moment it is known"*
+
+**Three documents, one day, mutually contradictory.** The blocking fact was recorded in
+the log, and the two documents that depend on it being false were written beside it.
+
+**This is CF-01's shape exactly** — *"the commitment and the mechanism to deliver it were
+set up on the same day, pointing at different dates, and nobody noticed."* Except this
+one ran four days and cost every escalation of Weeks 1 and 2.
+
+> **The failure is not observation. It is that a finding recorded against one ticket
+> does not propagate to the others.** Ticket 2.3 needed Jake's missing account and wrote
+> it down. The SOP needed Marcus's missing account and never asked. It is the same fact.
+
+**Why this is worse than it looks.** Ticket 2.2's whole lesson was that Marcus learned
+about a methodology change by reading the audit afterwards, and the fix was to tell him
+at the moment of discovery. **The fix was written, followed, and delivered to nobody** —
+and each note read as delivered, because a "line to post now" at the top of a document
+looks like a dispatched message. This is the CF-02 pattern again in a different costume:
+**a control that exists, is used, and produces a record saying it worked.**
+
+### Channel built 29/08 — Marcus is now reachable
+
+| | |
+|---|---|
+| **User** | **Marcus Head** · `005gK00007H4D0dQAF` · `marcus.head@sunrise.hossain.dev` |
+| **Licence** | **Chatter Free** — costs nothing, 4,998 of 5,000 still free |
+| **Group** | **`SunRise Ops — Escalations`** · `0F9gK000000YDsTSAW` · Private · members: Hemayet (Admin), Marcus (Standard) |
+
+**Salesforce licences are untouched at 4 of 4 — this did not cost CF-03 anything.** The
+org previously had **no Chatter groups at all**.
+
+**A group rather than record feeds**, because a Chatter Free user **cannot open records**:
+an @mention on an Account feed emails him text he cannot click through to. The group
+reaches him; the record post remains the audit copy, which is the split SOP v1.1 makes.
+
+**All five status-note Channel rows are now filled**, plus the CF-13 merge-rule request —
+which is **the first approval request in this project with a working channel.**
+
+> **What Chatter Free does not buy:** he cannot open the CF-01 report, the pipeline
+> report, or any Account or Opportunity. He can read escalations and reply. Making him
+> self-sufficient needs a Salesforce licence, which is CF-03, and would take the count to
+> **5, not 4.**
+
+**Done 29/08:** [sop-escalating-rule-changes.md](sop-escalating-rule-changes.md) → **v1.1**.
+The delivery instruction is replaced with a check — *confirm the recipient can receive it
+before writing the line* — and every status note must now carry an explicit
+**To / Channel / Audit copy** header instead of "the line to post now". Chatter stays as
+the **audit copy** even when the recipient cannot receive it; the two jobs Chatter was
+doing are now separated, because only one of them needs the recipient to exist.
+
+### Sent 29/08 — the backlog is delivered
+
+**Seven posts to `SunRise Ops — Escalations`, each with a rendered @Marcus Head mention.**
+Posted oldest-first so the feed reads newest-at-top, with a `READ THIS FIRST` orientation
+post created last so it sits above them:
+
+| Post | Raised | Waiting on |
+|---|---|---|
+| Ticket 2.2 — Block-on-create, duplicate queue owner | 25/08 | Marcus |
+| Ticket 2.3 — **"Hold the licence decision"** | 26/08 | Marcus |
+| CF-01 — customer-count freeze point | 27/08 | Marcus |
+| CF-02 — six unconfirmed addresses | 29/08 | Marcus |
+| CF-13 — Contact merge rule, for approval | 29/08 | Marcus |
+| CF-03 — licence decision as three costs | 29/08 | Marcus |
+
+Each post is the **short SOP-form message** — four things, one paragraph — not the
+document. The documents stay as the audit copy, which is the split SOP v1.1 defines. The
+orientation post says plainly that they never reached him because he had no account and
+nobody checked.
+
+> **The ticket is closed. The decisions are not.** **Five of the six now wait on Marcus
+> rather than on a channel** — which is a different and much better problem than the one
+> this ticket described.
+
+**One deliberately not sent:** `ticket-1.3-reply-to-zara.md`. **Zara's channel is email
+and always was — she needs no Chatter account** (see the correction above). It was
+recorded as blocked on CF-03, which was wrong: the draft is written *for* the unresolved
+state and says so plainly.
+
+> **What actually held it was a sentence that was not true.** The draft claims *"I've
+> asked Marcus to decide between buying a licence or freeing one up"* — written 21/08,
+> when Marcus had no account and no note had reached him. **It became true today.** It
+> sat in a draft reply to a manager, as a statement of fact, for eight days.
+
+**Only CF-11 remains** — the three-sentence version, which is Hemayet's to write. Zara's
+email address is still recorded nowhere in this repo.
+
+**This also lands on CF-03 option (c),** which commits to telling four people the hires
+are unprovisioned: **HR, Sarah, Jake and the two hires. Three of those four have no user
+account either.**
+
 ---
 
 # 🟠 Blocked on Marcus
@@ -146,6 +348,46 @@ Verified today: **Salesforce 4 of 4 used. Salesforce Platform 1 of 6.**
 **And the cheapest proposed unblock is now known to be unsafe** — see CF-04. Deactivating
 or re-licensing Jack and Mia was Week 1's recommendation; both variants damage data
 until their pipeline moves.
+
+### Update 29/08 — put to Marcus as three costs, not a question
+
+**Note: [status-note-marcus-cf-03-licence-decision.md](status-note-marcus-cf-03-licence-decision.md)**
+
+Ten days unanswered. Reframed so there is nothing left to decide *about* — only one of
+three to pick. **All three are already being chosen from: (c) is what is running now.**
+
+**(a) Buy two Salesforce licences.** Cost is money, and the note says plainly that **two
+is the floor, not the number.** Counting what the org needs rather than what was asked on
+the 19th — second Newcastle rep (Opportunity), Wollongong service tech (Case), Priya
+(Campaign), Jake (a login at all) — **the real figure is four.** Two closes the ticket;
+four closes the org.
+
+**(b) Move someone to Platform.** Verified in the org today and it is far narrower than
+previously stated. A Standard Platform User here can open **Account and Contact, and
+nothing else** — the rest of the profile is consent and privacy plumbing. No Opportunity,
+no Campaign, **no Case**, no Lead, no Solution. And **SunRise has no custom objects**, the
+other thing a Platform licence normally buys.
+
+> **New and it changes the option: the Wollongong service tech needs Cases, and Platform
+> has none.** The one hire who looked like a Platform candidate is not one. (b) now fits
+> a user whose entire job is Accounts and Contacts, and nobody on the list is that person.
+
+**(c) Leave the hires unprovisioned and say so out loud.** Free, and it is the status quo.
+**The cost is not the unprovisioned users — it is that the cost is being paid silently.**
+If chosen deliberately it is defensible; chosen by not answering it is not, because the
+people absorbing it do not know they are. Four notes drafted to send on the word: HR,
+Sarah, Jake, and the two hires.
+
+**(b) is explicitly NOT offered for Jack and Mia, and the note records that as a
+reversal.** It was Week 1's recommendation. CF-04 has since shown both variants damage
+data: Platform leaves each of them **owning 442 Opportunities ($939,904 open) their
+licence cannot open** — the identical wall Priya is standing at with Campaigns, pointed
+at the pipeline instead of a task list. Deactivating orphans the same 442. **CF-04 must
+be answered first; it gates this ticket.**
+
+**Also sharpened:** Jake having no user is no longer blocking one thing. It blocks the
+pipeline report (2.3), the duplicate queue owner (CF-07) **and** the six CF-02 calls.
+**Every open control in this org points at a man who cannot log in.**
 
 ---
 
@@ -279,14 +521,113 @@ Opportunities.
 and that is a one-line answer from Marcus rather than a guess — but the moment it is
 known this is a two-minute change.
 
-## CF-13 — Contact and Lead still run stock rules only
+## CF-13 — 134 of 137 Contacts are unmerged duplicates
 
-**From:** Ticket 2.2. Account now has three duplicate rules — phone (block), household
-name+street (alert), and the stock rule as a safety net. **Contact and Lead have only
-the stock fuzzy-name rule.**
+**Re-scoped 29/08. The original ticket had the premise wrong and the size wrong.**
 
-Ticket 2.1 merged Contact duplicates too, so the same argument almost certainly applies
-and has simply never been made. Worth doing before Week 3 adds more data.
+> **As written, this ticket said:** *"Contact and Lead still run stock rules only… Ticket
+> 2.1 merged Contact duplicates too, so the same argument almost certainly applies and has
+> simply never been made."*
+>
+> **Both halves are false.** `merge-log.md` contains **no occurrence of the word
+> "contact"** — Ticket 2.1 never touched the object. The three hits in the 2.1 audit are
+> the English word (*"at the next contact with that customer"*). And it is not a rules
+> problem: **the stock Contact rule is already active** with Alert + Report.
+
+### What the org actually says
+
+| | |
+|---|---|
+| Contacts | **137** |
+| Distinct emails among them | **40** |
+| Contacts sitting in duplicate groups | **134 — about 97%** |
+| Duplicate groups | **37**, most of them 4 records |
+| Contacts merged by Ticket 2.1 | **0** |
+| Duplicate Record Sets in the queue | **0** |
+
+A representative group — identical name, identical email, same parent Account, created
+**the same second** by the 17/08 seed load, differing only in phone:
+
+```
+Joshua Patel  joshua.patel682@example.com  (02) 4754 1806  Joshua Patel Residence
+Joshua Patel  joshua.patel682@example.com  (02) 5914 3046  Joshua Patel Residence
+Joshua Patel  joshua.patel682@example.com  (02) 7074 4286  Joshua Patel Residence
+Joshua Patel  joshua.patel682@example.com  (02) 8234 5526  Joshua Patel Residence
+```
+
+### Why the active rule caught none of them
+
+**Duplicate rules only fire on create and edit. They never scan data that already
+exists.** These 134 were bulk-loaded on 17/08 and the rule has had nothing to react to
+since. The queue reads 0 and the object looks clean.
+
+**This is the 2024 Account failure exactly**, on an object nobody has opened — except
+that in 2024 Salesforce at least *flagged* the duplicates and they went unread. Here
+nothing was ever flagged, so there is not even a list to ignore.
+
+### Lead needs nothing — do not build a rule for it
+
+**Zero Lead duplicates on email. Zero on phone.** Across 150 Leads. Building a Lead
+duplicate rule would be inventing a rule against no evidence, which is the precise
+substitution [ticket-2.1-data-quality-audit.md](ticket-2.1-data-quality-audit.md) §③ and
+§④ already record as the mistake. **The original ticket's "the same argument almost
+certainly applies" was an assumption, and the data does not support it.**
+
+### Blocked — and this is the first time CF-22 has blocked build work
+
+Merging 134 records needs a survivorship rule: which record survives, and what happens to
+the four different phone numbers in each group — the Account merge lost addresses exactly
+this way and produced CF-02. Under
+[sop-escalating-rule-changes.md](sop-escalating-rule-changes.md) that rule goes to Marcus
+**before** anything irreversible happens.
+
+**Marcus has no channel — see CF-22.** Until now that blocked reporting and escalation.
+**It now blocks a merge affecting 134 records.**
+
+**Evidence:** [`evidence/week-02/cf-13-contact-duplicates.csv`](../evidence/week-02/cf-13-contact-duplicates.csv)
+(all 137, sorted by email so the groups read at a glance) and
+[`evidence/week-02/cf-13-leads-no-duplicates.csv`](../evidence/week-02/cf-13-leads-no-duplicates.csv)
+(all 150 Leads — kept as the evidence for *not* building a rule, which is the harder
+thing to prove later).
+
+**Safe to do meanwhile, no approval needed:** build `CF-13 Contact duplicates by email` —
+a Contacts summary report grouped by Email, in SunRise Ops, alongside CF-01's. It reads
+40 groups over 137 records. **Surfacing them is not merging them**, and the read-side is
+what was missing in 2024.
+
+### Update 29/08 — the rule is written and tested. Nothing merged.
+
+**[cf-13-contact-merge-rule.md](cf-13-contact-merge-rule.md)** — awaiting Marcus.
+
+**The obvious survivorship rule was tested and it failed.** "The record with the most
+Cases" gives a **unique winner in 4 groups and ties in 33 of 37.** That is Ticket 2.1's
+*"most recent won Opportunity"* failure repeating — **except the test ran before the rule
+went to Marcus this time, not after he approved it.** That is the first time
+[sop-escalating-rule-changes.md](sop-escalating-rule-changes.md) has done the job it was
+written for.
+
+**And it turned out not to matter:** Salesforce reparents child records to the survivor
+on merge, so all **140 Cases** follow whichever Contact wins. The Cases were never at
+risk. The rule therefore declares the survivor choice **arbitrary** rather than dressing
+record age up as evidence — which is the mistake CF-02 records.
+
+**What is at risk is what differs:** **37 of 37 groups differ on phone, 21 of 37 differ
+on mailing address.**
+
+| Bucket | Groups | Action |
+|---|---|---|
+| **A** — phone conflict only | 16 | **Merge.** Discarded phones written to the survivor's Description first |
+| **B** — mailing address conflict | **21** | **HOLD.** Same reasoning as CF-20 |
+
+Bucket B is CF-02 before it happens. Six accounts carry an unconfirmed-address flag today
+because record age picked an address the org can no longer recover. **Repeating that on
+21 groups to finish a merge faster is not a trade worth making** — and it is Marcus's to
+refuse, not the admin's to take.
+
+> **A pattern worth naming: three separate holds now wait on customer contact that nobody
+> is rostered to make** — CF-02's six addresses, CF-20's ten pairs, and CF-13 Bucket B's
+> twenty-one groups. That is one job for one person, currently filed as three tickets
+> that each wait quietly.
 
 ## CF-14 — Week 1 evidence was never captured
 
@@ -398,3 +739,26 @@ That is precisely the failure Ticket 2.2 diagnosed: *Salesforce flagged the dupl
 in 2024, allowed them, and nobody opened the list.* The tooling built in Week 2 is
 better than what existed. **It fails the same way if nobody is rostered to look at it**,
 and right now nobody is.
+
+### And a fourth failure mode, added 29/08
+
+CF-02 found the one that is worse than an unread control: **a control that is read, and
+is answered by clearing it.**
+
+Six overdue high-priority flags were marked Completed with no call made, no address
+changed and no confirmation written down — and the CF-01 report, built two days earlier
+for the sole purpose of surfacing that work, agreed the problem was gone.
+
+**An unread control leaves the risk visible to anyone who eventually looks. A cleared
+one leaves the risk invisible and produces a record saying it was handled.** The second
+is harder to find and reads as evidence of good practice.
+
+The countermeasure is not more discipline, because the pressure that produced it — an
+overdue flag on an obligation that never had a real date — was manufactured by the
+control's own design. It is that **the object that gets cleared and the object that
+records the work should not be the same one.** Hence, for CF-02: the task is now undated
+and keeps the history, and the flag that carries the control sits on the Account.
+
+**CF-20's twenty Tasks dated 08/09 are the same shape and have not been rethought.**
+They are undated obligations wearing a date, on a register that now knows what that
+produces.

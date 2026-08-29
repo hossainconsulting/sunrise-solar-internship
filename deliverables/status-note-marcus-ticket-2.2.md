@@ -4,10 +4,23 @@
 
 ---
 
-## The line to post now
+## Delivery
 
-Per `sop-escalating-rule-changes.md`, this goes to Chatter the moment it is
-known, not into a document Marcus reads next week:
+> ⚠️ **Never sent. Added 29/08 — see CF-22.** This note said it would go "to Chatter the
+> moment it is known". **Marcus has no user account in this org**, so that route reached
+> nobody, and the note has sat here since 25/08 reading as though it had been delivered.
+
+| | |
+|---|---|
+| **To** | Marcus |
+| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **Resolved by CF-22.** |
+| **Audit copy** | Chatter on the duplicate rule record |
+
+## The message
+
+Per [sop-escalating-rule-changes.md](sop-escalating-rule-changes.md) this was to go the
+moment it was known, not into a document Marcus reads next week — **which makes four days
+of silence the finding, not the note's contents**:
 
 > *"Heads up — the phone rule you approved can't catch what's left. Nothing in
 > the org shares a phone number any more, but 13 addresses still hold two

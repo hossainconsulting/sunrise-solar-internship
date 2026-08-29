@@ -1,6 +1,8 @@
 # SOP — When an approved rule breaks
 
-**SunRise Solar · Owner: Hemayet Hossain · v1.0 — 25/08/2026**
+**SunRise Solar · Owner: Hemayet Hossain · v1.1 — 29/08/2026**
+*(v1.0 25/08/2026 · v1.1 29/08 — the delivery instruction was unexecutable; see
+"Where to send it")*
 
 **Scope:** one page. What to do the moment a rule someone signed off stops working
 against real data.
@@ -63,9 +65,65 @@ Four things, in one or two sentences. No document, no meeting.
 3. **What you propose instead** — a concrete substitute, not a question in the air
 4. **Ask** — "OK?"
 
-Post it where the approver will see it. In this org that is Chatter on the record
-or the ticket. Then keep working; you are informing, not requesting permission to
-breathe. If the change is irreversible, wait for the reply.
+Then keep working; you are informing, not requesting permission to breathe. If the
+change is irreversible, wait for the reply.
+
+## Where to send it
+
+> **v1.0 said: _"Post it where the approver will see it. In this org that is Chatter on
+> the record or the ticket."_ That instruction has never been executable, and it took
+> four weeks and six documents to notice.**
+
+**Marcus has no user account in this org.** Neither do Jake, Sarah or Zara. There are
+also **no Chatter groups** — none, not one. The only people who can receive a Chatter
+post here are Ben Carter, Jack Nguyen, Mia Kelly and Priya Sharma, three of whom have
+never logged in.
+
+So every escalation written in Weeks 1 and 2 was addressed to a channel that could not
+reach its recipient, and each one read as delivered because it had a **"line to post
+now"** at the top.
+
+### The rule that replaces it
+
+> **Before you write the line, confirm the recipient can receive it. Name the channel
+> in the note itself.**
+
+One check, once per recipient, and it takes ten seconds:
+
+1. **Setup → Users.** Is the approver there, and **Active**?
+2. If **yes** — Chatter on the record or the ticket, and @mention them. This is the
+   preferred route: it puts the message next to the data it is about, and it is visible
+   to whoever comes next.
+3. If **no** — Chatter is not a channel, it is a filing cabinet. **Send it by whatever
+   that person actually reads** (email, Teams, in person), and then **post the same text
+   to Chatter on the record anyway**, addressed to nobody.
+
+Step 3's second half is not busywork. Chatter is doing two jobs and only one of them
+needs the recipient to exist:
+
+| Job | Needs a user account |
+|---|---|
+| **Reaching** the approver | Yes |
+| **Leaving the reasoning beside the record** for whoever opens it next | No |
+
+The audit trail is worth having even when the notification is impossible. What is not
+acceptable is doing the second and believing you did the first.
+
+### What every status note must now carry
+
+Not *"the line to post now"* — that phrasing assumes the channel. Instead:
+
+> **To:** Marcus · **Channel:** email — *no user account in the org*
+> **Audit copy:** Chatter on `<record>`
+
+If the channel line cannot be filled in, the note is not finished.
+
+## The second test
+
+> **Can the person I am writing to actually receive this, today, by the route I have
+> written at the top of it?**
+
+If no, the note is a diary entry. Change the route before you send it.
 
 ## What it is not
 

@@ -1,0 +1,91 @@
+Id,What.Name,Status,Priority,ActivityDate,Owner.Name,LastModifiedDate,Description
+00TgK00000BTQVRUA5,Andrew J. Anderson Residence,Not Started,High,,Hemayet Hossain,2026-08-29T07:40:43.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Campbelltown
+Addresses discarded: Campbelltown / Chatswood / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv
+
+--- Update 29/08/2026 ---
+This task was marked Completed on 29/08/2026. No customer contact was made and no address was changed. That was an administrative closure to clear an overdue date, not a confirmation. Reopened the same day.
+
+Due date removed. This obligation has no date, it has a trigger: the next customer contact. The 27/08 date was invented when the task was created on 25/08 and is the reason closing it looked attractive.
+
+The standing control is now Account.Service_Address_Unconfirmed__c, which is visible on the account at the moment of contact and cannot be cleared by closing a task. Clear that checkbox only when the address has been confirmed with the customer, and record who confirmed it and when in these comments."
+00TgK00000BTQVSUA5,Daniel J. Clark Residence,Not Started,High,,Hemayet Hossain,2026-08-29T07:40:43.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Campbelltown
+Addresses discarded: Campbelltown / Chatswood / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv
+
+--- Update 29/08/2026 ---
+This task was marked Completed on 29/08/2026. No customer contact was made and no address was changed. That was an administrative closure to clear an overdue date, not a confirmation. Reopened the same day.
+
+Due date removed. This obligation has no date, it has a trigger: the next customer contact. The 27/08 date was invented when the task was created on 25/08 and is the reason closing it looked attractive.
+
+The standing control is now Account.Service_Address_Unconfirmed__c, which is visible on the account at the moment of contact and cannot be cleared by closing a task. Clear that checkbox only when the address has been confirmed with the customer, and record who confirmed it and when in these comments."
+00TgK00000BTQVTUA5,Joshua J. Patel Residence,Not Started,High,,Hemayet Hossain,2026-08-29T07:40:43.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Penrith
+Addresses discarded: Campbelltown / Chatswood / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv
+
+--- Update 29/08/2026 ---
+This task was marked Completed on 29/08/2026. No customer contact was made and no address was changed. That was an administrative closure to clear an overdue date, not a confirmation. Reopened the same day.
+
+Due date removed. This obligation has no date, it has a trigger: the next customer contact. The 27/08 date was invented when the task was created on 25/08 and is the reason closing it looked attractive.
+
+The standing control is now Account.Service_Address_Unconfirmed__c, which is visible on the account at the moment of contact and cannot be cleared by closing a task. Clear that checkbox only when the address has been confirmed with the customer, and record who confirmed it and when in these comments."
+00TgK00000BTQVUUA5,Lucas J. Tran Residence,Not Started,High,,Hemayet Hossain,2026-08-29T07:40:43.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Chatswood
+Addresses discarded: Campbelltown / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv
+
+--- Update 29/08/2026 ---
+This task was marked Completed on 29/08/2026. No customer contact was made and no address was changed. That was an administrative closure to clear an overdue date, not a confirmation. Reopened the same day.
+
+Due date removed. This obligation has no date, it has a trigger: the next customer contact. The 27/08 date was invented when the task was created on 25/08 and is the reason closing it looked attractive.
+
+The standing control is now Account.Service_Address_Unconfirmed__c, which is visible on the account at the moment of contact and cannot be cleared by closing a task. Clear that checkbox only when the address has been confirmed with the customer, and record who confirmed it and when in these comments."
+00TgK00000BTQVWUA5,Oliver J. Murphy Residence,Not Started,High,,Hemayet Hossain,2026-08-29T07:40:43.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Campbelltown
+Addresses discarded: Chatswood / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv
+
+--- Update 29/08/2026 ---
+This task was marked Completed on 29/08/2026. No customer contact was made and no address was changed. That was an administrative closure to clear an overdue date, not a confirmation. Reopened the same day.
+
+Due date removed. This obligation has no date, it has a trigger: the next customer contact. The 27/08 date was invented when the task was created on 25/08 and is the reason closing it looked attractive.
+
+The standing control is now Account.Service_Address_Unconfirmed__c, which is visible on the account at the moment of contact and cannot be cleared by closing a task. Clear that checkbox only when the address has been confirmed with the customer, and record who confirmed it and when in these comments."
+00TgK00000BTQVVUA5,Samuel J. Fitzgerald Residence,Not Started,High,,Hemayet Hossain,2026-08-29T07:40:43.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Chatswood
+Addresses discarded: Campbelltown / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv
+
+--- Update 29/08/2026 ---
+This task was marked Completed on 29/08/2026. No customer contact was made and no address was changed. That was an administrative closure to clear an overdue date, not a confirmation. Reopened the same day.
+
+Due date removed. This obligation has no date, it has a trigger: the next customer contact. The 27/08 date was invented when the task was created on 25/08 and is the reason closing it looked attractive.
+
+The standing control is now Account.Service_Address_Unconfirmed__c, which is visible on the account at the moment of contact and cannot be cleared by closing a task. Clear that checkbox only when the address has been confirmed with the customer, and record who confirmed it and when in these comments."

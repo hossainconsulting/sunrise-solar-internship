@@ -4,10 +4,23 @@
 
 ---
 
-## The line to post now
+## Delivery
 
-Per `sop-escalating-rule-changes.md`, this goes to Chatter the moment it is known,
-not into a document read next week:
+> ⚠️ **Never sent. Added 29/08 — see CF-22.** **Marcus has no user account in this org**,
+> so the Chatter route this note names reached nobody. **It opens with "Hold the licence
+> decision — it isn't safe yet." He never received that**, and CF-03 has been sitting
+> open on his desk ever since.
+
+| | |
+|---|---|
+| **To** | Marcus |
+| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **Resolved by CF-22.** |
+| **Audit copy** | Chatter on the pipeline report or one of the affected Opportunities |
+
+## The message
+
+Per [sop-escalating-rule-changes.md](sop-escalating-rule-changes.md) this was to go the
+moment it was known, not into a document read next week:
 
 > *"Hold the licence decision — it isn't safe yet. Jack and Mia own 221 Opportunities
 > each, $939,904 of open pipeline, despite never having logged in. Deactivating them

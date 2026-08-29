@@ -4,6 +4,37 @@
 
 ---
 
+## Delivery
+
+| | |
+|---|---|
+| **To** | Zara |
+| **Channel** | **Email — and it always was.** Zara emailed in (*"Zara, email, Wednesday · Subject: Campaign access"*) and the brief asks for *"a three-sentence email reply"*. **Her address is not recorded anywhere in this repo** — the same gap Marcus's was |
+| **Audit copy** | This document, committed |
+
+> **Zara does not need a Chatter account.** She was briefly listed in CF-22 as a sixth
+> document routed to Chatter, on a grep hit for the word in *"Can: … use Chatter"* — which
+> describes **Priya's** Platform-licence access, not a delivery route. **Corrected.** Her
+> channel was never broken; giving her a Chatter Free user would be building something she
+> never asked for and does not use.
+
+### Correction 29/08 — one sentence below was not true when it was written
+
+The draft says **"I've asked Marcus to decide between buying a licence or freeing one
+up."** Written 21/08. **Marcus was never asked** — he had no user account and every note
+addressed to him went to a Chatter feed he could not receive (CF-22).
+
+**That sentence became true today, 29/08**, when the licence decision reached him as
+[status-note-marcus-cf-03-licence-decision.md](status-note-marcus-cf-03-licence-decision.md).
+It had been sitting in a draft reply to a manager, as a statement of fact, for eight days.
+
+**This changes what is blocking the reply.** It was recorded as blocked on CF-03 — wrongly:
+the draft is written *for* the unresolved state and says so plainly. **What actually
+blocked it was that it contained a claim that was not yet true.** The only thing left is
+CF-11, the three-sentence version, which is Hemayet's to write.
+
+---
+
 **Subject:** Re: Campaign access
 
 Hi Zara — thanks, and welcome back to having an admin.

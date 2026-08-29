@@ -196,6 +196,23 @@ Written down so nobody discovers it in the Week 10 audit.
   the validation rule guard. Renaming them is a data job that should happen
   alongside the merge tail, not before it — renaming first would make the
   duplicates harder to spot, not easier.
-- **Contact and Lead still run stock rules only.** Ticket 2.1 merged Contact
+- ~~**Contact and Lead still run stock rules only.** Ticket 2.1 merged Contact
   duplicates too. The same argument probably applies there, and has not been
-  made.
+  made.~~
+
+  > **Corrected 29/08/2026 — both claims were wrong. See CF-13.**
+  >
+  > **Ticket 2.1 never touched the Contact object.** `merge-log.md` contains no
+  > occurrence of the word "contact"; the three hits in the 2.1 audit are the English
+  > word. This line assumed a merge that did not happen.
+  >
+  > **And it is not a rules problem.** The stock Contact rule is already active with
+  > Alert + Report. What is actually there: **137 Contacts, 40 distinct emails, 134
+  > sitting in duplicate groups.** The queue reads 0 because duplicate rules only fire
+  > on create and edit — they never scan data that already exists, and these were
+  > bulk-loaded on 17/08.
+  >
+  > **"The same argument probably applies" to Lead does not hold either.** Zero Lead
+  > duplicates on email, zero on phone, across 150 records. Building a rule on that
+  > assumption is the substitution §③/§④ of the 2.1 audit records as the mistake —
+  > which is why it is written down as a deliberate non-build rather than left open.

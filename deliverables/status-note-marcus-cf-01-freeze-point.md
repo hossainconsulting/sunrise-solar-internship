@@ -5,7 +5,20 @@ next week**
 
 ---
 
-## The line to post now
+## Delivery
+
+> ⚠️ **Never sent. Added 29/08 — see CF-22.** **Marcus has no user account in this org.**
+> This note exists because a date slipped and he needed telling *before he needed the
+> number*. **The freeze point passed on 27/08 and he still has not been told**, which is
+> the same failure the note was written to prevent, one layer up.
+
+| | |
+|---|---|
+| **To** | Marcus |
+| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **Resolved by CF-22.** |
+| **Audit copy** | Chatter on the CF-01 report |
+
+## The message
 
 > *"The customer number stays a range for the board pack — 41 to 51 households — not
 > the single figure I said you'd have by today. The ten name pairs it turns on need a

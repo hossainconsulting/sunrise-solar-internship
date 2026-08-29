@@ -1,0 +1,49 @@
+Id,What.Name,Subject,Status,Priority,ActivityDate,Owner.Name,CreatedDate,LastModifiedDate,Description
+00TgK00000BTQVRUA5,Andrew J. Anderson Residence,Confirm service address before next job - address chosen by record age during dedupe,Completed,High,2026-08-27,Hemayet Hossain,2026-08-24T16:09:20.000+0000,2026-08-29T04:29:37.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Campbelltown
+Addresses discarded: Campbelltown / Chatswood / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv"
+00TgK00000BTQVSUA5,Daniel J. Clark Residence,Confirm service address before next job - address chosen by record age during dedupe,Completed,High,2026-08-27,Hemayet Hossain,2026-08-24T16:09:20.000+0000,2026-08-29T07:15:23.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Campbelltown
+Addresses discarded: Campbelltown / Chatswood / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv"
+00TgK00000BTQVTUA5,Joshua J. Patel Residence,Confirm service address before next job - address chosen by record age during dedupe,Completed,High,2026-08-27,Hemayet Hossain,2026-08-24T16:09:20.000+0000,2026-08-29T07:18:21.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Penrith
+Addresses discarded: Campbelltown / Chatswood / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv"
+00TgK00000BTQVUUA5,Lucas J. Tran Residence,Confirm service address before next job - address chosen by record age during dedupe,Completed,High,2026-08-27,Hemayet Hossain,2026-08-24T16:09:20.000+0000,2026-08-29T07:20:26.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Chatswood
+Addresses discarded: Campbelltown / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv"
+00TgK00000BTQVWUA5,Oliver J. Murphy Residence,Confirm service address before next job - address chosen by record age during dedupe,Completed,High,2026-08-27,Hemayet Hossain,2026-08-24T16:09:20.000+0000,2026-08-29T07:22:20.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Campbelltown
+Addresses discarded: Chatswood / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv"
+00TgK00000BTQVVUA5,Samuel J. Fitzgerald Residence,Confirm service address before next job - address chosen by record age during dedupe,Completed,High,2026-08-27,Hemayet Hossain,2026-08-24T16:09:20.000+0000,2026-08-29T07:24:18.000+0000,"Service address on this account was NOT confirmed with the customer. It was selected during the 25/08/2026 deduplication by record age only, because no won Opportunity existed on any of the merged records to discriminate between them.
+
+Address retained: Chatswood
+Addresses discarded: Campbelltown / Penrith
+
+ACTION: confirm the service address with the customer at the next booking call, before any technician is dispatched. Update the account, then close this task with the confirmed address in the comments.
+
+Pre-merge detail: deliverables/merge-log.md and evidence/week-02/accounts-pre-merge-reconstructed.csv"

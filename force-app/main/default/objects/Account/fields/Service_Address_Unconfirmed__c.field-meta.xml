@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Service_Address_Unconfirmed__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>TRUE where the service address on this account was selected during the 25/08/2026 deduplication by record age alone, with no won Opportunity available to discriminate between the merged records. The discarded addresses are not recoverable from the org. Set on the six bucket-C accounts (CF-02). Clear it only after the address has been confirmed with the customer, and record the confirmation on the related task.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The service address on this account has never been confirmed with the customer — it was picked by record age during the 25/08/2026 merge. Confirm it before dispatching a technician, then clear this box.</inlineHelpText>
+    <label>Service Address Unconfirmed</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -167,7 +167,7 @@ mechanism for these six changed today, and he should not learn that from the bui
 | | |
 |---|---|
 | **To** | Marcus |
-| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **Resolved by CF-22.** |
+| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **Resolved by CF-22.** **⚠️ Superseded 01/09: Marcus Head is deactivated.** Live recipient is **Marcus Neil** (`005gK00007HBpc5QAD`, `hossainconsulting+marcus@gmail.com`), in the same group. Posts from 29/08 still @mention the dead account — see CF-22. |
 | **Audit copy** | Chatter on one of the six accounts |
 
 > *"The six address confirmations — I closed those tasks this morning to clear the

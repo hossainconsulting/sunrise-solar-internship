@@ -30,14 +30,48 @@ written by Hemayet.**
 > short answers. **CF-04 is the one with no recommendation, because there is no name to
 > give — and that is the finding, not a gap in the list.**
 >
-> ⚠️ **Marcus has not logged in and nothing has been read.** The channel is built and
+> ~~⚠️ **Marcus has not logged in and nothing has been read.** The channel is built and
 > **unproven**. Confirm `marcus.head@sunrise.hossain.dev` actually received the welcome
-> email before treating CF-22 as fully closed.
+> email before treating CF-22 as fully closed.~~
+>
+> **Superseded 01/09 — and the channel broke once more before it worked.** Three Marcus
+> accounts were created on 29/08. **`Marcus Lee` and `Marcus Head` are both deactivated**,
+> and deactivating Head **silently removed him from the group**, leaving it with one
+> member. Every post from 29/08 still @mentions Head — **dead mentions, in a group the
+> live Marcus was not in.** CF-22 recurring within hours of being closed.
+>
+> **Working channel as at 01/09: `Marcus Neil`** (`005gK00007HBpc5QAD`), Chatter Free,
+> in the group, **and he has actually logged in** — the first proven login by anyone but
+> Hemayet. His address is **`hossainconsulting+marcus@gmail.com`**, a real mailbox rather
+> than the fictional `@sunrise.hossain.dev` domain, which is why this attempt worked and
+> the previous two did not. A `START HERE` post with a live mention points him at the
+> decision list.
 >
 > **CF-13 was re-scoped and moved from 🟡 READY to 🟠 BLOCKED.** Its premise was wrong —
 > Ticket 2.1 never touched the Contact object — and **134 of 137 Contacts are unmerged
 > duplicates.** The merge needs a survivorship rule from Marcus, so **CF-22 is now
 > blocking build work, not only reporting.**
+
+## ⏱ As at 01/09/2026 — recount the clocks before you quote them
+
+**Everything below dated 27/08 or 29/08 is correct as written.** These are the counts
+that keep moving, recomputed today. **Nothing else in this document has been altered** —
+a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify the log.
+
+| Claim, as written | Written | **As at 01/09** |
+|---|---|---|
+| CF-03 *"Unanswered for 8 days"* | 27/08 | **13 days** |
+| CF-03 *"Ten days unanswered"* | 29/08 | **13 days** |
+| CF-20 *"Tasks dated for a fortnight away"* | 27/08 | **7 days — one week** |
+| *"3 are overdue or due today"* | 27/08 | Read the register, not the header |
+
+> **The one that matters: CF-20's twenty held pairs fall due 08/09 — a week from today,
+> not a fortnight.** They are the mechanism the **41–51 customer range** depends on, and
+> **CF-01's freeze point has already slipped once against exactly this date.** If those
+> twenty are not worked this week the same slip happens twice, and the second time it is
+> not a surprise.
+>
+> Marcus was told, in the corrected Chatter post of 01/09, that 08/09 is a week away.
 
 ---
 
@@ -744,7 +778,7 @@ Two corrections made to the version built in the UI:
 
 Three of these have a pattern in common — **CF-02, CF-07 and CF-20 are all controls that
 exist and are not being read.** Six overdue Tasks, an empty queue with no reader, twenty
-Tasks dated for a fortnight away.
+Tasks dated for a fortnight away *(written 27/08 — **as at 01/09 that is seven days**)*.
 
 That is precisely the failure Ticket 2.2 diagnosed: *Salesforce flagged the duplicates
 in 2024, allowed them, and nobody opened the list.* The tooling built in Week 2 is

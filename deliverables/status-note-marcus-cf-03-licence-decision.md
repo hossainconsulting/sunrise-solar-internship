@@ -8,12 +8,18 @@ and it has been running for ten days without anyone saying so.**
 
 ---
 
+> **⏱ As at 01/09/2026.** This note is dated 29/08 and is correct as written. One
+> count has moved: *"Raised 19/08. Unanswered for ten days"* is now **thirteen days**,
+> and (c) has been running that long. The licence position is unchanged — **Salesforce
+> still 4 of 4**, re-read from the org today. The three costs and the recommendation
+> stand.
+
 ## Delivery
 
 | | |
 |---|---|
 | **To** | Marcus |
-| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **Resolved by CF-22.** |
+| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **Resolved by CF-22.** **⚠️ Superseded 01/09: Marcus Head is deactivated.** Live recipient is **Marcus Neil** (`005gK00007HBpc5QAD`, `hossainconsulting+marcus@gmail.com`), in the same group. Posts from 29/08 still @mention the dead account — see CF-22. |
 | **Audit copy** | Chatter, addressed to nobody, so the reasoning sits in the org for whoever opens it next |
 
 Per [sop-escalating-rule-changes.md](sop-escalating-rule-changes.md) v1.1. **This note is

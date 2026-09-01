@@ -5,6 +5,12 @@
 
 ---
 
+> **⏱ As at 01/09/2026.** This note is dated 29/08 and is correct as written. Two counts
+> have moved since: *"unanswered for ten days"* is now **thirteen**, and the item 5
+> figures (26 / $323,840 at thirty days, 42 / $535,424 at fourteen) are now
+> **31 / $387,456** and **47 / $592,128**. A correction carrying both was posted to the
+> Chatter group on 01/09. The recommendations are unchanged.
+
 ## Delivery
 
 | | |

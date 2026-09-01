@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | **To** | Marcus |
-| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **This is the first approval request in the project with a working channel.** |
+| **Channel** | ✅ **`SunRise Ops — Escalations`** Chatter group (`0F9gK000000YDsTSAW`) — @mention **Marcus Head**, `marcus.head@sunrise.hossain.dev`, Chatter Free, created 29/08. **This is the first approval request in the project with a working channel.** **⚠️ Superseded 01/09: Marcus Head is deactivated.** Live recipient is **Marcus Neil** (`005gK00007HBpc5QAD`, `hossainconsulting+marcus@gmail.com`), in the same group. Posts from 29/08 still @mention the dead account — see CF-22. |
 | **Audit copy** | This document, committed |
 
 Per [sop-escalating-rule-changes.md](sop-escalating-rule-changes.md) v1.1. **This is an

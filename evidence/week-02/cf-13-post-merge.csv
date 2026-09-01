@@ -1,0 +1,179 @@
+Id,FirstName,LastName,Email,Phone,MailingStreet,MailingCity,Account.Name,Description
+003gK00000ybw4MQAQ,Amelia,Martin,amelia.martin713@example.com,(02) 4493 1527,188 Beach Rd,Wollongong,Amelia Martin,
+003gK00000ybw4tQAA,Andrew,Anderson,andrew.anderson775@example.com,(02) 5450 2550,111 Sunset Rd,Penrith,Andrew Anderson Residence,
+003gK00000ybw4FQAQ,Andrew,Anderson,andrew.anderson775@example.com,(02) 4290 1310,111 Sunset Rd,Campbelltown,Andrew Anderson Residence,
+003gK00000ybw6BQAQ,Andrew,Anderson,andrew.anderson775@example.com,(02) 7770 5030,111 Sunset Rd,Campbelltown,Andrew Anderson Residence,
+003gK00000ybw5XQAQ,Andrew,Anderson,andrew.anderson775@example.com,(02) 6610 3790,111 Sunset Rd,Chatswood,Andrew Anderson Residence,
+003gK00000ybw4QQAQ,Ava,Mancini,ava.mancini651@example.com,(02) 4609 1651,12 Railway Pde,Liverpool,Ava Mancini,
+003gK00000ybw69QAA,Benjamin,Walker,benjamin.walker775@example.com,(02) 7712 4968,89 Mill Lane,Ryde,Benjamin Walker Residence,
+003gK00000ybw4DQAQ,Benjamin,Walker,benjamin.walker775@example.com,(02) 4232 1248,89 Mill Lane,Ryde,Benjamin Walker Residence,
+003gK00000ybw5VQAQ,Benjamin,Walker,benjamin.walker775@example.com,(02) 6552 3728,89 Mill Lane,Castle Hill,Benjamin Walker Residence,
+003gK00000ybw4rQAA,Benjamin,Walker,benjamin.walker775@example.com,(02) 5392 2488,89 Mill Lane,Parramatta,Benjamin Walker Residence,
+003gK00000ybw5oQAA,Charlotte,King,charlotte.king744@example.com,(02) 7103 4317,78 Beach Rd,Bankstown,Charlotte King Residence,
+003gK00000ybw5AQAQ,Charlotte,King,charlotte.king744@example.com,(02) 5943 3077,78 Beach Rd,Blacktown,Charlotte King Residence,
+003gK00000ybw4WQAQ,Charlotte,King,charlotte.king744@example.com,(02) 4783 1837,78 Beach Rd,Baulkham Hills,Charlotte King Residence,
+003gK00000ybw4IQAQ,Chloe,Robinson,chloe.robinson744@example.com,(02) 4377 1403,144 Mill Lane,Cessnock,Chloe Robinson,
+003gK00000ybw5jQAA,Daniel,Clark,daniel.clark682@example.com,(02) 6958 4162,23 Beach Rd,Chatswood,Daniel Clark Residence,
+003gK00000ybw4RQAQ,Daniel,Clark,daniel.clark682@example.com,(02) 4638 1682,23 Beach Rd,Campbelltown,Daniel Clark Residence,
+003gK00000ybw55QAA,Daniel,Clark,daniel.clark682@example.com,(02) 5798 2922,23 Beach Rd,Penrith,Daniel Clark Residence,
+003gK00000ybw4XQAQ,David,Doyle,david.doyle651@example.com,(02) 4812 1868,89 Mill Lane,Castle Hill,David Doyle Residence,
+003gK00000ybw5BQAQ,David,Doyle,david.doyle651@example.com,(02) 5972 3108,89 Mill Lane,Ryde,David Doyle Residence,
+003gK00000ybw56QAA,Ella,Ahmed,ella.ahmed620@example.com,(02) 5827 2953,34 Mill Lane,Baulkham Hills,Ella Ahmed Residence,
+003gK00000ybw6OQAQ,Ella,Ahmed,ella.ahmed620@example.com,(02) 8147 5433,34 Mill Lane,Bankstown,Ella Ahmed Residence,
+003gK00000ybw4SQAQ,Ella,Ahmed,ella.ahmed620@example.com,(02) 4667 1713,34 Mill Lane,Bankstown,Ella Ahmed Residence,
+003gK00000ybw5kQAA,Ella,Ahmed,ella.ahmed620@example.com,(02) 6987 4193,34 Mill Lane,Blacktown,Ella Ahmed Residence,
+003gK00000ybw4aQAA,Emma,Jones,emma.jones620@example.com,(02) 4899 1961,122 Railway Pde,Charlestown,Emma Jones Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email emma.jones620@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4899 1961
+Phone numbers discarded by the merge: (02) 6059 3201, (02) 7219 4441
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw5lQAA,Ethan,Lee,ethan.lee589@example.com,(02) 7016 4224,45 Kurrajong Dr,Ryde,Ethan Lee Residence,
+003gK00000ybw4TQAQ,Ethan,Lee,ethan.lee589@example.com,(02) 4696 1744,45 Kurrajong Dr,Parramatta,Ethan Lee Residence,
+003gK00000ybw57QAA,Ethan,Lee,ethan.lee589@example.com,(02) 5856 2984,45 Kurrajong Dr,Castle Hill,Ethan Lee Residence,
+003gK00000ybw6PQAQ,Ethan,Lee,ethan.lee589@example.com,(02) 8176 5464,45 Kurrajong Dr,Parramatta,Ethan Lee Residence,
+003gK00000ybw4eQAA,Grace,Whitfield,grace.whitfield775@example.com,(02) 5015 2085,166 Sunset Rd,Warners Bay,Grace Whitfield Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email grace.whitfield775@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 5015 2085
+Phone numbers discarded by the merge: (02) 6175 3325, (02) 7335 4565
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw4cQAA,Hannah,Smith,hannah.smith682@example.com,(02) 4957 2023,144 Mill Lane,Singleton,Hannah Smith Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email hannah.smith682@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4957 2023
+Phone numbers discarded by the merge: (02) 6117 3263, (02) 7277 4503
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw5QQAQ,Harper,Thompson,harper.thompson775@example.com,(02) 6407 3573,34 Mill Lane,Bankstown,Harper Thompson Residence,
+003gK00000ybw48QAA,Harper,Thompson,harper.thompson775@example.com,(02) 4087 1093,34 Mill Lane,Baulkham Hills,Harper Thompson Residence,
+003gK00000ybw4mQAA,Harper,Thompson,harper.thompson775@example.com,(02) 5247 2333,34 Mill Lane,Blacktown,Harper Thompson Residence,
+003gK00000ybw64QAA,Harper,Thompson,harper.thompson775@example.com,(02) 7567 4813,34 Mill Lane,Baulkham Hills,Harper Thompson Residence,
+003gK00000ybw62QAA,Isabella,Hall,isabella.hall713@example.com,(02) 7509 4751,12 Railway Pde,Hornsby,Isabella Hall Residence,
+003gK00000ybw46QAA,Isabella,Hall,isabella.hall713@example.com,(02) 4029 1031,12 Railway Pde,Hornsby,Isabella Hall Residence,
+003gK00000ybw5OQAQ,Isabella,Hall,isabella.hall713@example.com,(02) 6349 3511,12 Railway Pde,Liverpool,Isabella Hall Residence,
+003gK00000ybw4kQAA,Isabella,Hall,isabella.hall713@example.com,(02) 5189 2271,12 Railway Pde,Hurstville,Isabella Hall Residence,
+003gK00000ybw4fQAA,Jack,White,jack.white620@example.com,(02) 5044 2116,177 Railway Pde,Wollongong,Jack White Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email jack.white620@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 5044 2116
+Phone numbers discarded by the merge: (02) 6204 3356, (02) 7364 4596
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw45QAA,James,Nguyen,james.nguyen682@example.com,(02) 4000 1000,1 Sunset Rd,Parramatta,James Nguyen Residence,
+003gK00000ybw61QAA,James,Nguyen,james.nguyen682@example.com,(02) 7480 4720,1 Sunset Rd,Parramatta,James Nguyen Residence,
+003gK00000ybw5NQAQ,James,Nguyen,james.nguyen682@example.com,(02) 6320 3480,1 Sunset Rd,Ryde,James Nguyen Residence,
+003gK00000ybw4jQAA,James,Nguyen,james.nguyen682@example.com,(02) 5160 2240,1 Sunset Rd,Castle Hill,James Nguyen Residence,
+003gK00000ybw4CQAQ,Jessica,Silva,jessica.silva713@example.com,(02) 4203 1217,78 Beach Rd,Blacktown,Jessica Silva Residence,
+003gK00000ybw5UQAQ,Jessica,Silva,jessica.silva713@example.com,(02) 6523 3697,78 Beach Rd,Baulkham Hills,Jessica Silva Residence,
+003gK00000ybw68QAA,Jessica,Silva,jessica.silva713@example.com,(02) 7683 4937,78 Beach Rd,Blacktown,Jessica Silva Residence,
+003gK00000ybw4qQAA,Jessica,Silva,jessica.silva713@example.com,(02) 5363 2457,78 Beach Rd,Bankstown,Jessica Silva Residence,
+003gK00000ybw5nQAA,Joshua,Patel,joshua.patel682@example.com,(02) 7074 4286,67 Railway Pde,Campbelltown,Joshua Patel Residence,
+003gK00000ybw4VQAQ,Joshua,Patel,joshua.patel682@example.com,(02) 4754 1806,67 Railway Pde,Penrith,Joshua Patel Residence,
+003gK00000ybw59QAA,Joshua,Patel,joshua.patel682@example.com,(02) 5914 3046,67 Railway Pde,Chatswood,Joshua Patel Residence,
+003gK00000ybw6RQAQ,Joshua,Patel,joshua.patel682@example.com,(02) 8234 5526,67 Railway Pde,Penrith,Joshua Patel Residence,
+003gK00000ybw4sQAA,Layla,Osman,layla.osman651@example.com,(02) 5421 2519,100 Kurrajong Dr,Hornsby,Layla Osman Residence,
+003gK00000ybw4EQAQ,Layla,Osman,layla.osman651@example.com,(02) 4261 1279,100 Kurrajong Dr,Liverpool,Layla Osman Residence,
+003gK00000ybw5WQAQ,Layla,Osman,layla.osman651@example.com,(02) 6581 3759,100 Kurrajong Dr,Hurstville,Layla Osman Residence,
+003gK00000ybw6AQAQ,Layla,Osman,layla.osman651@example.com,(02) 7741 4999,100 Kurrajong Dr,Liverpool,Layla Osman Residence,
+003gK00000ybw4NQAQ,Liam,Bennett,liam.bennett682@example.com,(02) 4522 1558,199 Mill Lane,Wollongong,Liam Bennett Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 4 duplicate Contacts sharing the email liam.bennett682@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4522 1558
+Phone numbers discarded by the merge: (02) 5682 2798, (02) 6842 4038, (02) 8002 5278
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw4iQAA,Lily,Kelly,lily.kelly620@example.com,(02) 5131 2209,210 Kurrajong Dr,Wollongong,Lily Kelly Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email lily.kelly620@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 5131 2209
+Phone numbers discarded by the merge: (02) 6291 3449, (02) 7451 4689
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw5rQAA,Lucas,Tran,lucas.tran620@example.com,(02) 7190 4410,111 Sunset Rd,Penrith,Lucas Tran Residence,
+003gK00000ybw4ZQAQ,Lucas,Tran,lucas.tran620@example.com,(02) 4870 1930,111 Sunset Rd,Chatswood,Lucas Tran Residence,
+003gK00000ybw5DQAQ,Lucas,Tran,lucas.tran620@example.com,(02) 6030 3170,111 Sunset Rd,Campbelltown,Lucas Tran Residence,
+003gK00000ybw4LQAQ,Matthew,Kaur,matthew.kaur682@example.com,(02) 4464 1496,177 Railway Pde,Wollongong,Matthew Kaur Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 4 duplicate Contacts sharing the email matthew.kaur682@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4464 1496
+Phone numbers discarded by the merge: (02) 5624 2736, (02) 6784 3976, (02) 7944 5216
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw4oQAA,Mia,Taylor,mia.taylor620@example.com,(02) 5305 2395,56 Sunset Rd,Liverpool,Mia Taylor Residence,
+003gK00000ybw4AQAQ,Mia,Taylor,mia.taylor620@example.com,(02) 4145 1155,56 Sunset Rd,Hurstville,Mia Taylor Residence,
+003gK00000ybw66QAA,Mia,Taylor,mia.taylor620@example.com,(02) 7625 4875,56 Sunset Rd,Hurstville,Mia Taylor Residence,
+003gK00000ybw5SQAQ,Mia,Taylor,mia.taylor620@example.com,(02) 6465 3635,56 Sunset Rd,Hornsby,Mia Taylor Residence,
+003gK00000ybw4dQAA,Michael,Young,michael.young713@example.com,(02) 4986 2054,155 Kurrajong Dr,Belmont,Michael Young Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email michael.young713@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4986 2054
+Phone numbers discarded by the merge: (02) 6146 3294, (02) 7306 4534
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw4bQAA,Nathan,Ryan,nathan.ryan651@example.com,(02) 4928 1992,133 Beach Rd,Newcastle,Nathan Ryan Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email nathan.ryan651@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4928 1992
+Phone numbers discarded by the merge: (02) 6088 3232, (02) 7248 4472
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw4HQAQ,Noah,Brown,noah.brown620@example.com,(02) 4348 1372,133 Beach Rd,Raymond Terrace,Noah Brown Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 4 duplicate Contacts sharing the email noah.brown620@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4348 1372
+Phone numbers discarded by the merge: (02) 5508 2612, (02) 6668 3852, (02) 7828 5092
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw67QAA,Oliver,Murphy,oliver.murphy713@example.com,(02) 7654 4906,67 Railway Pde,Chatswood,Oliver Murphy Residence,
+003gK00000ybw5TQAQ,Oliver,Murphy,oliver.murphy713@example.com,(02) 6494 3666,67 Railway Pde,Penrith,Oliver Murphy Residence,
+003gK00000ybw4BQAQ,Oliver,Murphy,oliver.murphy713@example.com,(02) 4174 1186,67 Railway Pde,Chatswood,Oliver Murphy Residence,
+003gK00000ybw4pQAA,Oliver,Murphy,oliver.murphy713@example.com,(02) 5334 2426,67 Railway Pde,Campbelltown,Oliver Murphy Residence,
+003gK00000ybw5mQAA,Olivia,Campbell,olivia.campbell775@example.com,(02) 7045 4255,56 Sunset Rd,Liverpool,Olivia Campbell Residence,
+003gK00000ybw58QAA,Olivia,Campbell,olivia.campbell775@example.com,(02) 5885 3015,56 Sunset Rd,Hurstville,Olivia Campbell Residence,
+003gK00000ybw4UQAQ,Olivia,Campbell,olivia.campbell775@example.com,(02) 4725 1775,56 Sunset Rd,Hornsby,Olivia Campbell Residence,
+003gK00000ybw6QQAQ,Olivia,Campbell,olivia.campbell775@example.com,(02) 8205 5495,56 Sunset Rd,Hornsby,Olivia Campbell Residence,
+003gK00000ybw6LQAQ,Robert,Chen,robert.chen651@example.com,(02) 8060 5340,1 Sunset Rd,Ryde,Robert Chen Residence,
+003gK00000ybw4PQAQ,Robert,Chen,robert.chen651@example.com,(02) 4580 1620,1 Sunset Rd,Ryde,Robert Chen Residence,
+003gK00000ybw5hQAA,Robert,Chen,robert.chen651@example.com,(02) 6900 4100,1 Sunset Rd,Castle Hill,Robert Chen Residence,
+003gK00000ybw53QAA,Robert,Chen,robert.chen651@example.com,(02) 5740 2860,1 Sunset Rd,Parramatta,Robert Chen Residence,
+003gK00000ybw5qQAA,Ruby,Harris,ruby.harris651@example.com,(02) 7161 4379,100 Kurrajong Dr,Hornsby,Ruby Harris Residence,
+003gK00000ybw6UQAQ,Ruby,Harris,ruby.harris651@example.com,(02) 8321 5619,100 Kurrajong Dr,Hurstville,Ruby Harris Residence,
+003gK00000ybw4YQAQ,Ruby,Harris,ruby.harris651@example.com,(02) 4841 1899,100 Kurrajong Dr,Hurstville,Ruby Harris Residence,
+003gK00000ybw5CQAQ,Ruby,Harris,ruby.harris651@example.com,(02) 6001 3139,100 Kurrajong Dr,Liverpool,Ruby Harris Residence,
+003gK00000ybw4hQAA,Ryan,Singh,ryan.singh620@example.com,(02) 5102 2178,199 Mill Lane,Wollongong,Ryan Singh Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email ryan.singh620@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 5102 2178
+Phone numbers discarded by the merge: (02) 6262 3418, (02) 7422 4658
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw5PQAQ,Samuel,Fitzgerald,samuel.fitzgerald837@example.com,(02) 6378 3542,23 Beach Rd,Campbelltown,Samuel Fitzgerald Residence,
+003gK00000ybw63QAA,Samuel,Fitzgerald,samuel.fitzgerald837@example.com,(02) 7538 4782,23 Beach Rd,Penrith,Samuel Fitzgerald Residence,
+003gK00000ybw4lQAA,Samuel,Fitzgerald,samuel.fitzgerald837@example.com,(02) 5218 2302,23 Beach Rd,Chatswood,Samuel Fitzgerald Residence,
+003gK00000ybw47QAA,Samuel,Fitzgerald,samuel.fitzgerald837@example.com,(02) 4058 1062,23 Beach Rd,Penrith,Samuel Fitzgerald Residence,
+003gK00000ybw4gQAA,Sarah,Barnes,sarah.barnes682@example.com,(02) 5073 2147,188 Beach Rd,Wollongong,Sarah Barnes Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 3 duplicate Contacts sharing the email sarah.barnes682@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 5073 2147
+Phone numbers discarded by the merge: (02) 6233 3387, (02) 7393 4627
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw4KQAQ,Sienna,Lewis,sienna.lewis682@example.com,(02) 4435 1465,166 Sunset Rd,Charlestown,Sienna Lewis Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 4 duplicate Contacts sharing the email sienna.lewis682@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4435 1465
+Phone numbers discarded by the merge: (02) 5595 2705, (02) 6755 3945, (02) 7915 5185
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw4OQAQ,Sophie,Wilson,sophie.wilson713@example.com,(02) 4551 1589,210 Kurrajong Dr,Wollongong,Sophie Wilson Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 4 duplicate Contacts sharing the email sophie.wilson713@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4551 1589
+Phone numbers discarded by the merge: (02) 5711 2829, (02) 6871 4069, (02) 8031 5309
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw5RQAQ,Thomas,Hughes,thomas.hughes713@example.com,(02) 6436 3604,45 Kurrajong Dr,Parramatta,Thomas Hughes Residence,
+003gK00000ybw65QAA,Thomas,Hughes,thomas.hughes713@example.com,(02) 7596 4844,45 Kurrajong Dr,Castle Hill,Thomas Hughes Residence,
+003gK00000ybw4nQAA,Thomas,Hughes,thomas.hughes713@example.com,(02) 5276 2364,45 Kurrajong Dr,Ryde,Thomas Hughes Residence,
+003gK00000ybw49QAA,Thomas,Hughes,thomas.hughes713@example.com,(02) 4116 1124,45 Kurrajong Dr,Castle Hill,Thomas Hughes Residence,
+003gK00000ybw4JQAQ,William,Kowalski,william.kowalski806@example.com,(02) 4406 1434,155 Kurrajong Dr,Maitland,William Kowalski Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 4 duplicate Contacts sharing the email william.kowalski806@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4406 1434
+Phone numbers discarded by the merge: (02) 5566 2674, (02) 6726 3914, (02) 7886 5154
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."
+003gK00000ybw4GQAQ,Zoe,Foster,zoe.foster620@example.com,(02) 4319 1341,122 Railway Pde,Warners Bay,Zoe Foster Residence,"--- CF-13 merge 01/09/2026 ---
+This record survived a merge of 4 duplicate Contacts sharing the email zoe.foster620@example.com. They were identical but for phone number and were created in the same second by the 17/08/2026 seed load.
+Survivor chosen by oldest CreatedDate. THAT CHOICE WAS ARBITRARY and is recorded as such - record age carries no meaning here.
+Phone retained: (02) 4319 1341
+Phone numbers discarded by the merge: (02) 5479 2581, (02) 6639 3821, (02) 7799 5061
+Rule and approval: deliverables/cf-13-contact-merge-rule.md, FeedComment 0D7gK000000CH3VSAW."

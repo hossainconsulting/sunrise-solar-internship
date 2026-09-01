@@ -105,7 +105,7 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-11 | Zara's reply: the three-sentence version | W1 · 1.3 | 🟠 BLOCKED | Hemayet |
 | CF-12 | Jack and Mia have no role | W1 · 1.1 | 🟡 READY | — |
 | CF-13 | **134 of 137 Contacts are unmerged duplicates** *(re-scoped 29/08)* | W2 · 2.2 | ✅ **APPROVED 01/09** — merge 16, hold 21 | Run the merge |
-| CF-14 | Week 1 evidence was never captured | W1 | 🟡 READY | — |
+| CF-14 | ~~Week 1 evidence was never captured~~ **It was — and was declared lost unread** | W1 | ✅ **CORRECTED 01/09** | — |
 | CF-15 | The role hierarchy is Salesforce's US sample | W1 · 1.1 | 🟡 READY | — |
 | CF-16 | Default owner fields all point at the admin | W1 · 1.1 | 🟡 READY | — |
 | CF-17 | Ben's Manager is a placeholder | W1 · 1.1 | 🔵 DEFERRED | Real reporting line |
@@ -688,9 +688,42 @@ be re-photographed.
 - `evidence/week-01/user-list.csv` — all 11 users with profile, role, last login,
   Marketing User flag and created date
 
-**Stated honestly:** these are today's state, not a pre-change snapshot. They are
+~~**Stated honestly:** these are today's state, not a pre-change snapshot. They are
 evidence of the licence wall being real, which is the claim that mattered — not
-evidence of what the org looked like on 19/08.
+evidence of what the org looked like on 19/08.~~
+
+### ⚠️ Reopened and corrected 01/09 — the pre-change evidence exists
+
+**This ticket declared evidence unrecoverable without checking whether it had been
+taken.** It had been. **Seven screenshots timestamped 19/08 21:35–21:45** were sitting in
+OneDrive the whole time, and are now committed to
+`evidence/week-01/screenshots-19-08/`.
+
+**`01-licences-before.png` is precisely the shot the brief asked for**, and it proves
+itself pre-change:
+
+| | 19/08 screenshot | Today |
+|---|---|---|
+| Salesforce | 4 total, **4 used, 0 remaining** | 4 of 4 |
+| **Salesforce Platform** | 6 total, **0 used** | **1 used** |
+| Primary Contact | **OrgFarm EPIC** | Hemayet |
+
+**Platform at zero used is the proof** — Priya, Alan and Lisa did not exist yet. Also
+captured: `02-ben-carter-before.png`, and the four default-owner screens
+(`web to lead`, `default lead owner` ×2, `Automated case user`, `default workflow user`)
+which are the **before** state for CF-16.
+
+**The finding is not the filing.** It is that *"those moments have passed and cannot be
+re-photographed"* was written **without opening the folder**. That is the pattern this
+register documents on every other page — CF-02, CF-07, CF-20, CF-22 are all *a thing
+exists and nobody reads it*. **Here the thing that went unread was the evidence that a
+ticket was about to declare lost.**
+
+> **And one detail nobody noticed for thirteen days:** the same screenshot shows
+> **Chatter Free — 5,000 total, 1 used, 4,999 remaining.** It was on screen on 19/08, in
+> the very image taken to document the licence wall. **CF-22's channel was free and
+> visible from the first day**, while the escalation route was treated as blocked on a
+> licence decision for four weeks.
 
 ## CF-15 — The role hierarchy is Salesforce's US sample
 

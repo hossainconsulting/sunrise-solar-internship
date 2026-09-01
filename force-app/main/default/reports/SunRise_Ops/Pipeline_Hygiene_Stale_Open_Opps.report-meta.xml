@@ -42,20 +42,39 @@
     <filter>
         <criteriaItems>
             <column>CLOSED</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>false</isUnlocked>
             <operator>equals</operator>
-            <value>false</value>
+            <value>0</value>
         </criteriaItems>
         <criteriaItems>
             <column>CLOSE_DATE</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>false</isUnlocked>
             <operator>lessThan</operator>
-            <value>TODAY</value>
+            <value>N_DAYS_AGO:30</value>
         </criteriaItems>
+        <language>en_US</language>
     </filter>
     <format>Tabular</format>
     <name>Pipeline Hygiene - Stale Open Opps</name>
+    <params>
+        <name>open</name>
+        <value>all</value>
+    </params>
+    <params>
+        <name>probability</name>
+        <value>&gt;0</value>
+    </params>
+    <params>
+        <name>co</name>
+        <value>1</value>
+    </params>
     <reportType>Opportunity</reportType>
     <scope>organization</scope>
     <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
     <sortColumn>CLOSE_DATE</sortColumn>
     <sortOrder>Asc</sortOrder>
     <timeFrameFilter>

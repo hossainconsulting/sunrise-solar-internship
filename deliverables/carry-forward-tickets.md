@@ -90,21 +90,21 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 
 | # | Ticket | From | Status | Blocked on |
 |---|---|---|---|---|
-| CF-01 | The customer-count freeze point passes today | W2 · 2.1 | 🟠 **NOTE DRAFTED** | Marcus to reply |
-| CF-02 | Six bucket-C address confirmations due today | W2 · 2.1 | 🟠 **CONTROL REBUILT** | Marcus to roster the calls |
+| CF-01 | The customer-count freeze point passes today | W2 · 2.1 | ✅ **ANSWERED 01/09** — publish the range | Tell Sarah |
+| CF-02 | Six bucket-C address confirmations due today | W2 · 2.1 | 🔴 **ANSWERED 01/09 — Hemayet makes the six calls this week** | 0 of 6 done |
 | CF-21 | Open-task visibility — report built | W2 · CF-01 | ✅ **DONE 27/08** | — |
 | CF-22 | Every escalation was addressed to a channel that cannot reach anyone | W1–W2 | ✅ **DONE 29/08** — channel built, six notes sent | — |
-| CF-03 | Licence decision — Salesforce is 4 of 4 | W1 · 1.1 | 🟠 **COSTED 29/08** | Marcus to pick one |
-| CF-04 | Who inherits the 666 unowned Opportunities | W2 · 2.3 | 🟠 BLOCKED | Marcus |
-| CF-05 | Stale-pipeline threshold: 30 days or 14 | W2 · 2.3 | 🟠 BLOCKED | Marcus |
-| CF-06 | Confirm Block-on-create for duplicate accounts | W2 · 2.2 | 🟠 BLOCKED | Marcus |
-| CF-07 | Roster an owner for the duplicate queue | W2 · 2.2 | 🟠 BLOCKED | Marcus |
+| CF-03 | Licence decision — Salesforce is 4 of 4 | W1 · 1.1 | ✅ **ANSWERED 01/09 — buy three.** Priya waits to October | Purchase |
+| CF-04 | Who inherits the 666 unowned Opportunities | W2 · 2.3 | ✅ **ANSWERED 01/09 — Jake, on licence** | Record custodianship |
+| CF-05 | Stale-pipeline threshold: 30 days or 14 | W2 · 2.3 | ✅ **30 DAYS — report done 01/09** | Align the 2.3 doc |
+| CF-06 | Confirm Block-on-create for duplicate accounts | W2 · 2.2 | ✅ **DONE 01/09 — keep blocking** | — |
+| CF-07 | Roster an owner for the duplicate queue | W2 · 2.2 | ✅ **ANSWERED 01/09 — Jake, Mondays** | Depends on CF-03 |
 | CF-08 | Four unwritten sections in the provisioning SOP | W1 · 1.1 | 🟠 BLOCKED | Hemayet |
 | CF-09 | The freeze-vs-deactivate paragraph | W1 · 1.2 | 🟠 BLOCKED | Hemayet |
 | CF-10 | Dormant-user review: the send decision | W1 · 1.2 | 🟠 BLOCKED | Hemayet |
 | CF-11 | Zara's reply: the three-sentence version | W1 · 1.3 | 🟠 BLOCKED | Hemayet |
 | CF-12 | Jack and Mia have no role | W1 · 1.1 | 🟡 READY | — |
-| CF-13 | **134 of 137 Contacts are unmerged duplicates** *(re-scoped 29/08)* | W2 · 2.2 | 🟠 BLOCKED | CF-22 → Marcus |
+| CF-13 | **134 of 137 Contacts are unmerged duplicates** *(re-scoped 29/08)* | W2 · 2.2 | ✅ **APPROVED 01/09** — merge 16, hold 21 | Run the merge |
 | CF-14 | Week 1 evidence was never captured | W1 | 🟡 READY | — |
 | CF-15 | The role hierarchy is Salesforce's US sample | W1 · 1.1 | 🟡 READY | — |
 | CF-16 | Default owner fields all point at the admin | W1 · 1.1 | 🟡 READY | — |

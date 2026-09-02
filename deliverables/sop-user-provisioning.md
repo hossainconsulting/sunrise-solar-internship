@@ -107,11 +107,16 @@ Three things that cost time on 19/08 and are worth knowing in advance:
 
 ### Freeze vs. deactivate
 
-> ✍️ **TODO — this is the paragraph that makes the SOP read as professional.**
-> Cover: freezing blocks login immediately but does **not** release the licence;
-> deactivating releases the licence but requires record transfer first. Say which
-> one you reach for during a contested exit while legal decides, and why.
-> *(Deliverable for Ticket 1.2 — expand there.)*
+**Written in full in [sop-user-deactivation.md](sop-user-deactivation.md) §"Freeze vs.
+deactivate" (v1.2, 02/09/2026)** — this TODO always said *"Deliverable for Ticket 1.2,
+expand there"*, and it now exists there. The short form:
+
+> **In a contested exit, freeze the same day.** It cuts login access just as immediately
+> as deactivation, but leaves the licence, ownership and exit-day record state untouched.
+> **Deactivation is the end of offboarding, never the start.**
+
+One rule, one home. Provisioning points at it rather than carrying a second copy that can
+drift out of step with the first.
 
 ### Order of operations when someone leaves
 

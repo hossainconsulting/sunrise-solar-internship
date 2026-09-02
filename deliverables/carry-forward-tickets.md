@@ -99,8 +99,8 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-05 | Stale-pipeline threshold: 30 days or 14 | W2 · 2.3 | ✅ **30 DAYS — report done 01/09** | Align the 2.3 doc |
 | CF-06 | Confirm Block-on-create for duplicate accounts | W2 · 2.2 | ✅ **DONE 01/09 — keep blocking** | — |
 | CF-07 | Roster an owner for the duplicate queue | W2 · 2.2 | ✅ **ANSWERED 01/09 — Jake, Mondays** | Depends on CF-03 |
-| CF-08 | Four unwritten sections in the provisioning SOP | W1 · 1.1 | 🟠 BLOCKED | Hemayet |
-| CF-09 | The freeze-vs-deactivate paragraph | W1 · 1.2 | 🟠 BLOCKED | Hemayet |
+| CF-08 | ~~Four~~ **Three** unwritten sections in the provisioning SOP *(§7 closed by CF-09)* | W1 · 1.1 | 🟠 BLOCKED | Hemayet |
+| CF-09 | The freeze-vs-deactivate paragraph | W1 · 1.2 | ✅ **WRITTEN 02/09** — SOP now v1.2 | — |
 | CF-10 | Dormant-user review: the send decision | W1 · 1.2 | 🟠 BLOCKED | Hemayet |
 | CF-11 | Zara's reply: the three-sentence version | W1 · 1.3 | 🟠 BLOCKED | Hemayet |
 | CF-12 | Jack and Mia have no role | W1 · 1.1 | 🟡 READY | — |

@@ -1,6 +1,8 @@
 # SOP — Deactivating a departing user
 
-**SunRise Solar · Owner: Hemayet Hossain · v1.1 — 26/08/2026**
+**SunRise Solar · Owner: Hemayet Hossain · v1.2 — 02/09/2026**
+*(v1.0 19/08 · v1.1 26/08 added the owned-records gate · v1.2 02/09 — the
+freeze-vs-deactivate paragraph, written by the SOP owner. CF-09 closed.)*
 
 **Scope:** removing access when someone leaves, without orphaning their records
 or stranding their licence. Companion to [sop-user-provisioning.md](sop-user-provisioning.md).
@@ -19,18 +21,18 @@ reads CLEAR.** Not "I checked the obvious objects" — CLEAR, from the script in
 >
 > Measured on 26/08, seven days later, that deactivated user still owns:
 >
-> | Object | Records | Notes |
-> |---|---|---|
-> | Opportunity | **224** | **38 still open, worth $481,280** — 25% of the entire open pipeline, owned by a disabled user and still in the forecast |
-> | EmailTemplate | 13 | |
-> | Solution | 10 | |
-> | **Total** | **247** | |
+> | Object        | Records | Notes                                                                                                                   |
+> | ------------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
+> | Opportunity   | **224** | **38 still open, worth $481,280** — 25% of the entire open pipeline, owned by a disabled user and still in the forecast |
+> | EmailTemplate | 13      |                                                                                                                         |
+> | Solution      | 10      |                                                                                                                         |
+> | **Total**     | **247** |                                                                                                                         |
 >
 > Two of those three object types are not on the v1.0 list and never would have been.
 > **A hand-written list of objects only catches the records you already thought of.**
 > v1.1 replaces the list with a script that asks the org.
 
-> An earlier draft of this SOP said *transfer → freeze → deactivate*, which
+> An earlier draft of this SOP said _transfer → freeze → deactivate_, which
 > contradicted its own numbered steps below. Freeze comes first, and the reason is
 > that the two actions answer different questions. **Freeze is a security decision
 > and it is urgent** — it stops login within seconds, costs nothing, and is
@@ -46,23 +48,15 @@ reads CLEAR.** Not "I checked the obvious objects" — CLEAR, from the script in
 
 ## Freeze vs. deactivate — read this before you touch anything
 
-> ✍️ **TODO — write this paragraph in your own words. It is the part of this SOP
-> that shows whether you understand access management or just know where the
-> buttons are.** Cover, at minimum:
->
-> - **Freeze** blocks login immediately and is instant and reversible. It does
->   **not** release the licence and does **not** affect record ownership.
-> - **Deactivate** releases the licence, but the user's record ownership, queue
->   membership and approval steps have to be dealt with first.
-> - Therefore: **freeze the moment access should stop** (that's a security
->   decision, and it's cheap), then deactivate once the record cleanup is done
->   (that's a licence decision, and it's not urgent).
-> - Contested exit, legal or HR still deciding, possible reinstatement, or an
->   investigation? **Freeze and stop there.** Deactivating destroys the tidy
->   picture of what they owned at the moment they left, and reversing it is not a
->   clean undo.
+**In a contested exit, freeze the same day.** It cuts login access just as immediately as
+deactivation, but leaves the licence, ownership, and exit-day record state untouched —
+one click to undo if legal reinstates them, and an intact answer if an investigator later
+asks what they owned when they left.
 
----
+**Deactivation is the end of offboarding, never the start.** I deactivated EPIC on 19/08
+without the gate and left 224 Opportunities and $481,280 of live pipeline owned by an
+inactive user, while Alan and Lisa on 21/08 went **transfer → freeze → deactivate** and
+left nothing stranded. **The order is the lesson.**
 
 ## Pre-flight — ask, don't assume
 
@@ -149,6 +143,7 @@ Opportunities and Cases follow Account ownership only if you tell them to; check
 the "transfer related" options rather than assuming.
 
 Not covered by Mass Transfer, so handle by hand:
+
 - [ ] Open approval requests — reassign or recall
 - [ ] Reports and dashboards where they are the running user
 - [ ] Account / Opportunity team memberships
@@ -207,9 +202,9 @@ Transfer first and none of that happens.
 ### This is not hypothetical — it happened here
 
 **OrgFarm EPIC, 19/08/2026.** Deactivated to recover a Salesforce licence. Every
-system *reference* was patiently cleared first — Case settings, lead assignment
+system _reference_ was patiently cleared first — Case settings, lead assignment
 rules, escalation rules, Web-to-Lead, the Default Workflow User — because Salesforce
-*refuses to deactivate* while those exist. Six blockers, one at a time. It felt
+_refuses to deactivate_ while those exist. Six blockers, one at a time. It felt
 thorough.
 
 **Salesforce never once mentioned record ownership, because record ownership does not
@@ -218,7 +213,7 @@ block deactivation.** Seven days later that user still owned 224 Opportunities,
 sitting in the forecast Jake was asked to produce in Ticket 2.3.
 
 **The lesson is the shape of the failure, not the number.** The org enforces the
-things that would break *it*, and is silent about the things that break *your data*.
+things that would break _it_, and is silent about the things that break _your data_.
 Anything Salesforce blocks you on, you will find. Anything it does not, you only find
 if you go looking — which is what Step 1 is for.
 

@@ -1,0 +1,891 @@
+Id,Name,StageName,Amount,CloseDate,IsClosed,Owner.Name,Owner.IsActive,Account.Name
+006gK00000MmBUjQAN,Amelia Martin Residence - 13.2kW Rooftop Solar,Id. Decision Makers,11520,2026-09-12,false,Hemayet Hossain,true,Amelia Martin
+006gK00000MlfzpQAB,Amelia Martin Residence - 13.2kW Rooftop Solar,Qualification,13312,2026-09-22,false,Hemayet Hossain,true,Amelia Martin
+006gK00000MmB22QAF,Andrew Anderson Residence - 13.2kW Rooftop Solar,Closed Won,11508,2026-02-15,true,Hemayet Hossain,true,Andrew Anderson Residence
+006gK00000MmBE8QAN,Andrew Anderson Residence - 13.2kW Rooftop Solar,Closed Lost,13805,2026-04-12,true,Hemayet Hossain,true,Andrew Anderson Residence
+006gK00000MmB7MQAV,Andrew Anderson Residence - 13.2kW Rooftop Solar,Closed Won,9277,2026-05-11,true,Hemayet Hossain,true,Andrew Anderson Residence
+006gK00000MmBC8QAN,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Lost,10713,2026-04-13,true,Hemayet Hossain,true,Ava Mancini
+006gK00000MmB5eQAF,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Lost,14659,2026-03-21,true,Hemayet Hossain,true,Ava Mancini
+006gK00000MmB5CQAV,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Lost,13289,2026-02-11,true,Hemayet Hossain,true,Ava Mancini
+006gK00000Mlg0LQAR,Ava Mancini Residence - 13.2kW Rooftop Solar,Needs Analysis,9472,2026-08-19,false,Hemayet Hossain,true,Ava Mancini
+006gK00000MmBCaQAN,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Lost,11817,2026-05-18,true,Hemayet Hossain,true,Ava Mancini
+006gK00000MmB3aQAF,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Won,13974,2026-01-22,true,Hemayet Hossain,true,Benjamin Walker Residence
+006gK00000MmBAWQA3,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Won,11265,2026-04-05,true,Hemayet Hossain,true,Benjamin Walker Residence
+006gK00000MmB42QAF,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Won,15344,2026-03-01,true,Hemayet Hossain,true,Benjamin Walker Residence
+006gK00000MmBAyQAN,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Won,12369,2026-05-10,true,Hemayet Hossain,true,Benjamin Walker Residence
+006gK00000MmBUPQA3,Charlotte King Residence - 13.2kW Rooftop Solar,Needs Analysis,15872,2026-10-22,false,Hemayet Hossain,true,Charlotte King Residence
+006gK00000MmBCCQA3,Charlotte King Residence - 13.2kW Rooftop Solar,Closed Lost,8173,2026-05-27,true,Hemayet Hossain,true,Charlotte King Residence
+006gK00000MmB5GQAV,Charlotte King Residence - 13.2kW Rooftop Solar,Closed Lost,10138,2026-03-27,true,Hemayet Hossain,true,Charlotte King Residence
+006gK00000MmB4MQAV,Charlotte King Residence - 13.2kW Rooftop Solar,Closed Won,15207,2026-01-10,true,Hemayet Hossain,true,Charlotte King Residence
+006gK00000MlfzVQAR,Charlotte King Residence - 13.2kW Rooftop Solar,Prospecting,9856,2026-11-01,false,Hemayet Hossain,true,Charlotte King Residence
+006gK00000MmBBIQA3,Charlotte King Residence - 13.2kW Rooftop Solar,Closed Won,12259,2026-06-17,true,Hemayet Hossain,true,Charlotte King Residence
+006gK00000MmBUXQA3,Chloe Robinson Residence - 13.2kW Rooftop Solar,Needs Analysis,11008,2026-09-06,false,Hemayet Hossain,true,Chloe Robinson
+006gK00000MlfzdQAB,Chloe Robinson Residence - 13.2kW Rooftop Solar,Qualification,12800,2026-09-16,false,Hemayet Hossain,true,Chloe Robinson
+006gK00000MmBEOQA3,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Lost,9940,2026-04-06,true,Hemayet Hossain,true,Daniel Clark Residence
+006gK00000MmBDUQA3,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Lost,14026,2026-04-27,true,Hemayet Hossain,true,Daniel Clark Residence
+006gK00000MmB1OQAV,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Won,11782,2026-02-25,true,Hemayet Hossain,true,Daniel Clark Residence
+006gK00000MmB6YQAV,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Lost,17399,2026-03-07,true,Hemayet Hossain,true,Daniel Clark Residence
+006gK00000MmB6iQAF,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Won,9498,2026-05-26,true,Hemayet Hossain,true,Daniel Clark Residence
+006gK00000MmB2IQAV,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Won,14522,2026-02-11,true,Hemayet Hossain,true,Daniel Clark Residence
+006gK00000MmB7cQAF,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Won,11707,2026-05-05,true,Hemayet Hossain,true,Daniel Clark Residence
+006gK00000MmBEqQAN,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Lost,11044,2026-05-11,true,Hemayet Hossain,true,Daniel Clark Residence
+006gK00000MmBESQA3,David Doyle Residence - 13.2kW Rooftop Solar,Closed Lost,13695,2026-05-20,true,Hemayet Hossain,true,David Doyle Residence
+006gK00000MmB6cQAF,David Doyle Residence - 13.2kW Rooftop Solar,Closed Lost,14248,2026-01-20,true,Hemayet Hossain,true,David Doyle Residence
+006gK00000MmB6AQAV,David Doyle Residence - 13.2kW Rooftop Solar,Closed Lost,12878,2026-03-13,true,Hemayet Hossain,true,David Doyle Residence
+006gK00000MmB6mQAF,David Doyle Residence - 13.2kW Rooftop Solar,Closed Won,13253,2026-04-09,true,Hemayet Hossain,true,David Doyle Residence
+006gK00000MmBD6QAN,David Doyle Residence - 13.2kW Rooftop Solar,Closed Lost,10381,2026-05-06,true,Hemayet Hossain,true,David Doyle Residence
+006gK00000MmB1SQAV,David Doyle Residence - 13.2kW Rooftop Solar,Closed Won,16440,2026-01-10,true,Hemayet Hossain,true,David Doyle Residence
+006gK00000MmBDYQA3,David Doyle Residence - 13.2kW Rooftop Solar,Closed Lost,11486,2026-06-10,true,Hemayet Hossain,true,David Doyle Residence
+006gK00000MmBAaQAN,Ella Ahmed Residence - 13.2kW Rooftop Solar,Closed Won,8725,2026-05-19,true,Hemayet Hossain,true,Ella Ahmed Residence
+006gK00000MmB3eQAF,Ella Ahmed Residence - 13.2kW Rooftop Solar,Closed Won,10823,2026-03-07,true,Hemayet Hossain,true,Ella Ahmed Residence
+006gK00000MmBVBQA3,Ella Ahmed Residence - 13.2kW Rooftop Solar,Id. Decision Makers,10112,2026-11-15,false,Hemayet Hossain,true,Ella Ahmed Residence
+006gK00000Mlg0bQAB,Ella Ahmed Residence - 13.2kW Rooftop Solar,Id. Decision Makers,15360,2026-10-16,false,Hemayet Hossain,true,Ella Ahmed Residence
+006gK00000MmB9gQAF,Ella Ahmed Residence - 13.2kW Rooftop Solar,Closed Won,12811,2026-06-09,true,Hemayet Hossain,true,Ella Ahmed Residence
+006gK00000MlfzJQAR,Ella Ahmed Residence - 13.2kW Rooftop Solar,Id. Decision Makers,9344,2026-10-26,false,Hemayet Hossain,true,Ella Ahmed Residence
+006gK00000MmB2kQAF,Ella Ahmed Residence - 13.2kW Rooftop Solar,Closed Won,15892,2026-03-21,true,Hemayet Hossain,true,Ella Ahmed Residence
+006gK00000Mlg01QAB,Emma Jones Residence - 13.2kW Rooftop Solar,Needs Analysis,13824,2026-09-28,false,Hemayet Hossain,true,Emma Jones Residence
+006gK00000MmBUvQAN,Emma Jones Residence - 13.2kW Rooftop Solar,Prospecting,12032,2026-09-18,false,Hemayet Hossain,true,Emma Jones Residence
+006gK00000MmB5uQAF,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Lost,9864,2026-03-17,true,Hemayet Hossain,true,Ethan Lee Residence
+006gK00000MmBCqQAN,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Lost,7952,2026-05-12,true,Hemayet Hossain,true,Ethan Lee Residence
+006gK00000MmB4YQAV,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Lost,13563,2026-02-21,true,Hemayet Hossain,true,Ethan Lee Residence
+006gK00000MmB50QAF,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Lost,14933,2026-03-31,true,Hemayet Hossain,true,Ethan Lee Residence
+006gK00000MmBBUQA3,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Lost,10934,2026-04-28,true,Hemayet Hossain,true,Ethan Lee Residence
+006gK00000MmBBwQAN,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Lost,12038,2026-06-02,true,Hemayet Hossain,true,Ethan Lee Residence
+006gK00000MmBV7QAN,Grace Whitfield Residence - 13.2kW Rooftop Solar,Id. Decision Makers,12544,2026-09-24,false,Hemayet Hossain,true,Grace Whitfield Residence
+006gK00000MlfzFQAR,Grace Whitfield Residence - 13.2kW Rooftop Solar,Id. Decision Makers,11776,2026-09-04,false,Hemayet Hossain,true,Grace Whitfield Residence
+006gK00000Mlg0HQAR,Hannah Smith Residence - 13.2kW Rooftop Solar,Qualification,11904,2026-11-25,false,Hemayet Hossain,true,Hannah Smith Residence
+006gK00000MmBCGQA3,Harper Thompson Residence - 13.2kW Rooftop Solar,Closed Lost,11928,2026-04-10,true,Hemayet Hossain,true,Harper Thompson Residence
+006gK00000MlfzxQAB,Harper Thompson Residence - 13.2kW Rooftop Solar,Prospecting,16256,2026-08-07,false,Hemayet Hossain,true,Harper Thompson Residence
+006gK00000MmBDAQA3,Harper Thompson Residence - 13.2kW Rooftop Solar,Closed Lost,14136,2026-06-19,true,Hemayet Hossain,true,Harper Thompson Residence
+006gK00000MmB5KQAV,Harper Thompson Residence - 13.2kW Rooftop Solar,Closed Lost,14796,2026-02-09,true,Hemayet Hossain,true,Harper Thompson Residence
+006gK00000MmBUrQAN,Harper Thompson Residence - 13.2kW Rooftop Solar,Needs Analysis,14464,2026-07-28,false,Hemayet Hossain,true,Harper Thompson Residence
+006gK00000MmB6EQAV,Harper Thompson Residence - 13.2kW Rooftop Solar,Closed Lost,17536,2026-01-26,true,Hemayet Hossain,true,Harper Thompson Residence
+006gK00000MmB1iQAF,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Won,11645,2026-01-06,true,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MmB9YQAV,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Won,11596,2026-06-12,true,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MmBA0QAN,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Won,12701,2026-04-17,true,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MmB34QAF,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Won,15755,2026-01-30,true,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MmBEiQAN,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Lost,9829,2026-05-14,true,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MlfzhQAB,Isabella Hall Residence - 13.2kW Rooftop Solar,Id. Decision Makers,10368,2026-11-07,false,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MmB72QAF,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Won,9387,2026-04-03,true,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MmBUbQAN,Isabella Hall Residence - 13.2kW Rooftop Solar,Qualification,16384,2026-10-28,false,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MmB2cQAF,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Won,14385,2026-03-23,true,Hemayet Hossain,true,Isabella Hall Residence
+006gK00000MmB5WQAV,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Lost,13152,2026-03-23,true,Hemayet Hossain,true,James Nguyen Residence
+006gK00000MmBDoQAN,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Lost,13915,2026-06-04,true,Hemayet Hossain,true,James Nguyen Residence
+006gK00000MmB5yQAF,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Lost,14522,2026-01-30,true,Hemayet Hossain,true,James Nguyen Residence
+006gK00000MmBCuQAN,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Lost,11707,2026-06-25,true,Hemayet Hossain,true,James Nguyen Residence
+006gK00000MmBCSQA3,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Lost,10602,2026-05-21,true,Hemayet Hossain,true,James Nguyen Residence
+006gK00000MmB2gQAF,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Won,11234,2026-02-05,true,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmBEmQAN,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Lost,13584,2026-06-27,true,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmB1KQAV,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Won,14933,2026-01-12,true,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmBV3QAN,Jessica Silva Residence - 13.2kW Rooftop Solar,Qualification,14976,2026-08-03,false,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000Mlg09QAB,Jessica Silva Residence - 13.2kW Rooftop Solar,Id. Decision Makers,8960,2026-08-13,false,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MlfzBQAR,Jessica Silva Residence - 13.2kW Rooftop Solar,Qualification,14208,2026-07-14,false,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmB9cQAF,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Won,9056,2026-04-26,true,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmB76QAF,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Won,13142,2026-05-17,true,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmB1mQAF,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Won,16303,2026-02-19,true,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmB6eQAF,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Won,12038,2026-04-12,true,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmBDsQAN,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Lost,11375,2026-04-18,true,Hemayet Hossain,true,Jessica Silva Residence
+006gK00000MmBAqQAN,Joshua Patel Residence - 13.2kW Rooftop Solar,Closed Won,11154,2026-05-13,true,Hemayet Hossain,true,Joshua Patel Residence
+006gK00000MmB3uQAF,Joshua Patel Residence - 13.2kW Rooftop Solar,Closed Won,13837,2026-03-03,true,Hemayet Hossain,true,Joshua Patel Residence
+006gK00000MmB9wQAF,Joshua Patel Residence - 13.2kW Rooftop Solar,Closed Won,8946,2026-06-03,true,Hemayet Hossain,true,Joshua Patel Residence
+006gK00000MmB30QAF,Joshua Patel Residence - 13.2kW Rooftop Solar,Closed Won,11097,2026-03-17,true,Hemayet Hossain,true,Joshua Patel Residence
+006gK00000MmBDEQA3,Layla Osman Residence - 13.2kW Rooftop Solar,Closed Lost,11596,2026-05-03,true,Hemayet Hossain,true,Layla Osman Residence
+006gK00000MmB5qQAF,Layla Osman Residence - 13.2kW Rooftop Solar,Closed Lost,13015,2026-02-01,true,Hemayet Hossain,true,Layla Osman Residence
+006gK00000MmBBsQAN,Layla Osman Residence - 13.2kW Rooftop Solar,Closed Lost,8283,2026-04-19,true,Hemayet Hossain,true,Layla Osman Residence
+006gK00000MmB4wQAF,Layla Osman Residence - 13.2kW Rooftop Solar,Closed Lost,10275,2026-02-15,true,Hemayet Hossain,true,Layla Osman Residence
+006gK00000MmB6IQAV,Layla Osman Residence - 13.2kW Rooftop Solar,Closed Lost,14385,2026-03-11,true,Hemayet Hossain,true,Layla Osman Residence
+006gK00000Mlg0PQAR,Layla Osman Residence - 13.2kW Rooftop Solar,Prospecting,14848,2026-10-10,false,Hemayet Hossain,true,Layla Osman Residence
+006gK00000MmBCmQAN,Layla Osman Residence - 13.2kW Rooftop Solar,Closed Lost,10492,2026-06-28,true,Hemayet Hossain,true,Layla Osman Residence
+006gK00000MmBEeQAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,12369,2026-06-30,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB58QAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,16440,2026-03-29,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MlfzRQAR,Lily Kelly Residence - 13.2kW Rooftop Solar,Needs Analysis,12288,2026-09-10,false,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBULQA3,Lily Kelly Residence - 13.2kW Rooftop Solar,Qualification,10496,2026-08-31,false,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBEKQA3,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,12480,2026-05-23,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBE0QAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,12590,2026-04-15,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBDgQAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,12701,2026-06-07,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBDMQA3,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,12811,2026-04-30,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBD2QAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,12921,2026-06-22,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBCiQAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,13032,2026-05-15,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB1aQAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,10138,2026-01-08,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBCOQA3,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,13142,2026-04-07,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBC4QAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,13253,2026-05-30,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB1uQAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,10001,2026-02-17,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBBkQAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,13363,2026-04-22,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB2EQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,9864,2026-03-29,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBBQQA3,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,13474,2026-06-14,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBB6QAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,13584,2026-05-07,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB2YQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,17536,2026-02-07,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBAmQAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,13695,2026-06-29,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBASQA3,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,13805,2026-05-22,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB2sQAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,17399,2026-03-19,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBA8QAN,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,13915,2026-04-14,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB3CQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,17262,2026-01-28,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB9oQAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,14026,2026-06-06,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB9UQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,14136,2026-04-29,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB3WQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,17125,2026-03-09,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB7YQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,7952,2026-06-21,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB7EQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,8062,2026-05-14,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB3qQAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,16988,2026-01-18,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB6uQAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,8173,2026-04-06,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB4AQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Won,16851,2026-02-27,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB6QQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,15892,2026-03-09,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB4UQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,16714,2026-01-08,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB66QAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,16029,2026-01-28,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB5mQAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,16166,2026-03-19,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB4oQAF,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,16577,2026-02-17,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmB5SQAV,Lily Kelly Residence - 13.2kW Rooftop Solar,Closed Lost,16303,2026-02-07,true,Hemayet Hossain,true,Lily Kelly Residence
+006gK00000MmBBYQA3,Lucas Tran Residence - 13.2kW Rooftop Solar,Closed Lost,8393,2026-06-11,true,Hemayet Hossain,true,Lucas Tran Residence
+006gK00000MmB4cQAF,Lucas Tran Residence - 13.2kW Rooftop Solar,Closed Lost,10412,2026-01-06,true,Hemayet Hossain,true,Lucas Tran Residence
+006gK00000MmBBAQA3,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Won,11044,2026-06-20,true,Hemayet Hossain,true,Mia Taylor Residence
+006gK00000MmB4gQAF,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Lost,15070,2026-02-19,true,Hemayet Hossain,true,Mia Taylor Residence
+006gK00000MmBAGQA3,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Won,8835,2026-04-11,true,Hemayet Hossain,true,Mia Taylor Residence
+006gK00000Mlg0DQAR,Mia Taylor Residence - 13.2kW Rooftop Solar,Id. Decision Makers,14336,2026-10-04,false,Hemayet Hossain,true,Mia Taylor Residence
+006gK00000MmB4EQAV,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Won,13700,2026-01-12,true,Hemayet Hossain,true,Mia Taylor Residence
+006gK00000MmBBcQAN,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Lost,12148,2026-04-25,true,Hemayet Hossain,true,Mia Taylor Residence
+006gK00000MmBUnQAN,Mia Taylor Residence - 13.2kW Rooftop Solar,Qualification,9088,2026-11-03,false,Hemayet Hossain,true,Mia Taylor Residence
+006gK00000MmB3KQAV,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Won,10960,2026-01-26,true,Hemayet Hossain,true,Mia Taylor Residence
+006gK00000MmB1WQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,13289,2026-02-23,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBCeQAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,7236,2026-04-01,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBBMQA3,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,7581,2026-05-01,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBAOQA3,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,7839,2026-04-08,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB5iQAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,11508,2026-02-03,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB9kQAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,8011,2026-04-23,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBDIQA3,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,7064,2026-06-16,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB1qQAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,13152,2026-01-04,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBCyQAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,7150,2026-05-09,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBCKQA3,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,7322,2026-05-24,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBBgQAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,7494,2026-06-08,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB2AQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,13015,2026-02-13,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBDcQAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,6978,2026-04-24,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB4QQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,12056,2026-02-23,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB6MQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,11234,2026-01-24,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBB2QAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,7667,2026-06-23,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB2UQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,12878,2026-03-25,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB46QAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,12193,2026-01-14,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB6qQAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,8356,2026-05-23,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBAiQAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,7753,2026-05-16,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB5OQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,11645,2026-03-25,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB7AQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,8270,2026-06-30,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBC0QAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,7408,2026-04-16,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBDwQAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,6891,2026-06-01,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB2oQAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,12741,2026-02-03,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB62QAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,11371,2026-03-15,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB3mQAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,12330,2026-03-05,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB54QAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,11782,2026-02-13,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB7UQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,8184,2026-05-08,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBEaQAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,6719,2026-05-17,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB9QQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,8097,2026-06-15,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBA4QAN,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,7925,2026-05-31,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB4kQAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,11919,2026-01-04,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB38QAF,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,12604,2026-03-15,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmB3SQAV,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Won,12467,2026-01-24,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBEGQA3,Noah Brown Residence - 13.2kW Rooftop Solar,Closed Lost,6805,2026-04-09,true,Hemayet Hossain,true,Noah Brown Residence
+006gK00000MmBDQQA3,Oliver Murphy Residence - 13.2kW Rooftop Solar,Closed Lost,10271,2026-06-13,true,Hemayet Hossain,true,Oliver Murphy Residence
+006gK00000MmB5aQAF,Oliver Murphy Residence - 13.2kW Rooftop Solar,Closed Lost,10001,2026-02-05,true,Hemayet Hossain,true,Oliver Murphy Residence
+006gK00000MmBCWQA3,Oliver Murphy Residence - 13.2kW Rooftop Solar,Closed Lost,8062,2026-04-04,true,Hemayet Hossain,true,Oliver Murphy Residence
+006gK00000MmB6UQAV,Oliver Murphy Residence - 13.2kW Rooftop Solar,Closed Lost,12741,2026-01-22,true,Hemayet Hossain,true,Oliver Murphy Residence
+006gK00000MmB1eQAF,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Won,14796,2026-02-21,true,Hemayet Hossain,true,Olivia Campbell Residence
+006gK00000MlfzZQAR,Olivia Campbell Residence - 13.2kW Rooftop Solar,Needs Analysis,15232,2026-07-26,false,Hemayet Hossain,true,Olivia Campbell Residence
+006gK00000MmB26QAF,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Won,16166,2026-03-31,true,Hemayet Hossain,true,Olivia Campbell Residence
+006gK00000MmB6yQAF,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Won,11928,2026-05-20,true,Hemayet Hossain,true,Olivia Campbell Residence
+006gK00000MmBDkQAN,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Lost,10160,2026-04-21,true,Hemayet Hossain,true,Olivia Campbell Residence
+006gK00000MmBECQA3,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Lost,11265,2026-05-26,true,Hemayet Hossain,true,Olivia Campbell Residence
+006gK00000Mlg0XQAR,Olivia Campbell Residence - 13.2kW Rooftop Solar,Qualification,9984,2026-08-25,false,Hemayet Hossain,true,Olivia Campbell Residence
+006gK00000MmB7QQAV,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Won,13032,2026-06-24,true,Hemayet Hossain,true,Olivia Campbell Residence
+006gK00000MmB2wQAF,Robert Chen Residence - 13.2kW Rooftop Solar,Closed Won,14248,2026-02-01,true,Hemayet Hossain,true,Robert Chen Residence
+006gK00000MmB9sQAF,Robert Chen Residence - 13.2kW Rooftop Solar,Closed Won,11486,2026-04-20,true,Hemayet Hossain,true,Robert Chen Residence
+006gK00000MmBBEQA3,Robert Chen Residence - 13.2kW Rooftop Solar,Closed Won,8504,2026-05-04,true,Hemayet Hossain,true,Robert Chen Residence
+006gK00000MmB3OQAV,Robert Chen Residence - 13.2kW Rooftop Solar,Closed Won,15618,2026-03-11,true,Hemayet Hossain,true,Robert Chen Residence
+006gK00000MmB4IQAV,Robert Chen Residence - 13.2kW Rooftop Solar,Closed Won,10549,2026-02-25,true,Hemayet Hossain,true,Robert Chen Residence
+006gK00000MmBAKQA3,Robert Chen Residence - 13.2kW Rooftop Solar,Closed Won,12590,2026-05-25,true,Hemayet Hossain,true,Robert Chen Residence
+006gK00000MmBUfQAN,Ruby Harris Residence - 13.2kW Rooftop Solar,Id. Decision Makers,13952,2026-07-22,false,Hemayet Hossain,true,Ruby Harris Residence
+006gK00000MmBACQA3,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Won,11375,2026-05-28,true,Hemayet Hossain,true,Ruby Harris Residence
+006gK00000MlfzlQAB,Ruby Harris Residence - 13.2kW Rooftop Solar,Id. Decision Makers,15744,2026-08-01,false,Hemayet Hossain,true,Ruby Harris Residence
+006gK00000MmB7gQAF,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Won,9167,2026-06-18,true,Hemayet Hossain,true,Ruby Harris Residence
+006gK00000MmB3GQAV,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Won,14111,2026-03-13,true,Hemayet Hossain,true,Ruby Harris Residence
+006gK00000MmB3iQAF,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Won,15481,2026-01-20,true,Hemayet Hossain,true,Ruby Harris Residence
+006gK00000MmB2MQAV,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Won,11371,2026-03-27,true,Hemayet Hossain,true,Ruby Harris Residence
+006gK00000MmBAeQAN,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Won,12480,2026-04-02,true,Hemayet Hossain,true,Ruby Harris Residence
+006gK00000MmB3yQAF,Samuel Fitzgerald Residence - 13.2kW Rooftop Solar,Closed Won,10686,2026-01-16,true,Hemayet Hossain,true,Samuel Fitzgerald Residence
+006gK00000MmB4sQAF,Samuel Fitzgerald Residence - 13.2kW Rooftop Solar,Closed Lost,13426,2026-01-02,true,Hemayet Hossain,true,Samuel Fitzgerald Residence
+006gK00000MmBBoQAN,Samuel Fitzgerald Residence - 13.2kW Rooftop Solar,Closed Lost,10823,2026-06-05,true,Hemayet Hossain,true,Samuel Fitzgerald Residence
+006gK00000MmBAuQAN,Samuel Fitzgerald Residence - 13.2kW Rooftop Solar,Closed Won,8614,2026-06-26,true,Hemayet Hossain,true,Samuel Fitzgerald Residence
+006gK00000Mlg0TQAR,Sarah Barnes Residence - 13.2kW Rooftop Solar,Needs Analysis,12416,2026-07-04,false,Hemayet Hossain,true,Sarah Barnes Residence
+006gK00000MmBUTQA3,Sienna Lewis Residence - 13.2kW Rooftop Solar,Prospecting,13440,2026-07-16,false,Hemayet Hossain,true,Sienna Lewis Residence
+006gK00000MlfztQAB,Sienna Lewis Residence - 13.2kW Rooftop Solar,Needs Analysis,10880,2026-11-13,false,Hemayet Hossain,true,Sienna Lewis Residence
+006gK00000Mlg05QAB,Sophie Wilson Residence - 13.2kW Rooftop Solar,Qualification,11392,2026-11-19,false,Hemayet Hossain,true,Sophie Wilson Residence
+006gK00000MmBUzQAN,Sophie Wilson Residence - 13.2kW Rooftop Solar,Needs Analysis,9600,2026-11-09,false,Hemayet Hossain,true,Sophie Wilson Residence
+006gK00000MmB7IQAV,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Won,11817,2026-06-27,true,Hemayet Hossain,true,Thomas Hughes Residence
+006gK00000MmB1yQAF,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Won,14659,2026-01-02,true,Hemayet Hossain,true,Thomas Hughes Residence
+006gK00000MmB2QQAV,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Won,16029,2026-02-09,true,Hemayet Hossain,true,Thomas Hughes Residence
+006gK00000MmBE4QAN,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Lost,10050,2026-05-29,true,Hemayet Hossain,true,Thomas Hughes Residence
+006gK00000MmB7kQAF,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Won,12921,2026-05-02,true,Hemayet Hossain,true,Thomas Hughes Residence
+006gK00000MmBEWQA3,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Lost,11154,2026-04-03,true,Hemayet Hossain,true,Thomas Hughes Residence
+006gK00000Mlg0fQAB,Zoe Foster Residence - 13.2kW Rooftop Solar,Id. Decision Makers,12928,2026-07-10,false,Hemayet Hossain,true,Zoe Foster Residence
+006gK00000MlfzNQAR,Zoe Foster Residence - 13.2kW Rooftop Solar,Qualification,14720,2026-07-20,false,Hemayet Hossain,true,Zoe Foster Residence
+006gK00000MlfzyQAB,Andrew Anderson Residence - 6.6kW Rooftop Solar,Qualification,13696,2026-08-20,false,Jack Nguyen,true,Andrew Anderson Residence
+006gK00000MmB5LQAV,Andrew Anderson Residence - 6.6kW Rooftop Solar,Closed Lost,12056,2026-02-20,true,Jack Nguyen,true,Andrew Anderson Residence
+006gK00000MmBUsQAN,Andrew Anderson Residence - 6.6kW Rooftop Solar,Needs Analysis,11904,2026-08-10,false,Jack Nguyen,true,Andrew Anderson Residence
+006gK00000MmBDBQA3,Andrew Anderson Residence - 6.6kW Rooftop Solar,Closed Lost,13554,2026-06-30,true,Jack Nguyen,true,Andrew Anderson Residence
+006gK00000MmBCHQA3,Andrew Anderson Residence - 6.6kW Rooftop Solar,Closed Lost,11044,2026-04-21,true,Jack Nguyen,true,Andrew Anderson Residence
+006gK00000MmB6FQAV,Andrew Anderson Residence - 6.6kW Rooftop Solar,Closed Lost,14796,2026-02-06,true,Jack Nguyen,true,Andrew Anderson Residence
+006gK00000MmBBBQA3,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Won,10040,2026-04-01,true,Jack Nguyen,true,Ava Mancini
+006gK00000MmBBdQAN,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Lost,11295,2026-05-06,true,Jack Nguyen,true,Ava Mancini
+006gK00000MmB4hQAF,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Lost,12330,2026-03-02,true,Jack Nguyen,true,Ava Mancini
+006gK00000MmB4FQAV,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Won,10960,2026-01-23,true,Jack Nguyen,true,Ava Mancini
+006gK00000MmBAHQA3,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Won,14684,2026-04-22,true,Jack Nguyen,true,Ava Mancini
+006gK00000MmB3LQAV,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Won,16029,2026-02-06,true,Jack Nguyen,true,Ava Mancini
+006gK00000MmB2dQAF,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Won,11645,2026-01-03,true,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MmB73QAF,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Won,15311,2026-04-14,true,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MmBEjQAN,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Lost,15813,2026-05-25,true,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MmB9ZQAV,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Won,10668,2026-06-23,true,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MmBUcQAN,Benjamin Walker Residence - 6.6kW Rooftop Solar,Id. Decision Makers,13824,2026-11-10,false,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MlfziQAB,Benjamin Walker Residence - 6.6kW Rooftop Solar,Qualification,15616,2026-11-20,false,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MmBA1QAN,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Won,11922,2026-04-28,true,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MmB1jQAF,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Won,16714,2026-01-17,true,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MmB35QAF,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Won,13015,2026-02-10,true,Jack Nguyen,true,Benjamin Walker Residence
+006gK00000MmB4JQAV,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Won,15618,2026-03-08,true,Jack Nguyen,true,Charlotte King Residence
+006gK00000MmB2xQAF,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Won,11508,2026-02-12,true,Jack Nguyen,true,Charlotte King Residence
+006gK00000MmB9tQAF,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Won,10542,2026-05-01,true,Jack Nguyen,true,Charlotte King Residence
+006gK00000MmB3PQAV,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Won,12878,2026-03-22,true,Jack Nguyen,true,Charlotte King Residence
+006gK00000MmBALQA3,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Won,11797,2026-06-05,true,Jack Nguyen,true,Charlotte King Residence
+006gK00000MmBBFQA3,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Won,14307,2026-05-15,true,Jack Nguyen,true,Charlotte King Residence
+006gK00000MmBDRQA3,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Lost,9162,2026-06-24,true,Jack Nguyen,true,Daniel Clark Residence
+006gK00000MmB5bQAF,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Lost,15070,2026-02-16,true,Jack Nguyen,true,Daniel Clark Residence
+006gK00000MlfzuQAB,Daniel Clark Residence - 6.6kW Rooftop Solar,Needs Analysis,16128,2026-11-26,false,Jack Nguyen,true,Daniel Clark Residence
+006gK00000MmBCXQA3,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Lost,13805,2026-04-15,true,Jack Nguyen,true,Daniel Clark Residence
+006gK00000MmB6VQAV,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Lost,10001,2026-02-02,true,Jack Nguyen,true,Daniel Clark Residence
+006gK00000MmBUUQA3,Daniel Clark Residence - 6.6kW Rooftop Solar,Qualification,10880,2026-07-29,false,Jack Nguyen,true,Daniel Clark Residence
+006gK00000MmB5fQAF,David Doyle Residence - 6.6kW Rooftop Solar,Closed Lost,11919,2026-01-01,true,Jack Nguyen,true,David Doyle Residence
+006gK00000MmBC9QAN,David Doyle Residence - 6.6kW Rooftop Solar,Closed Lost,9664,2026-04-24,true,Jack Nguyen,true,David Doyle Residence
+006gK00000MmB5DQAV,David Doyle Residence - 6.6kW Rooftop Solar,Closed Lost,10549,2026-02-22,true,Jack Nguyen,true,David Doyle Residence
+006gK00000MmBCbQAN,David Doyle Residence - 6.6kW Rooftop Solar,Closed Lost,10918,2026-05-29,true,Jack Nguyen,true,David Doyle Residence
+006gK00000Mlg0MQAR,David Doyle Residence - 6.6kW Rooftop Solar,Needs Analysis,14720,2026-09-01,false,Jack Nguyen,true,David Doyle Residence
+006gK00000MmBEnQAN,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Lost,12926,2026-04-08,true,Jack Nguyen,true,Ella Ahmed Residence
+006gK00000MmB9dQAF,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Won,14934,2026-05-07,true,Jack Nguyen,true,Ella Ahmed Residence
+006gK00000MmB77QAF,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Won,12424,2026-05-28,true,Jack Nguyen,true,Ella Ahmed Residence
+006gK00000MmB2hQAF,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Won,16303,2026-02-16,true,Jack Nguyen,true,Ella Ahmed Residence
+006gK00000MmBDtQAN,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Lost,10416,2026-04-29,true,Jack Nguyen,true,Ella Ahmed Residence
+006gK00000MmB6fQAF,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Won,11170,2026-04-23,true,Jack Nguyen,true,Ella Ahmed Residence
+006gK00000MmB1LQAV,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Won,12193,2026-01-23,true,Jack Nguyen,true,Ella Ahmed Residence
+006gK00000MmB1nQAF,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Won,13563,2026-03-02,true,Jack Nguyen,true,Ella Ahmed Residence
+006gK00000MmBAzQAN,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Won,11546,2026-05-21,true,Jack Nguyen,true,Ethan Lee Residence
+006gK00000MmB43QAF,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Won,12604,2026-03-12,true,Jack Nguyen,true,Ethan Lee Residence
+006gK00000MmBAXQA3,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Won,10291,2026-04-16,true,Jack Nguyen,true,Ethan Lee Residence
+006gK00000MmB3bQAF,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Won,11234,2026-02-02,true,Jack Nguyen,true,Ethan Lee Residence
+006gK00000MmBUkQAN,Ethan Lee Residence - 6.6kW Rooftop Solar,Needs Analysis,8960,2026-09-25,false,Jack Nguyen,true,Ethan Lee Residence
+006gK00000MlfzqQAB,Ethan Lee Residence - 6.6kW Rooftop Solar,Prospecting,10752,2026-10-05,false,Jack Nguyen,true,Ethan Lee Residence
+006gK00000MmBBJQA3,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Won,11420,2026-06-28,true,Jack Nguyen,true,Harper Thompson Residence
+006gK00000MmB3vQAF,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Won,11097,2026-03-14,true,Jack Nguyen,true,Harper Thompson Residence
+006gK00000MmBArQAN,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Won,10166,2026-05-24,true,Jack Nguyen,true,Harper Thompson Residence
+006gK00000MmB5HQAV,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Lost,15207,2026-01-07,true,Jack Nguyen,true,Harper Thompson Residence
+006gK00000MmBCDQA3,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Lost,13930,2026-06-07,true,Jack Nguyen,true,Harper Thompson Residence
+006gK00000MmB4NQAV,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Lost,12467,2026-01-21,true,Jack Nguyen,true,Harper Thompson Residence
+006gK00000MmBDlQAN,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Lost,9036,2026-05-02,true,Jack Nguyen,true,Isabella Hall Residence
+006gK00000MmB6zQAF,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Won,11044,2026-05-31,true,Jack Nguyen,true,Isabella Hall Residence
+006gK00000MmBCrQAN,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Lost,13680,2026-05-23,true,Jack Nguyen,true,Isabella Hall Residence
+006gK00000MmB5vQAF,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Lost,14933,2026-03-28,true,Jack Nguyen,true,Isabella Hall Residence
+006gK00000MmB1fQAF,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Won,12056,2026-03-04,true,Jack Nguyen,true,Isabella Hall Residence
+006gK00000MmBEDQA3,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Lost,10291,2026-06-06,true,Jack Nguyen,true,Isabella Hall Residence
+006gK00000MlfzmQAB,Jack White Residence - 6.6kW Rooftop Solar,Needs Analysis,13184,2026-08-14,false,Jack Nguyen,true,Jack White Residence
+006gK00000MmBUgQAN,Jack White Residence - 6.6kW Rooftop Solar,Qualification,11392,2026-08-04,false,Jack Nguyen,true,Jack White Residence
+006gK00000MmBBVQA3,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Lost,9914,2026-05-09,true,Jack Nguyen,true,James Nguyen Residence
+006gK00000MmBBxQAN,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Lost,11170,2026-06-13,true,Jack Nguyen,true,James Nguyen Residence
+006gK00000Mlg0IQAR,James Nguyen Residence - 6.6kW Rooftop Solar,Prospecting,9344,2026-07-11,false,Jack Nguyen,true,James Nguyen Residence
+006gK00000MmB4ZQAV,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Lost,10823,2026-03-04,true,Jack Nguyen,true,James Nguyen Residence
+006gK00000MmB51QAF,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Lost,12193,2026-01-11,true,Jack Nguyen,true,James Nguyen Residence
+006gK00000MmBDpQAN,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Lost,13303,2026-06-15,true,Jack Nguyen,true,Jessica Silva Residence
+006gK00000MmB5XQAV,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Lost,10412,2026-01-03,true,Jack Nguyen,true,Jessica Silva Residence
+006gK00000MmB5zQAF,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Lost,11782,2026-02-10,true,Jack Nguyen,true,Jessica Silva Residence
+006gK00000MmBCvQAN,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Lost,10793,2026-04-06,true,Jack Nguyen,true,Jessica Silva Residence
+006gK00000MmBCTQA3,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Lost,9538,2026-06-01,true,Jack Nguyen,true,Jessica Silva Residence
+006gK00000MmBV0QAN,Joshua Patel Residence - 6.6kW Rooftop Solar,Id. Decision Makers,14848,2026-11-22,false,Jack Nguyen,true,Joshua Patel Residence
+006gK00000MmB23QAF,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Won,16577,2026-02-26,true,Jack Nguyen,true,Joshua Patel Residence
+006gK00000MmB7NQAV,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Won,15186,2026-05-22,true,Jack Nguyen,true,Joshua Patel Residence
+006gK00000Mlg06QAB,Joshua Patel Residence - 6.6kW Rooftop Solar,Id. Decision Makers,16640,2026-07-05,false,Jack Nguyen,true,Joshua Patel Residence
+006gK00000MmBE9QAN,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Lost,13178,2026-04-23,true,Jack Nguyen,true,Joshua Patel Residence
+006gK00000MmBBpQAN,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Lost,9789,2026-06-16,true,Jack Nguyen,true,Layla Osman Residence
+006gK00000MmB3zQAF,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Won,15755,2026-01-27,true,Jack Nguyen,true,Layla Osman Residence
+006gK00000MmB4tQAF,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Lost,10686,2026-01-13,true,Jack Nguyen,true,Layla Osman Residence
+006gK00000MmBAvQAN,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Won,14432,2026-04-07,true,Jack Nguyen,true,Layla Osman Residence
+006gK00000MlfzOQAR,Liam Bennett Residence - 6.6kW Rooftop Solar,Prospecting,12160,2026-08-02,false,Jack Nguyen,true,Liam Bennett Residence
+006gK00000Mlg0gQAB,Liam Bennett Residence - 6.6kW Rooftop Solar,Needs Analysis,10368,2026-07-23,false,Jack Nguyen,true,Liam Bennett Residence
+006gK00000MmB3fQAF,Lucas Tran Residence - 6.6kW Rooftop Solar,Closed Won,15892,2026-03-18,true,Jack Nguyen,true,Lucas Tran Residence
+006gK00000MlfzKQAR,Lucas Tran Residence - 6.6kW Rooftop Solar,Needs Analysis,14592,2026-11-08,false,Jack Nguyen,true,Lucas Tran Residence
+006gK00000MmB9hQAF,Lucas Tran Residence - 6.6kW Rooftop Solar,Closed Won,12048,2026-06-20,true,Jack Nguyen,true,Lucas Tran Residence
+006gK00000MmB2lQAF,Lucas Tran Residence - 6.6kW Rooftop Solar,Closed Won,13152,2026-01-01,true,Jack Nguyen,true,Lucas Tran Residence
+006gK00000MmBAbQAN,Lucas Tran Residence - 6.6kW Rooftop Solar,Closed Won,14558,2026-05-30,true,Jack Nguyen,true,Lucas Tran Residence
+006gK00000Mlg0cQAB,Lucas Tran Residence - 6.6kW Rooftop Solar,Qualification,12800,2026-10-29,false,Jack Nguyen,true,Lucas Tran Residence
+006gK00000Mlg0QQAR,Matthew Kaur Residence - 6.6kW Rooftop Solar,Qualification,12288,2026-10-23,false,Jack Nguyen,true,Matthew Kaur Residence
+006gK00000MmBETQA3,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Lost,13052,2026-05-31,true,Jack Nguyen,true,Mia Taylor Residence
+006gK00000MmB3HQAV,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Won,11371,2026-03-24,true,Jack Nguyen,true,Mia Taylor Residence
+006gK00000MmB7hQAF,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Won,15060,2026-06-29,true,Jack Nguyen,true,Mia Taylor Residence
+006gK00000MmB2NQAV,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Won,16440,2026-01-07,true,Jack Nguyen,true,Mia Taylor Residence
+006gK00000MmBADQA3,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Won,10416,2026-06-08,true,Jack Nguyen,true,Mia Taylor Residence
+006gK00000MmB1XQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,10549,2026-03-06,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB1rQAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,10412,2026-01-15,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB2BQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,10275,2026-02-24,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB2VQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,10138,2026-01-05,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB2pQAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,10001,2026-02-14,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB39QAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,9864,2026-03-26,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB3TQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,17536,2026-02-04,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB3nQAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,17399,2026-03-16,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB47QAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,17262,2026-01-25,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB4RQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,17125,2026-03-06,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB4lQAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,16988,2026-01-15,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB55QAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,16851,2026-02-24,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB5PQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,16714,2026-01-05,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB5jQAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,16577,2026-02-14,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB63QAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,16440,2026-03-26,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB6NQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,16303,2026-02-04,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB6rQAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,7538,2026-06-03,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB7BQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,7440,2026-04-11,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB7VQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,7342,2026-05-19,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB9RQAV,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,7244,2026-06-26,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmB9lQAF,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,7146,2026-05-04,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBA5QAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,7048,2026-06-11,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBAPQA3,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,12530,2026-04-19,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBAjQAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,12432,2026-05-27,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBB3QAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,12334,2026-04-04,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBBNQA3,Michael Young Residence - 6.6kW Rooftop Solar,Closed Won,12236,2026-05-12,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBBhQAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,12138,2026-06-19,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBC1QAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,12040,2026-04-27,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBCLQA3,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,11943,2026-06-04,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBCfQAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,11845,2026-04-12,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBCzQAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,11747,2026-05-20,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBDJQA3,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,11649,2026-06-27,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBDdQAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,11551,2026-05-05,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBDxQAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,11453,2026-06-12,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBEHQA3,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,11355,2026-04-20,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBEbQAN,Michael Young Residence - 6.6kW Rooftop Solar,Closed Lost,11257,2026-05-28,true,Jack Nguyen,true,Michael Young Residence
+006gK00000MmBUQQA3,Michael Young Residence - 6.6kW Rooftop Solar,Needs Analysis,13312,2026-11-04,false,Jack Nguyen,true,Michael Young Residence
+006gK00000MlfzaQAB,Nathan Ryan Residence - 6.6kW Rooftop Solar,Id. Decision Makers,12672,2026-08-08,false,Jack Nguyen,true,Nathan Ryan Residence
+006gK00000Mlg0EQAR,Noah Brown Residence - 6.6kW Rooftop Solar,Needs Analysis,11776,2026-10-17,false,Jack Nguyen,true,Noah Brown Residence
+006gK00000MmBUoQAN,Noah Brown Residence - 6.6kW Rooftop Solar,Prospecting,14336,2026-11-16,false,Jack Nguyen,true,Noah Brown Residence
+006gK00000MmBAfQAN,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Won,11672,2026-04-13,true,Jack Nguyen,true,Oliver Murphy Residence
+006gK00000MlfzSQAR,Oliver Murphy Residence - 6.6kW Rooftop Solar,Needs Analysis,9728,2026-09-23,false,Jack Nguyen,true,Oliver Murphy Residence
+006gK00000MmBBZQA3,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Lost,14182,2026-06-22,true,Jack Nguyen,true,Oliver Murphy Residence
+006gK00000MmB4dQAF,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Lost,15481,2026-01-17,true,Jack Nguyen,true,Oliver Murphy Residence
+006gK00000MmBUMQA3,Oliver Murphy Residence - 6.6kW Rooftop Solar,Prospecting,15744,2026-09-13,false,Jack Nguyen,true,Oliver Murphy Residence
+006gK00000MmB3jQAF,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Won,12741,2026-01-31,true,Jack Nguyen,true,Oliver Murphy Residence
+006gK00000MmBDFQA3,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Lost,10668,2026-05-14,true,Jack Nguyen,true,Olivia Campbell Residence
+006gK00000MmBBtQAN,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Lost,14056,2026-04-30,true,Jack Nguyen,true,Olivia Campbell Residence
+006gK00000MmB6JQAV,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Lost,11645,2026-03-22,true,Jack Nguyen,true,Olivia Campbell Residence
+006gK00000MmB4xQAF,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Lost,15344,2026-02-26,true,Jack Nguyen,true,Olivia Campbell Residence
+006gK00000MmB5rQAF,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Lost,10275,2026-02-12,true,Jack Nguyen,true,Olivia Campbell Residence
+006gK00000MmBCnQAN,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Lost,9412,2026-04-09,true,Jack Nguyen,true,Olivia Campbell Residence
+006gK00000MlfzeQAB,Robert Chen Residence - 6.6kW Rooftop Solar,Id. Decision Makers,10240,2026-09-29,false,Jack Nguyen,true,Robert Chen Residence
+006gK00000MmBEXQA3,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Lost,10166,2026-04-14,true,Jack Nguyen,true,Robert Chen Residence
+006gK00000MmBUYQA3,Robert Chen Residence - 6.6kW Rooftop Solar,Id. Decision Makers,16256,2026-09-19,false,Jack Nguyen,true,Robert Chen Residence
+006gK00000MmB7JQAV,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Won,10918,2026-04-08,true,Jack Nguyen,true,Robert Chen Residence
+006gK00000MmB1zQAF,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Won,11919,2026-01-13,true,Jack Nguyen,true,Robert Chen Residence
+006gK00000MmBE5QAN,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Lost,16064,2026-06-09,true,Jack Nguyen,true,Robert Chen Residence
+006gK00000MmB9NQAV,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Won,12174,2026-05-13,true,Jack Nguyen,true,Robert Chen Residence
+006gK00000MmB2RQAV,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Won,13289,2026-02-20,true,Jack Nguyen,true,Robert Chen Residence
+006gK00000MmBEPQA3,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Lost,15938,2026-04-17,true,Jack Nguyen,true,Ruby Harris Residence
+006gK00000MmBDVQA3,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Lost,13428,2026-05-08,true,Jack Nguyen,true,Ruby Harris Residence
+006gK00000MmB6jQAF,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Won,15436,2026-06-06,true,Jack Nguyen,true,Ruby Harris Residence
+006gK00000MmB6ZQAV,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Lost,14659,2026-03-18,true,Jack Nguyen,true,Ruby Harris Residence
+006gK00000MmB1PQAV,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Won,16851,2026-03-08,true,Jack Nguyen,true,Ruby Harris Residence
+006gK00000MmB2JQAV,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Won,11782,2026-02-22,true,Jack Nguyen,true,Ruby Harris Residence
+006gK00000MmB7dQAF,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Won,10793,2026-05-16,true,Jack Nguyen,true,Ruby Harris Residence
+006gK00000MmB1bQAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,15207,2026-01-19,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB4pQAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,13837,2026-02-28,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBAnQAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,13052,2026-04-10,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBEfQAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,11546,2026-04-11,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB9VQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,13554,2026-05-10,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB3XQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,14385,2026-03-20,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB5nQAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,13426,2026-03-30,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB9pQAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,13428,2026-06-17,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBUwQAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Qualification,9472,2026-10-01,false,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBCjQAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,12299,2026-05-26,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBDhQAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,11922,2026-06-18,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBDNQA3,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,12048,2026-05-11,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBA9QAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,13303,2026-04-25,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB2ZQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,14796,2026-02-18,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB67QAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,13289,2026-02-08,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBCPQA3,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,12424,2026-04-18,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB4VQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,13974,2026-01-19,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBC5QAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,12550,2026-06-10,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBD3QAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,12174,2026-04-03,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB2tQAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,14659,2026-03-30,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB1vQAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,15070,2026-02-28,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB3DQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,14522,2026-02-08,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB6RQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,13152,2026-03-20,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB59QAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,13700,2026-01-09,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBE1QAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,11797,2026-04-26,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBATQA3,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,13178,2026-06-02,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB7FQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,13805,2026-05-25,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBBlQAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,12676,2026-05-03,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB4BQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,14111,2026-03-10,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBBRQA3,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,12801,2026-06-25,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB2FQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,14933,2026-01-09,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB3rQAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,14248,2026-01-29,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB7ZQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,13680,2026-04-02,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000Mlg02QAB,Ryan Singh Residence - 6.6kW Rooftop Solar,Id. Decision Makers,11264,2026-10-11,false,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB6vQAF,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,13930,2026-04-17,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBB7QAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Won,12926,2026-05-18,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmBELQA3,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,11672,2026-06-03,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB5TQAV,Ryan Singh Residence - 6.6kW Rooftop Solar,Closed Lost,13563,2026-02-18,true,Jack Nguyen,true,Ryan Singh Residence
+006gK00000MmB9xQAF,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Won,14809,2026-06-14,true,Jack Nguyen,true,Samuel Fitzgerald Residence
+006gK00000MmBV8QAN,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Qualification,9984,2026-10-07,false,Jack Nguyen,true,Samuel Fitzgerald Residence
+006gK00000MmB7RQAV,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Won,12299,2026-04-05,true,Jack Nguyen,true,Samuel Fitzgerald Residence
+006gK00000MmB31QAF,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Won,16166,2026-03-28,true,Jack Nguyen,true,Samuel Fitzgerald Residence
+006gK00000Mlg0YQAR,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Id. Decision Makers,15232,2026-09-07,false,Jack Nguyen,true,Samuel Fitzgerald Residence
+006gK00000MlfzGQAR,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Qualification,9216,2026-09-17,false,Jack Nguyen,true,Samuel Fitzgerald Residence
+006gK00000MmB27QAF,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Won,13426,2026-01-11,true,Jack Nguyen,true,Samuel Fitzgerald Residence
+006gK00000MmB6nQAF,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Won,12550,2026-04-20,true,Jack Nguyen,true,Thomas Hughes Residence
+006gK00000MlfzWQAR,Thomas Hughes Residence - 6.6kW Rooftop Solar,Qualification,15104,2026-11-14,false,Jack Nguyen,true,Thomas Hughes Residence
+006gK00000MmB1TQAV,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Won,13700,2026-01-21,true,Jack Nguyen,true,Thomas Hughes Residence
+006gK00000MmBD7QAN,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Lost,9287,2026-05-17,true,Jack Nguyen,true,Thomas Hughes Residence
+006gK00000MmBDZQA3,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Lost,10542,2026-06-21,true,Jack Nguyen,true,Thomas Hughes Residence
+006gK00000MmB6BQAV,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Lost,10138,2026-03-24,true,Jack Nguyen,true,Thomas Hughes Residence
+006gK00000Mlg0UQAR,Thomas Hughes Residence - 6.6kW Rooftop Solar,Id. Decision Makers,9856,2026-07-17,false,Jack Nguyen,true,Thomas Hughes Residence
+006gK00000MmBV4QAN,William Kowalski Residence - 6.6kW Rooftop Solar,Id. Decision Makers,12416,2026-08-16,false,Jack Nguyen,true,William Kowalski Residence
+006gK00000MlfzCQAR,William Kowalski Residence - 6.6kW Rooftop Solar,Id. Decision Makers,11648,2026-07-27,false,Jack Nguyen,true,William Kowalski Residence
+006gK00000Mlg0AQAR,William Kowalski Residence - 6.6kW Rooftop Solar,Qualification,14208,2026-08-26,false,Jack Nguyen,true,William Kowalski Residence
+006gK00000MmBUtQAN,Amelia Martin Residence - 13.2kW Rooftop Solar,Id. Decision Makers,9344,2026-08-23,false,Mia Kelly,true,Amelia Martin
+006gK00000MlfzzQAB,Amelia Martin Residence - 13.2kW Rooftop Solar,Id. Decision Makers,11136,2026-09-02,false,Mia Kelly,true,Amelia Martin
+006gK00000MmB3wQAF,Andrew Anderson Residence - 13.2kW Rooftop Solar,Closed Won,16166,2026-03-25,true,Mia Kelly,true,Andrew Anderson Residence
+006gK00000MmB5IQAV,Andrew Anderson Residence - 13.2kW Rooftop Solar,Closed Lost,12467,2026-01-18,true,Mia Kelly,true,Andrew Anderson Residence
+006gK00000MmBAsQAN,Andrew Anderson Residence - 13.2kW Rooftop Solar,Closed Won,14809,2026-06-04,true,Mia Kelly,true,Andrew Anderson Residence
+006gK00000MmBCEQA3,Andrew Anderson Residence - 13.2kW Rooftop Solar,Closed Lost,11420,2026-06-18,true,Mia Kelly,true,Andrew Anderson Residence
+006gK00000MlfzDQAR,Ava Mancini Residence - 13.2kW Rooftop Solar,Needs Analysis,9088,2026-08-09,false,Mia Kelly,true,Ava Mancini
+006gK00000MmB3IQAV,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Won,16440,2026-01-04,true,Mia Kelly,true,Ava Mancini
+006gK00000MmB7iQAF,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Won,12550,2026-04-10,true,Mia Kelly,true,Ava Mancini
+006gK00000Mlg0BQAR,Ava Mancini Residence - 13.2kW Rooftop Solar,Prospecting,11648,2026-09-08,false,Mia Kelly,true,Ava Mancini
+006gK00000MmB2OQAV,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Won,13700,2026-01-18,true,Mia Kelly,true,Ava Mancini
+006gK00000MmBEUQA3,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Lost,10542,2026-06-11,true,Mia Kelly,true,Ava Mancini
+006gK00000MmBAEQA3,Ava Mancini Residence - 13.2kW Rooftop Solar,Closed Won,15060,2026-06-19,true,Mia Kelly,true,Ava Mancini
+006gK00000MmBV5QAN,Ava Mancini Residence - 13.2kW Rooftop Solar,Needs Analysis,9856,2026-08-29,false,Mia Kelly,true,Ava Mancini
+006gK00000MmB70QAF,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Won,15688,2026-06-11,true,Mia Kelly,true,Benjamin Walker Residence
+006gK00000MmB1gQAF,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Won,17125,2026-03-15,true,Mia Kelly,true,Benjamin Walker Residence
+006gK00000MmBDmQAN,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Lost,13680,2026-05-13,true,Mia Kelly,true,Benjamin Walker Residence
+006gK00000MmB5wQAF,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Lost,12193,2026-01-08,true,Mia Kelly,true,Benjamin Walker Residence
+006gK00000MmBCsQAN,Benjamin Walker Residence - 13.2kW Rooftop Solar,Closed Lost,11170,2026-06-03,true,Mia Kelly,true,Benjamin Walker Residence
+006gK00000MlfzfQAB,Charlotte King Residence - 13.2kW Rooftop Solar,Needs Analysis,15488,2026-10-12,false,Mia Kelly,true,Charlotte King Residence
+006gK00000MmBE6QAN,Charlotte King Residence - 13.2kW Rooftop Solar,Closed Lost,13554,2026-06-20,true,Mia Kelly,true,Charlotte King Residence
+006gK00000MmB20QAF,Charlotte King Residence - 13.2kW Rooftop Solar,Closed Won,16988,2026-01-24,true,Mia Kelly,true,Charlotte King Residence
+006gK00000MmB7KQAV,Charlotte King Residence - 13.2kW Rooftop Solar,Closed Won,15562,2026-04-19,true,Mia Kelly,true,Charlotte King Residence
+006gK00000MmBUZQA3,Charlotte King Residence - 13.2kW Rooftop Solar,Qualification,13696,2026-10-02,false,Mia Kelly,true,Charlotte King Residence
+006gK00000MmBUNQA3,Chloe Robinson Residence - 13.2kW Rooftop Solar,Qualification,13184,2026-09-26,false,Mia Kelly,true,Chloe Robinson
+006gK00000MlfzTQAR,Chloe Robinson Residence - 13.2kW Rooftop Solar,Id. Decision Makers,14976,2026-10-06,false,Mia Kelly,true,Chloe Robinson
+006gK00000MmB4eQAF,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Lost,12741,2026-01-28,true,Mia Kelly,true,Daniel Clark Residence
+006gK00000MmBBaQAN,Daniel Clark Residence - 13.2kW Rooftop Solar,Closed Lost,11672,2026-04-03,true,Mia Kelly,true,Daniel Clark Residence
+006gK00000MmB4GQAV,David Doyle Residence - 13.2kW Rooftop Solar,Closed Won,16029,2026-02-03,true,Mia Kelly,true,David Doyle Residence
+006gK00000MmB3MQAV,David Doyle Residence - 13.2kW Rooftop Solar,Closed Won,13289,2026-02-17,true,Mia Kelly,true,David Doyle Residence
+006gK00000MmBAIQA3,David Doyle Residence - 13.2kW Rooftop Solar,Closed Won,12174,2026-05-03,true,Mia Kelly,true,David Doyle Residence
+006gK00000MmBBCQA3,David Doyle Residence - 13.2kW Rooftop Solar,Closed Won,14684,2026-04-12,true,Mia Kelly,true,David Doyle Residence
+006gK00000Mlg0RQAR,Ella Ahmed Residence - 13.2kW Rooftop Solar,Id. Decision Makers,9728,2026-11-05,false,Mia Kelly,true,Ella Ahmed Residence
+006gK00000MmBDqQAN,Ella Ahmed Residence - 13.2kW Rooftop Solar,Closed Lost,10793,2026-06-26,true,Mia Kelly,true,Ella Ahmed Residence
+006gK00000MmBCUQA3,Ella Ahmed Residence - 13.2kW Rooftop Solar,Closed Lost,14182,2026-06-12,true,Mia Kelly,true,Ella Ahmed Residence
+006gK00000MmB5YQAV,Ella Ahmed Residence - 13.2kW Rooftop Solar,Closed Lost,15481,2026-01-14,true,Mia Kelly,true,Ella Ahmed Residence
+006gK00000MmBUlQAN,Emma Jones Residence - 13.2kW Rooftop Solar,Needs Analysis,14208,2026-10-08,false,Mia Kelly,true,Emma Jones Residence
+006gK00000MmB74QAF,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Won,12801,2026-04-25,true,Mia Kelly,true,Ethan Lee Residence
+006gK00000MmB2eQAF,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Won,16714,2026-01-14,true,Mia Kelly,true,Ethan Lee Residence
+006gK00000MmB9aQAF,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Won,15311,2026-04-04,true,Mia Kelly,true,Ethan Lee Residence
+006gK00000MmBEkQAN,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Lost,13303,2026-06-05,true,Mia Kelly,true,Ethan Lee Residence
+006gK00000MmB1kQAF,Ethan Lee Residence - 13.2kW Rooftop Solar,Closed Won,13974,2026-01-28,true,Mia Kelly,true,Ethan Lee Residence
+006gK00000Mlg0NQAR,Grace Whitfield Residence - 13.2kW Rooftop Solar,Id. Decision Makers,12160,2026-09-14,false,Mia Kelly,true,Grace Whitfield Residence
+006gK00000MmBB0QAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7048,2026-06-01,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB5gQAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,16988,2026-01-12,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB4iQAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,17399,2026-03-13,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB60QAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,16851,2026-02-21,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB5MQAV,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,17125,2026-03-03,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB52QAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,17262,2026-01-22,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB6KQAV,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,16714,2026-01-02,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB4OQAV,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,17536,2026-02-01,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB6oQAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7831,2026-05-01,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB44QAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,9864,2026-03-23,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB78QAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7733,2026-06-08,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB3kQAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,10001,2026-02-11,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB7SQAV,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7635,2026-04-16,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB9OQAV,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7538,2026-05-24,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB3QQAV,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,10138,2026-01-02,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB9iQAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7440,2026-04-01,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBA2QAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7342,2026-05-09,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB36QAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,10275,2026-02-21,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBEYQA3,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,11551,2026-04-25,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBAMQA3,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7244,2026-06-16,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB2mQAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,10412,2026-01-12,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBAgQAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,7146,2026-04-24,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB2SQAV,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,10549,2026-03-03,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBEEQA3,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,11649,2026-06-17,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBBKQA3,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,12530,2026-04-09,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000Mlg07QAB,Hannah Smith Residence - 13.2kW Rooftop Solar,Needs Analysis,14080,2026-07-18,false,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB28QAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,10686,2026-01-22,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBBeQAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,12432,2026-05-17,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBV1QAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Qualification,12288,2026-07-08,false,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBByQAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,12334,2026-06-24,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBDuQAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,11747,2026-05-10,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB1oQAF,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,10823,2026-03-13,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBCIQA3,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,12236,2026-05-02,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBCcQAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,12138,2026-06-09,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmB1UQAV,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Won,10960,2026-02-01,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBCwQAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,12040,2026-04-17,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBDaQAN,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,11845,2026-04-02,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBDGQA3,Hannah Smith Residence - 13.2kW Rooftop Solar,Closed Lost,11943,2026-05-25,true,Mia Kelly,true,Hannah Smith Residence
+006gK00000MmBUhQAN,Harper Thompson Residence - 13.2kW Rooftop Solar,Prospecting,16640,2026-08-17,false,Mia Kelly,true,Harper Thompson Residence
+006gK00000MlfznQAB,Harper Thompson Residence - 13.2kW Rooftop Solar,Needs Analysis,10624,2026-08-27,false,Mia Kelly,true,Harper Thompson Residence
+006gK00000MmB9uQAF,Harper Thompson Residence - 13.2kW Rooftop Solar,Closed Won,15186,2026-05-12,true,Mia Kelly,true,Harper Thompson Residence
+006gK00000MmB2yQAF,Harper Thompson Residence - 13.2kW Rooftop Solar,Closed Won,16577,2026-02-23,true,Mia Kelly,true,Harper Thompson Residence
+006gK00000MmB4yQAF,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Lost,12604,2026-03-09,true,Mia Kelly,true,Isabella Hall Residence
+006gK00000MmBURQA3,Isabella Hall Residence - 13.2kW Rooftop Solar,Id. Decision Makers,10752,2026-11-17,false,Mia Kelly,true,Isabella Hall Residence
+006gK00000MmBBuQAN,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Lost,11546,2026-05-11,true,Mia Kelly,true,Isabella Hall Residence
+006gK00000MlfzrQAB,Isabella Hall Residence - 13.2kW Rooftop Solar,Qualification,16000,2026-10-18,false,Mia Kelly,true,Isabella Hall Residence
+006gK00000MmBCoQAN,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Lost,14056,2026-04-20,true,Mia Kelly,true,Isabella Hall Residence
+006gK00000MmB5sQAF,Isabella Hall Residence - 13.2kW Rooftop Solar,Closed Lost,15344,2026-02-23,true,Mia Kelly,true,Isabella Hall Residence
+006gK00000MmB2iQAF,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Won,13563,2026-02-27,true,Mia Kelly,true,James Nguyen Residence
+006gK00000MmBAYQA3,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Won,14934,2026-04-27,true,Mia Kelly,true,James Nguyen Residence
+006gK00000MmB9eQAF,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Won,12424,2026-05-18,true,Mia Kelly,true,James Nguyen Residence
+006gK00000MmB3cQAF,James Nguyen Residence - 13.2kW Rooftop Solar,Closed Won,16303,2026-02-13,true,Mia Kelly,true,James Nguyen Residence
+006gK00000Mlg0JQAR,Jessica Silva Residence - 13.2kW Rooftop Solar,Qualification,14592,2026-07-24,false,Mia Kelly,true,Jessica Silva Residence
+006gK00000MmB4aQAF,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Lost,15892,2026-03-15,true,Mia Kelly,true,Jessica Silva Residence
+006gK00000MmBBWQA3,Jessica Silva Residence - 13.2kW Rooftop Solar,Closed Lost,14558,2026-05-20,true,Mia Kelly,true,Jessica Silva Residence
+006gK00000MmBDCQA3,Joshua Patel Residence - 13.2kW Rooftop Solar,Closed Lost,11044,2026-04-11,true,Mia Kelly,true,Joshua Patel Residence
+006gK00000MmB6GQAV,Joshua Patel Residence - 13.2kW Rooftop Solar,Closed Lost,12056,2026-02-17,true,Mia Kelly,true,Joshua Patel Residence
+006gK00000MlfzHQAR,Layla Osman Residence - 13.2kW Rooftop Solar,Prospecting,14464,2026-09-30,false,Mia Kelly,true,Layla Osman Residence
+006gK00000Mlg0ZQAR,Layla Osman Residence - 13.2kW Rooftop Solar,Needs Analysis,12672,2026-09-20,false,Mia Kelly,true,Layla Osman Residence
+006gK00000MmB9yQAF,Layla Osman Residence - 13.2kW Rooftop Solar,Closed Won,12299,2026-06-25,true,Mia Kelly,true,Layla Osman Residence
+006gK00000MmB32QAF,Layla Osman Residence - 13.2kW Rooftop Solar,Closed Won,13426,2026-01-08,true,Mia Kelly,true,Layla Osman Residence
+006gK00000MmBV9QAN,Layla Osman Residence - 13.2kW Rooftop Solar,Prospecting,15232,2026-10-20,false,Mia Kelly,true,Layla Osman Residence
+006gK00000MlfzbQAB,Lily Kelly Residence - 13.2kW Rooftop Solar,Qualification,10112,2026-08-21,false,Mia Kelly,true,Lily Kelly Residence
+006gK00000MmBEoQAN,Lucas Tran Residence - 13.2kW Rooftop Solar,Closed Lost,10416,2026-04-19,true,Mia Kelly,true,Lucas Tran Residence
+006gK00000MmB6gQAF,Lucas Tran Residence - 13.2kW Rooftop Solar,Closed Won,15813,2026-05-04,true,Mia Kelly,true,Lucas Tran Residence
+006gK00000MmB1MQAV,Lucas Tran Residence - 13.2kW Rooftop Solar,Closed Won,17262,2026-02-03,true,Mia Kelly,true,Lucas Tran Residence
+006gK00000Mlg03QAB,Mia Taylor Residence - 13.2kW Rooftop Solar,Qualification,16512,2026-10-24,false,Mia Kelly,true,Mia Taylor Residence
+006gK00000MmB6aQAF,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Lost,11919,2026-03-29,true,Mia Kelly,true,Mia Taylor Residence
+006gK00000MmBUxQAN,Mia Taylor Residence - 13.2kW Rooftop Solar,Id. Decision Makers,14720,2026-10-14,false,Mia Kelly,true,Mia Taylor Residence
+006gK00000MmB1QQAV,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Won,14111,2026-03-19,true,Mia Kelly,true,Mia Taylor Residence
+006gK00000MmBEQQA3,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Lost,13428,2026-04-28,true,Mia Kelly,true,Mia Taylor Residence
+006gK00000MmBDWQA3,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Lost,10918,2026-05-19,true,Mia Kelly,true,Mia Taylor Residence
+006gK00000MmB6kQAF,Mia Taylor Residence - 13.2kW Rooftop Solar,Closed Won,12926,2026-06-17,true,Mia Kelly,true,Mia Taylor Residence
+006gK00000MmBAcQAN,Oliver Murphy Residence - 13.2kW Rooftop Solar,Closed Won,12048,2026-06-10,true,Mia Kelly,true,Oliver Murphy Residence
+006gK00000MmB2KQAV,Oliver Murphy Residence - 13.2kW Rooftop Solar,Closed Won,16851,2026-03-05,true,Mia Kelly,true,Oliver Murphy Residence
+006gK00000MmB3gQAF,Oliver Murphy Residence - 13.2kW Rooftop Solar,Closed Won,13152,2026-03-29,true,Mia Kelly,true,Oliver Murphy Residence
+006gK00000MmB7eQAF,Oliver Murphy Residence - 13.2kW Rooftop Solar,Closed Won,15436,2026-05-27,true,Mia Kelly,true,Oliver Murphy Residence
+006gK00000MmBBqQAN,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Lost,14432,2026-06-27,true,Mia Kelly,true,Olivia Campbell Residence
+006gK00000MmB40QAF,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Won,13015,2026-02-07,true,Mia Kelly,true,Olivia Campbell Residence
+006gK00000MmBAwQAN,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Won,11922,2026-04-18,true,Mia Kelly,true,Olivia Campbell Residence
+006gK00000MlfzPQAR,Olivia Campbell Residence - 13.2kW Rooftop Solar,Qualification,9600,2026-08-15,false,Mia Kelly,true,Olivia Campbell Residence
+006gK00000Mlg0hQAB,Olivia Campbell Residence - 13.2kW Rooftop Solar,Needs Analysis,15616,2026-08-05,false,Mia Kelly,true,Olivia Campbell Residence
+006gK00000MmB4uQAF,Olivia Campbell Residence - 13.2kW Rooftop Solar,Closed Lost,15755,2026-01-24,true,Mia Kelly,true,Olivia Campbell Residence
+006gK00000MmB6CQAV,Robert Chen Residence - 13.2kW Rooftop Solar,Closed Lost,15207,2026-01-04,true,Mia Kelly,true,Robert Chen Residence
+006gK00000MmBD8QAN,Robert Chen Residence - 13.2kW Rooftop Solar,Closed Lost,13930,2026-05-28,true,Mia Kelly,true,Robert Chen Residence
+006gK00000MmB5cQAF,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Lost,12330,2026-02-27,true,Mia Kelly,true,Ruby Harris Residence
+006gK00000MmBUVQA3,Ruby Harris Residence - 13.2kW Rooftop Solar,Id. Decision Makers,16128,2026-08-11,false,Mia Kelly,true,Ruby Harris Residence
+006gK00000MmBCYQA3,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Lost,11295,2026-04-26,true,Mia Kelly,true,Ruby Harris Residence
+006gK00000MlfzvQAB,Ruby Harris Residence - 13.2kW Rooftop Solar,Id. Decision Makers,13568,2026-07-12,false,Mia Kelly,true,Ruby Harris Residence
+006gK00000MmB6WQAV,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Lost,15070,2026-02-13,true,Mia Kelly,true,Ruby Harris Residence
+006gK00000MmBDSQA3,Ruby Harris Residence - 13.2kW Rooftop Solar,Closed Lost,13805,2026-04-05,true,Mia Kelly,true,Ruby Harris Residence
+006gK00000MmBEAQA3,Samuel Fitzgerald Residence - 13.2kW Rooftop Solar,Closed Lost,10668,2026-05-04,true,Mia Kelly,true,Samuel Fitzgerald Residence
+006gK00000MmB7OQAV,Samuel Fitzgerald Residence - 13.2kW Rooftop Solar,Closed Won,12676,2026-06-02,true,Mia Kelly,true,Samuel Fitzgerald Residence
+006gK00000MmB24QAF,Samuel Fitzgerald Residence - 13.2kW Rooftop Solar,Closed Won,13837,2026-03-09,true,Mia Kelly,true,Samuel Fitzgerald Residence
+006gK00000MmB3sQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11508,2026-02-09,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBAoQAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,10542,2026-04-21,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBEMQA3,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,9162,2026-06-14,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB2aQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,12056,2026-03-01,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBE2QAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,9287,2026-05-07,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB4qQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,11097,2026-03-11,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBAAQA3,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,10793,2026-05-06,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB4WQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,11234,2026-01-30,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB1cQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,12467,2026-01-30,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB6SQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,10412,2026-03-31,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB5AQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,10960,2026-01-20,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBD4QAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,9664,2026-04-14,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB1wQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,12330,2026-03-11,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB9WQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11044,2026-05-21,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000Mlg0dQAB,Sarah Barnes Residence - 13.2kW Rooftop Solar,Prospecting,10240,2026-11-11,false,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBCQQA3,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,9914,2026-04-29,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB6wQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11420,2026-04-28,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBB8QAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,10416,2026-05-29,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB9qQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,10918,2026-06-28,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB68QAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,10549,2026-02-19,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBAUQA3,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,10668,2026-06-13,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB4CQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11371,2026-03-21,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBCkQAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,9789,2026-06-06,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBDiQAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,9412,2026-06-29,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBBmQAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,10166,2026-05-14,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB3EQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11782,2026-02-19,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBC6QAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,10040,2026-06-21,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBDOQA3,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,9538,2026-05-22,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB7aQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11170,2026-04-13,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MlfzLQAR,Sarah Barnes Residence - 13.2kW Rooftop Solar,Needs Analysis,12032,2026-11-21,false,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB7GQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11295,2026-06-05,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBBSQA3,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,10291,2026-04-06,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB2GQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,12193,2026-01-20,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB5oQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,10686,2026-01-10,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB2uQAF,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11919,2026-01-10,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB3YQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Won,11645,2026-03-31,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmBEgQAN,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,9036,2026-04-22,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MmB5UQAV,Sarah Barnes Residence - 13.2kW Rooftop Solar,Closed Lost,10823,2026-03-01,true,Mia Kelly,true,Sarah Barnes Residence
+006gK00000MlfzjQAB,Sienna Lewis Residence - 13.2kW Rooftop Solar,Prospecting,13056,2026-07-06,false,Mia Kelly,true,Sienna Lewis Residence
+006gK00000MmBUdQAN,Sienna Lewis Residence - 13.2kW Rooftop Solar,Needs Analysis,11264,2026-11-23,false,Mia Kelly,true,Sienna Lewis Residence
+006gK00000Mlg0FQAR,Sophie Wilson Residence - 13.2kW Rooftop Solar,Needs Analysis,9216,2026-10-30,false,Mia Kelly,true,Sophie Wilson Residence
+006gK00000MmBUpQAN,Sophie Wilson Residence - 13.2kW Rooftop Solar,Qualification,11776,2026-07-02,false,Mia Kelly,true,Sophie Wilson Residence
+006gK00000MmBCAQA3,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Lost,14307,2026-05-05,true,Mia Kelly,true,Thomas Hughes Residence
+006gK00000MmB4KQAV,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Won,12878,2026-03-19,true,Mia Kelly,true,Thomas Hughes Residence
+006gK00000MmBBGQA3,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Won,11797,2026-05-26,true,Mia Kelly,true,Thomas Hughes Residence
+006gK00000MmB5EQAV,Thomas Hughes Residence - 13.2kW Rooftop Solar,Closed Lost,15618,2026-03-05,true,Mia Kelly,true,Thomas Hughes Residence
+006gK00000MlfzXQAR,Zoe Foster Residence - 13.2kW Rooftop Solar,Id. Decision Makers,12544,2026-11-27,false,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB7WQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,10964,2026-05-30,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB3AQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,14933,2026-01-06,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBEcQAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,9300,2026-06-08,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB5kQAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,13837,2026-02-25,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBA6QAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,10670,2026-06-22,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBD0QAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,9789,2026-05-31,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB3oQAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,14659,2026-03-27,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBAQQA3,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,10572,2026-04-30,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB2qQAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,15070,2026-02-25,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB4mQAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,14248,2026-01-26,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB7CQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,11062,2026-04-22,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBAkQAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,10474,2026-06-07,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB2WQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,15207,2026-01-16,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBDKQA3,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,9691,2026-04-08,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBEIQA3,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,9397,2026-05-01,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBB4QAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,10376,2026-04-15,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB6sQAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,11159,2026-06-14,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB48QAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,14522,2026-02-05,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBBOQA3,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,10278,2026-05-23,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB2CQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,15344,2026-03-07,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBBiQAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,10181,2026-06-30,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB56QAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,14111,2026-03-07,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB6OQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,13563,2026-02-15,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBC2QAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,10083,2026-05-08,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBDyQAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,9495,2026-06-23,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB1sQAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,15481,2026-01-26,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB4SQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,14385,2026-03-17,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000Mlg0VQAR,Zoe Foster Residence - 13.2kW Rooftop Solar,Qualification,15104,2026-07-30,false,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBCMQA3,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,9985,2026-06-15,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB1YQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,15618,2026-03-17,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB64QAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,13700,2026-01-06,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBCgQAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,9887,2026-04-23,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmBDeQAN,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,9593,2026-05-16,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB9SQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,10866,2026-04-07,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB3UQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,14796,2026-02-15,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB5QQAV,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Lost,13974,2026-01-16,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB9mQAF,Zoe Foster Residence - 13.2kW Rooftop Solar,Closed Won,10768,2026-05-15,true,Mia Kelly,true,Zoe Foster Residence
+006gK00000MmB9vQAF,Andrew Anderson Residence - 6.6kW Rooftop Solar,Closed Won,11154,2026-05-23,true,OrgFarm EPIC,false,Andrew Anderson Residence
+006gK00000MmB3tQAF,Andrew Anderson Residence - 6.6kW Rooftop Solar,Closed Won,16577,2026-02-20,true,OrgFarm EPIC,false,Andrew Anderson Residence
+006gK00000MmBUiQAN,Andrew Anderson Residence - 6.6kW Rooftop Solar,Qualification,14080,2026-08-30,false,OrgFarm EPIC,false,Andrew Anderson Residence
+006gK00000MmBApQAN,Andrew Anderson Residence - 6.6kW Rooftop Solar,Closed Won,13363,2026-05-02,true,OrgFarm EPIC,false,Andrew Anderson Residence
+006gK00000MlfzoQAB,Andrew Anderson Residence - 6.6kW Rooftop Solar,Id. Decision Makers,15872,2026-09-09,false,OrgFarm EPIC,false,Andrew Anderson Residence
+006gK00000MmB2zQAF,Andrew Anderson Residence - 6.6kW Rooftop Solar,Closed Won,13837,2026-03-06,true,OrgFarm EPIC,false,Andrew Anderson Residence
+006gK00000MmB6lQAF,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Won,9167,2026-06-28,true,OrgFarm EPIC,false,Ava Mancini
+006gK00000MmB6bQAF,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Lost,16988,2026-01-09,true,OrgFarm EPIC,false,Ava Mancini
+006gK00000MmBD5QAN,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Lost,12590,2026-04-25,true,OrgFarm EPIC,false,Ava Mancini
+006gK00000MmB1RQAV,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Won,11371,2026-03-30,true,OrgFarm EPIC,false,Ava Mancini
+006gK00000MmBDXQA3,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Lost,13695,2026-05-30,true,OrgFarm EPIC,false,Ava Mancini
+006gK00000MmB69QAF,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Lost,15618,2026-03-02,true,OrgFarm EPIC,false,Ava Mancini
+006gK00000MmBERQA3,Ava Mancini Residence - 6.6kW Rooftop Solar,Closed Lost,9608,2026-05-09,true,OrgFarm EPIC,false,Ava Mancini
+006gK00000MmBBvQAN,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Lost,7952,2026-05-22,true,OrgFarm EPIC,false,Benjamin Walker Residence
+006gK00000MmB4zQAF,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Lost,9864,2026-03-20,true,OrgFarm EPIC,false,Benjamin Walker Residence
+006gK00000MmBCpQAN,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Lost,10160,2026-05-01,true,OrgFarm EPIC,false,Benjamin Walker Residence
+006gK00000MmB4XQAV,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Lost,16303,2026-02-10,true,OrgFarm EPIC,false,Benjamin Walker Residence
+006gK00000MlfzsQAB,Benjamin Walker Residence - 6.6kW Rooftop Solar,Id. Decision Makers,13440,2026-10-31,false,OrgFarm EPIC,false,Benjamin Walker Residence
+006gK00000MmB5tQAF,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Lost,12604,2026-03-06,true,OrgFarm EPIC,false,Benjamin Walker Residence
+006gK00000MmBUSQA3,Benjamin Walker Residence - 6.6kW Rooftop Solar,Qualification,16000,2026-07-03,false,OrgFarm EPIC,false,Benjamin Walker Residence
+006gK00000MmBBTQA3,Benjamin Walker Residence - 6.6kW Rooftop Solar,Closed Lost,13142,2026-04-17,true,OrgFarm EPIC,false,Benjamin Walker Residence
+006gK00000MmBE3QAN,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Lost,12259,2026-05-18,true,OrgFarm EPIC,false,Charlotte King Residence
+006gK00000MmBD9QAN,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Lost,10050,2026-06-08,true,OrgFarm EPIC,false,Charlotte King Residence
+006gK00000MmB6DQAV,Charlotte King Residence - 6.6kW Rooftop Solar,Closed Lost,12467,2026-01-15,true,OrgFarm EPIC,false,Charlotte King Residence
+006gK00000MmB7fQAF,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Won,11375,2026-06-07,true,OrgFarm EPIC,false,Daniel Clark Residence
+006gK00000MmB3hQAF,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Won,10412,2026-01-09,true,OrgFarm EPIC,false,Daniel Clark Residence
+006gK00000MmBAdQAN,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Won,8393,2026-06-21,true,OrgFarm EPIC,false,Daniel Clark Residence
+006gK00000MmB3FQAV,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Won,16851,2026-03-02,true,OrgFarm EPIC,false,Daniel Clark Residence
+006gK00000MmBUeQAN,Daniel Clark Residence - 6.6kW Rooftop Solar,Needs Analysis,16512,2026-07-09,false,OrgFarm EPIC,false,Daniel Clark Residence
+006gK00000MmB2LQAV,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Won,14111,2026-03-16,true,OrgFarm EPIC,false,Daniel Clark Residence
+006gK00000MmBABQA3,Daniel Clark Residence - 6.6kW Rooftop Solar,Closed Won,13584,2026-05-17,true,OrgFarm EPIC,false,Daniel Clark Residence
+006gK00000MlfzkQAB,Daniel Clark Residence - 6.6kW Rooftop Solar,Qualification,10496,2026-07-19,false,OrgFarm EPIC,false,Daniel Clark Residence
+006gK00000MmBAFQA3,David Doyle Residence - 6.6kW Rooftop Solar,Closed Won,11044,2026-06-30,true,OrgFarm EPIC,false,David Doyle Residence
+006gK00000Mlg0CQAR,David Doyle Residence - 6.6kW Rooftop Solar,Qualification,9088,2026-09-21,false,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MlfzEQAR,David Doyle Residence - 6.6kW Rooftop Solar,Needs Analysis,14336,2026-08-22,false,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MmB3JQAV,David Doyle Residence - 6.6kW Rooftop Solar,Closed Won,13700,2026-01-15,true,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MmB2PQAV,David Doyle Residence - 6.6kW Rooftop Solar,Closed Won,10960,2026-01-29,true,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MmBV6QAN,David Doyle Residence - 6.6kW Rooftop Solar,Needs Analysis,15104,2026-09-11,false,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MmB7HQAV,David Doyle Residence - 6.6kW Rooftop Solar,Closed Won,14026,2026-06-16,true,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MmBEVQA3,David Doyle Residence - 6.6kW Rooftop Solar,Closed Lost,13363,2026-06-22,true,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MmB7jQAF,David Doyle Residence - 6.6kW Rooftop Solar,Closed Won,8835,2026-04-21,true,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MmB1xQAF,David Doyle Residence - 6.6kW Rooftop Solar,Closed Won,17399,2026-03-22,true,OrgFarm EPIC,false,David Doyle Residence
+006gK00000MmBCRQA3,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Lost,12811,2026-05-10,true,OrgFarm EPIC,false,Ella Ahmed Residence
+006gK00000MmB5VQAV,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Lost,15892,2026-03-12,true,OrgFarm EPIC,false,Ella Ahmed Residence
+006gK00000MmBBXQA3,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Lost,10602,2026-05-31,true,OrgFarm EPIC,false,Ella Ahmed Residence
+006gK00000MmB4bQAF,Ella Ahmed Residence - 6.6kW Rooftop Solar,Closed Lost,13152,2026-03-26,true,OrgFarm EPIC,false,Ella Ahmed Residence
+006gK00000Mlg00QAB,Ethan Lee Residence - 6.6kW Rooftop Solar,Needs Analysis,16384,2026-09-15,false,OrgFarm EPIC,false,Ethan Lee Residence
+006gK00000MmB71QAF,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Won,11596,2026-06-22,true,OrgFarm EPIC,false,Ethan Lee Residence
+006gK00000MmBUuQAN,Ethan Lee Residence - 6.6kW Rooftop Solar,Qualification,14592,2026-09-05,false,OrgFarm EPIC,false,Ethan Lee Residence
+006gK00000MmB5xQAF,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Lost,17262,2026-01-19,true,OrgFarm EPIC,false,Ethan Lee Residence
+006gK00000MmB1hQAF,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Won,14385,2026-03-26,true,OrgFarm EPIC,false,Ethan Lee Residence
+006gK00000MmBCtQAN,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Lost,13915,2026-06-14,true,OrgFarm EPIC,false,Ethan Lee Residence
+006gK00000MmBDnQAN,Ethan Lee Residence - 6.6kW Rooftop Solar,Closed Lost,9829,2026-05-24,true,OrgFarm EPIC,false,Ethan Lee Residence
+006gK00000MmB21QAF,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Won,14248,2026-02-04,true,OrgFarm EPIC,false,Harper Thompson Residence
+006gK00000MmBE7QAN,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Lost,9719,2026-04-01,true,OrgFarm EPIC,false,Harper Thompson Residence
+006gK00000MmB7LQAV,Harper Thompson Residence - 6.6kW Rooftop Solar,Closed Won,11486,2026-04-30,true,OrgFarm EPIC,false,Harper Thompson Residence
+006gK00000MmBAxQAN,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Won,8283,2026-04-29,true,OrgFarm EPIC,false,Isabella Hall Residence
+006gK00000MmB3ZQAV,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Won,16714,2026-01-11,true,OrgFarm EPIC,false,Isabella Hall Residence
+006gK00000MmBAVQA3,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Won,13474,2026-06-24,true,OrgFarm EPIC,false,Isabella Hall Residence
+006gK00000MmB41QAF,Isabella Hall Residence - 6.6kW Rooftop Solar,Closed Won,10275,2026-02-18,true,OrgFarm EPIC,false,Isabella Hall Residence
+006gK00000MlfzwQAB,Jack White Residence - 6.6kW Rooftop Solar,Qualification,11008,2026-07-25,false,OrgFarm EPIC,false,Jack White Residence
+006gK00000MmB2fQAF,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Won,13974,2026-01-25,true,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MlfzAQAR,James Nguyen Residence - 6.6kW Rooftop Solar,Prospecting,8960,2026-07-01,false,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmB75QAF,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Won,9056,2026-05-06,true,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000Mlg08QAB,James Nguyen Residence - 6.6kW Rooftop Solar,Needs Analysis,11520,2026-07-31,false,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmBElQAN,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Lost,9498,2026-06-16,true,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmBDrQAN,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Lost,13584,2026-04-07,true,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmB1JQAV,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Won,9864,2026-01-01,true,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmB1lQAF,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Won,11234,2026-02-08,true,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmB6dQAF,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Won,7952,2026-04-01,true,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmB9bQAF,James Nguyen Residence - 6.6kW Rooftop Solar,Closed Won,11265,2026-04-15,true,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmBV2QAN,James Nguyen Residence - 6.6kW Rooftop Solar,Prospecting,9728,2026-07-21,false,OrgFarm EPIC,false,James Nguyen Residence
+006gK00000MmB9fQAF,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Won,8725,2026-05-29,true,OrgFarm EPIC,false,Jessica Silva Residence
+006gK00000MmB3dQAF,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Won,13563,2026-02-24,true,OrgFarm EPIC,false,Jessica Silva Residence
+006gK00000MmBAZQA3,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Won,10934,2026-05-08,true,OrgFarm EPIC,false,Jessica Silva Residence
+006gK00000MmB2jQAF,Jessica Silva Residence - 6.6kW Rooftop Solar,Closed Won,10823,2026-03-10,true,OrgFarm EPIC,false,Jessica Silva Residence
+006gK00000MmB4rQAF,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Lost,16166,2026-03-22,true,OrgFarm EPIC,false,Joshua Patel Residence
+006gK00000MmBUqQAN,Joshua Patel Residence - 6.6kW Rooftop Solar,Id. Decision Makers,9216,2026-07-15,false,OrgFarm EPIC,false,Joshua Patel Residence
+006gK00000MmB3xQAF,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Won,13426,2026-01-05,true,OrgFarm EPIC,false,Joshua Patel Residence
+006gK00000MmBAtQAN,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Won,10823,2026-06-15,true,OrgFarm EPIC,false,Joshua Patel Residence
+006gK00000MmBBnQAN,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Lost,13032,2026-05-25,true,OrgFarm EPIC,false,Joshua Patel Residence
+006gK00000MmBCFQA3,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Lost,14136,2026-06-29,true,OrgFarm EPIC,false,Joshua Patel Residence
+006gK00000Mlg0GQAR,Joshua Patel Residence - 6.6kW Rooftop Solar,Id. Decision Makers,14464,2026-11-12,false,OrgFarm EPIC,false,Joshua Patel Residence
+006gK00000MmB5JQAV,Joshua Patel Residence - 6.6kW Rooftop Solar,Closed Lost,17536,2026-01-29,true,OrgFarm EPIC,false,Joshua Patel Residence
+006gK00000MmB6xQAF,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Won,14136,2026-05-09,true,OrgFarm EPIC,false,Layla Osman Residence
+006gK00000MmB1dQAF,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Won,17536,2026-02-10,true,OrgFarm EPIC,false,Layla Osman Residence
+006gK00000MmBDjQAN,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Lost,12369,2026-04-10,true,OrgFarm EPIC,false,Layla Osman Residence
+006gK00000MmB7PQAV,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Won,8946,2026-06-13,true,OrgFarm EPIC,false,Layla Osman Residence
+006gK00000MmBEBQA3,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Lost,13474,2026-05-15,true,OrgFarm EPIC,false,Layla Osman Residence
+006gK00000MmB25QAF,Layla Osman Residence - 6.6kW Rooftop Solar,Closed Won,11097,2026-03-20,true,OrgFarm EPIC,false,Layla Osman Residence
+006gK00000MlfzYQAR,Liam Bennett Residence - 6.6kW Rooftop Solar,Needs Analysis,9984,2026-07-13,false,OrgFarm EPIC,false,Liam Bennett Residence
+006gK00000Mlg0WQAR,Liam Bennett Residence - 6.6kW Rooftop Solar,Prospecting,12544,2026-08-12,false,OrgFarm EPIC,false,Liam Bennett Residence
+006gK00000Mlg0SQAR,Lucas Tran Residence - 6.6kW Rooftop Solar,Needs Analysis,14976,2026-11-18,false,OrgFarm EPIC,false,Lucas Tran Residence
+006gK00000MmB5ZQAV,Lucas Tran Residence - 6.6kW Rooftop Solar,Closed Lost,12741,2026-01-25,true,OrgFarm EPIC,false,Lucas Tran Residence
+006gK00000MmBCVQA3,Lucas Tran Residence - 6.6kW Rooftop Solar,Closed Lost,10271,2026-06-23,true,OrgFarm EPIC,false,Lucas Tran Residence
+006gK00000MmB6TQAV,Lucas Tran Residence - 6.6kW Rooftop Solar,Closed Lost,15481,2026-01-11,true,OrgFarm EPIC,false,Lucas Tran Residence
+006gK00000MmBDPQA3,Lucas Tran Residence - 6.6kW Rooftop Solar,Closed Lost,12480,2026-06-02,true,OrgFarm EPIC,false,Lucas Tran Residence
+006gK00000MmBDLQA3,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,8725,2026-04-19,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000Mlg0aQAB,Matthew Kaur Residence - 6.6kW Rooftop Solar,Needs Analysis,10112,2026-10-03,false,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBD1QAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,8835,2026-06-11,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBDfQAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,8614,2026-05-27,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBChQAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,8946,2026-05-04,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB1ZQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,12878,2026-03-28,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBCNQA3,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,9056,2026-06-26,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB1tQAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,12741,2026-02-06,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBC3QAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,9167,2026-05-19,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBDzQAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,8504,2026-04-04,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBBjQAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,9277,2026-04-11,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB2DQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,12604,2026-03-18,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBBPQA3,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,9387,2026-06-03,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBB5QAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,9498,2026-04-26,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBEJQA3,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,8393,2026-05-12,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB2XQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,12467,2026-01-27,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBAlQAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,9608,2026-06-18,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB2rQAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,12330,2026-03-08,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBARQA3,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,9719,2026-05-11,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBA7QAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,9829,2026-04-03,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBVAQA3,Matthew Kaur Residence - 6.6kW Rooftop Solar,Qualification,12672,2026-11-02,false,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmBEdQAN,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,8283,2026-06-19,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB3BQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,12193,2026-01-17,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB9nQAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,9940,2026-05-26,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MlfzIQAR,Matthew Kaur Residence - 6.6kW Rooftop Solar,Qualification,11904,2026-10-13,false,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB3VQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,12056,2026-02-26,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB9TQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,10050,2026-04-18,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB7XQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,10160,2026-06-10,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB3pQAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,11919,2026-01-07,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB7DQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,10271,2026-05-03,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB6tQAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,10381,2026-06-25,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB49QAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Won,11782,2026-02-16,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB57QAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,11371,2026-03-18,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB6PQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,10823,2026-02-26,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB4TQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,11645,2026-03-28,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB65QAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,10960,2026-01-17,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB5lQAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,11097,2026-03-08,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB5RQAV,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,11234,2026-01-27,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB4nQAF,Matthew Kaur Residence - 6.6kW Rooftop Solar,Closed Lost,11508,2026-02-06,true,OrgFarm EPIC,false,Matthew Kaur Residence
+006gK00000MmB5BQAV,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Lost,16029,2026-01-31,true,OrgFarm EPIC,false,Mia Taylor Residence
+006gK00000MmBC7QAN,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Lost,12921,2026-04-02,true,OrgFarm EPIC,false,Mia Taylor Residence
+006gK00000MmB5dQAF,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Lost,17399,2026-03-10,true,OrgFarm EPIC,false,Mia Taylor Residence
+006gK00000MmBCZQA3,Mia Taylor Residence - 6.6kW Rooftop Solar,Closed Lost,14026,2026-05-07,true,OrgFarm EPIC,false,Mia Taylor Residence
+006gK00000MlfzgQAB,Michael Young Residence - 6.6kW Rooftop Solar,Needs Analysis,12928,2026-10-25,false,OrgFarm EPIC,false,Michael Young Residence
+006gK00000MmBUaQAN,Michael Young Residence - 6.6kW Rooftop Solar,Prospecting,11136,2026-10-15,false,OrgFarm EPIC,false,Michael Young Residence
+006gK00000Mlg0iQAB,Nathan Ryan Residence - 6.6kW Rooftop Solar,Id. Decision Makers,13056,2026-08-18,false,OrgFarm EPIC,false,Nathan Ryan Residence
+006gK00000MlfzQQAR,Nathan Ryan Residence - 6.6kW Rooftop Solar,Id. Decision Makers,14848,2026-08-28,false,OrgFarm EPIC,false,Nathan Ryan Residence
+006gK00000Mlg04QAB,Noah Brown Residence - 6.6kW Rooftop Solar,Prospecting,13952,2026-11-06,false,OrgFarm EPIC,false,Noah Brown Residence
+006gK00000MmBUyQAN,Noah Brown Residence - 6.6kW Rooftop Solar,Needs Analysis,12160,2026-10-27,false,OrgFarm EPIC,false,Noah Brown Residence
+006gK00000MmBDTQA3,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Lost,9940,2026-04-16,true,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmB6XQAV,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Lost,12330,2026-02-24,true,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmBUWQA3,Oliver Murphy Residence - 6.6kW Rooftop Solar,Needs Analysis,13568,2026-08-24,false,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MlfzcQAB,Oliver Murphy Residence - 6.6kW Rooftop Solar,Prospecting,15360,2026-09-03,false,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmB7bQAF,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Won,13915,2026-04-24,true,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmB2HQAV,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Won,17262,2026-01-31,true,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmBEpQAN,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Lost,13253,2026-04-30,true,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmBENQA3,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Lost,12148,2026-06-25,true,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmB1NQAV,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Won,14522,2026-02-14,true,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmB6hQAF,Oliver Murphy Residence - 6.6kW Rooftop Solar,Closed Won,11707,2026-05-15,true,OrgFarm EPIC,false,Oliver Murphy Residence
+006gK00000MmBEhQAN,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Lost,12038,2026-05-03,true,OrgFarm EPIC,false,Olivia Campbell Residence
+006gK00000MmB33QAF,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Won,10686,2026-01-19,true,OrgFarm EPIC,false,Olivia Campbell Residence
+006gK00000MmB9zQAF,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Won,8614,2026-04-06,true,OrgFarm EPIC,false,Olivia Campbell Residence
+006gK00000MmB2bQAF,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Won,17125,2026-03-12,true,OrgFarm EPIC,false,Olivia Campbell Residence
+006gK00000MmB9XQAV,Olivia Campbell Residence - 6.6kW Rooftop Solar,Closed Won,13805,2026-06-01,true,OrgFarm EPIC,false,Olivia Campbell Residence
+006gK00000MmB5FQAV,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Lost,12878,2026-03-16,true,OrgFarm EPIC,false,Robert Chen Residence
+006gK00000MlfzUQAR,Robert Chen Residence - 6.6kW Rooftop Solar,Qualification,12416,2026-10-19,false,OrgFarm EPIC,false,Robert Chen Residence
+006gK00000MmBCBQA3,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Lost,10381,2026-05-16,true,OrgFarm EPIC,false,Robert Chen Residence
+006gK00000MmBBHQA3,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Won,8173,2026-06-06,true,OrgFarm EPIC,false,Robert Chen Residence
+006gK00000MmBUOQA3,Robert Chen Residence - 6.6kW Rooftop Solar,Id. Decision Makers,10624,2026-10-09,false,OrgFarm EPIC,false,Robert Chen Residence
+006gK00000MmB4LQAV,Robert Chen Residence - 6.6kW Rooftop Solar,Closed Won,10138,2026-03-30,true,OrgFarm EPIC,false,Robert Chen Residence
+006gK00000MmB4fQAF,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Lost,10001,2026-02-08,true,OrgFarm EPIC,false,Ruby Harris Residence
+006gK00000MmBBbQAN,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Lost,8062,2026-04-14,true,OrgFarm EPIC,false,Ruby Harris Residence
+006gK00000MmB4DQAV,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Won,16440,2026-01-01,true,OrgFarm EPIC,false,Ruby Harris Residence
+006gK00000MmBB9QAN,Ruby Harris Residence - 6.6kW Rooftop Solar,Closed Won,13253,2026-06-09,true,OrgFarm EPIC,false,Ruby Harris Residence
+006gK00000MmBUmQAN,Ryan Singh Residence - 6.6kW Rooftop Solar,Id. Decision Makers,11648,2026-10-21,false,OrgFarm EPIC,false,Ryan Singh Residence
+006gK00000MmB4vQAF,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Lost,13015,2026-02-04,true,OrgFarm EPIC,false,Samuel Fitzgerald Residence
+006gK00000MmBBrQAN,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Lost,10492,2026-04-08,true,OrgFarm EPIC,false,Samuel Fitzgerald Residence
+006gK00000MmBClQAN,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Lost,12701,2026-06-17,true,OrgFarm EPIC,false,Samuel Fitzgerald Residence
+006gK00000Mlg0OQAR,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Qualification,9600,2026-09-27,false,OrgFarm EPIC,false,Samuel Fitzgerald Residence
+006gK00000MmBDDQA3,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Lost,13805,2026-04-22,true,OrgFarm EPIC,false,Samuel Fitzgerald Residence
+006gK00000MmB6HQAV,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Lost,17125,2026-02-28,true,OrgFarm EPIC,false,Samuel Fitzgerald Residence
+006gK00000MmB5pQAF,Samuel Fitzgerald Residence - 6.6kW Rooftop Solar,Closed Lost,15755,2026-01-21,true,OrgFarm EPIC,false,Samuel Fitzgerald Residence
+006gK00000MmB29QAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,15755,2026-02-02,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB2TQAV,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,15618,2026-03-14,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBAhQAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9476,2026-05-05,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB2nQAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,15481,2026-01-23,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBDHQA3,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,8787,2026-06-05,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBANQA3,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9562,2026-06-27,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB6LQAV,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,13974,2026-01-13,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBEZQA3,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,8442,2026-05-06,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBA3QAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9648,2026-05-20,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB37QAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,15344,2026-03-04,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB53QAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,14522,2026-02-02,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB4PQAV,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,14796,2026-02-12,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB9jQAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9734,2026-04-12,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB3RQAV,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,15207,2026-01-13,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB4jQAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,14659,2026-03-24,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB5hQAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,14248,2026-01-23,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB9PQAV,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9820,2026-06-04,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB61QAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,14111,2026-03-04,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB7TQAV,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9906,2026-04-27,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBCxQAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,8873,2026-04-28,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB3lQAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,15070,2026-02-22,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB5NQAV,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,14385,2026-03-14,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBDbQAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,8700,2026-04-13,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB79QAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9993,2026-06-19,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB45QAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,14933,2026-01-03,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB1VQAV,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,16029,2026-02-12,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB6pQAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,10079,2026-05-12,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBCdQAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,8959,2026-06-20,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBCJQA3,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,9045,2026-05-13,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB1pQAF,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,15892,2026-03-24,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBDvQAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,8614,2026-05-21,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBBzQAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,9131,2026-04-05,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBBfQAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,9217,2026-05-28,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBB1QAN,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9390,2026-06-12,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBBLQA3,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Won,9303,2026-04-20,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmBEFQA3,Sienna Lewis Residence - 6.6kW Rooftop Solar,Closed Lost,8528,2026-06-28,true,OrgFarm EPIC,false,Sienna Lewis Residence
+006gK00000MmB4HQAV,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Won,13289,2026-02-14,true,OrgFarm EPIC,false,Thomas Hughes Residence
+006gK00000MlfzMQAR,Thomas Hughes Residence - 6.6kW Rooftop Solar,Id. Decision Makers,9472,2026-07-07,false,OrgFarm EPIC,false,Thomas Hughes Residence
+006gK00000MmB3NQAV,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Won,10549,2026-02-28,true,OrgFarm EPIC,false,Thomas Hughes Residence
+006gK00000MmB9rQAF,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Won,13695,2026-04-09,true,OrgFarm EPIC,false,Thomas Hughes Residence
+006gK00000MmBAJQA3,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Won,8504,2026-05-14,true,OrgFarm EPIC,false,Thomas Hughes Residence
+006gK00000MmBBDQA3,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Won,10713,2026-04-23,true,OrgFarm EPIC,false,Thomas Hughes Residence
+006gK00000Mlg0eQAB,Thomas Hughes Residence - 6.6kW Rooftop Solar,Qualification,15488,2026-11-24,false,OrgFarm EPIC,false,Thomas Hughes Residence
+006gK00000MmB2vQAF,Thomas Hughes Residence - 6.6kW Rooftop Solar,Closed Won,16988,2026-01-21,true,OrgFarm EPIC,false,Thomas Hughes Residence
+006gK00000Mlg0KQAR,William Kowalski Residence - 6.6kW Rooftop Solar,Id. Decision Makers,12032,2026-08-06,false,OrgFarm EPIC,false,William Kowalski Residence

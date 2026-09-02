@@ -102,7 +102,7 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-08 | ~~Four~~ **Three** unwritten sections in the provisioning SOP *(§7 closed by CF-09)* | W1 · 1.1 | 🟠 BLOCKED | Hemayet |
 | CF-09 | The freeze-vs-deactivate paragraph | W1 · 1.2 | ✅ **WRITTEN 02/09** — SOP now v1.2 | — |
 | CF-10 | Dormant-user review: the send decision | W1 · 1.2 | 🟠 BLOCKED | Hemayet |
-| CF-11 | Zara's reply: the three-sentence version | W1 · 1.3 | ✅ **WRITTEN 02/09** — not sent | Zara's real email |
+| CF-11 | Zara's reply: the three-sentence version | W1 · 1.3 | ✅ **WRITTEN 02/09** — ready to send | Email verification |
 | CF-12 | Jack and Mia have no role | W1 · 1.1 | 🟡 READY | — |
 | CF-13 | **134 of 137 Contacts are unmerged duplicates** *(re-scoped 29/08)* | W2 · 2.2 | ✅ **MERGED 01/09 — 137 → 98.** 21 groups held | — |
 | CF-14 | ~~Week 1 evidence was never captured~~ **It was — and was declared lost unread** | W1 | ✅ **CORRECTED 01/09** | — |

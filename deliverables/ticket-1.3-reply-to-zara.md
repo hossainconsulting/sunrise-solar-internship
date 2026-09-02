@@ -36,7 +36,7 @@ CF-11, the three-sentence version, which is Hemayet's to write.
 ---
 
 **Subject:** Re: Campaign access
-**To:** Zara — ⚠️ **address still needed.** See "The address" below.
+**To:** **Zara Lee — `hossainconsulting+zara@gmail.com`** (confirmed 02/09/2026)
 
 Hi Zara — Priya's account is set up and she can log in now. The Campaign side needs an
 extra licence we're buying in **October**, so creating and editing Campaigns will start
@@ -57,17 +57,21 @@ A date she can plan around, not a dependency she has to chase. The 21/08 draft a
 claimed *"I've asked Marcus"* before he had any way of being asked — see the correction
 above.
 
-### The address
+### The address — resolved 02/09
 
-**Not yet sendable.** The address supplied was
-`hossainconsulting+zarra@sunrise.hossain.dev`, which mixes the working plus-alias pattern
-with the **fictional domain**. `@sunrise.hossain.dev` accepts no mail — it is why
+**`hossainconsulting+zara@gmail.com`.** The first address offered was
+`hossainconsulting+zarra@sunrise.hossain.dev`, which bolted the working plus-alias pattern
+onto the **fictional domain**. `@sunrise.hossain.dev` accepts no mail — it is why
 `marcus.head`, `marcus.lee`, `ben.carter` and `zara.chan` were all created and **none of
-them ever logged in**. The addresses that work are `@gmail.com`, e.g.
-`hossainconsulting+marcus@gmail.com`.
+them ever logged in.**
 
-Note also the spelling: **Zara**, one `r`, as used throughout this repo and on the org
-user record.
+**Username is not Email.** A Salesforce username only has to be unique and email-shaped;
+it never receives anything. The **Email** field is the one that must be deliverable. Her
+username is still `zara.chan@sunrise.hossain.dev` and that is harmless — the address above
+is what matters.
+
+Her org user was also reinstated on 02/09 and renamed **Zara Lee** — she had been
+deactivated, and was previously recorded as *Zara Chan*.
 
 ---
 

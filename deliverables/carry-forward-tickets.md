@@ -62,7 +62,7 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 |---|---|---|
 | CF-03 *"Unanswered for 8 days"* | 27/08 | **13 days** |
 | CF-03 *"Ten days unanswered"* | 29/08 | **13 days** |
-| CF-20 *"Tasks dated for a fortnight away"* | 27/08 | **7 days — one week** |
+| CF-20 *"Tasks dated for a fortnight away"* | 27/08 | **6 days — as at 02/09** |
 | *"3 are overdue or due today"* | 27/08 | Read the register, not the header |
 
 > **The one that matters: CF-20's twenty held pairs fall due 08/09 — a week from today,
@@ -90,7 +90,7 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 
 | # | Ticket | From | Status | Blocked on |
 |---|---|---|---|---|
-| CF-01 | The customer-count freeze point passes today | W2 · 2.1 | ✅ **ANSWERED 01/09** — publish the range | Tell Sarah |
+| CF-01 | The customer-count freeze point passes today | W2 · 2.1 | ✅ **CLOSED 02/09** — range published, Sarah told | — |
 | CF-02 | Six bucket-C address confirmations due today | W2 · 2.1 | 🔴 **ANSWERED 01/09 — Hemayet makes the six calls this week** | 0 of 6 done |
 | CF-21 | Open-task visibility — report built | W2 · CF-01 | ✅ **DONE 27/08** | — |
 | CF-22 | Every escalation was addressed to a channel that cannot reach anyone | W1–W2 | ✅ **DONE 29/08** — channel built, six notes sent | — |

@@ -112,7 +112,7 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-18 | `Marketing Campaign Access` permission set | W1 · 1.3 | 🔵 DEFERRED | CF-03 |
 | CF-19 | 47 accounts still violate the naming standard | W2 · 2.2 | 🔵 DEFERRED | CF-20 |
 | CF-20 | Ten middle-initial pairs, held for confirmation | W2 · 2.1 | 🔵 DEFERRED | 08/09/2026 |
-| CF-23 | **23 records still owned by the deactivated OrgFarm EPIC** — 13 EmailTemplates, 10 Solutions | W2 · CF-04 | 🟡 READY | — |
+| CF-23 | ~~23~~ **62 records owned by deactivated OrgFarm EPIC** — and it was 39 Flows nobody had counted | W2 · CF-04 | ✅ **CLOSED 02/09** — all 187 ownable objects sweep to zero | — |
 
 ---
 

@@ -21,15 +21,21 @@
  *  ride the existing custody record and leave with everything else when
  *  custody ends. No second owner category invented for them.
  *
+ *  MIXED DML: EmailTemplate is a SETUP object, Solution and Flow are
+ *  not. Salesforce refuses both in one transaction, so this runs ONE
+ *  object per execution. Set TARGET, run, repeat. Same trap that
+ *  silently rolled back the CollaborationGroupMember insert on 29/08.
+ *
  *  Set DRY_RUN = false to execute.
  */
 
-Boolean DRY_RUN = true;
+Boolean DRY_RUN = false;
+String TARGET = 'FlowRecord';   // then 'Solution', then 'FlowRecord'
 
 Id custodian = [SELECT Id FROM User WHERE Name = 'Hemayet Hossain' AND IsActive = true LIMIT 1].Id;
 Set<String> names = new Set<String>{'OrgFarm EPIC','Jack Nguyen','Mia Kelly','Alan Brooks','Lisa Fernandez'};
 Set<Id> ids = new Map<Id,User>([SELECT Id FROM User WHERE Name IN :names]).keySet();
-List<String> objects = new List<String>{'EmailTemplate','Solution','FlowRecord'};
+List<String> objects = new List<String>{TARGET};
 
 Integer grand = 0;
 Map<String,Integer> before = new Map<String,Integer>();

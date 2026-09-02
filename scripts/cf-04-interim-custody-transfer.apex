@@ -19,7 +19,7 @@
  *  Set DRY_RUN = false to execute.
  */
 
-Boolean DRY_RUN = true;
+Boolean DRY_RUN = false;
 
 Id custodian = [SELECT Id FROM User WHERE Name = 'Hemayet Hossain' AND IsActive = true LIMIT 1].Id;
 Set<String> fromOwners = new Set<String>{'OrgFarm EPIC', 'Jack Nguyen', 'Mia Kelly'};

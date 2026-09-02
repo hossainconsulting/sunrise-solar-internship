@@ -1,7 +1,7 @@
 # CF-04 — Interim custodianship of 666 Opportunities
 
 **SunRise Solar · Org `sunrise` · 02/09/2026 · Owner: Hemayet Hossain**
-**Status: DECLARED. Temporary by design, with a stated end.**
+**Status: EXECUTED 02/09/2026. Temporary by design, with a stated end.**
 
 ---
 
@@ -123,3 +123,31 @@ today's transfer proceeds without waiting on it.
   the transfer is one script, re-runnable in reverse from the CSV
 
 **None of this is hidden, and none of it is permanent.** Both were Marcus's conditions.
+
+---
+
+## Executed 02/09/2026
+
+| | |
+|---|---|
+| Transferred | **666** — EPIC 224, Jack 221, Mia 221 |
+| Admin owns now | **890 of 890** |
+| **Opportunities on inactive users** | **0** — was 224 |
+| Evidence | `cf-04-pre-custody-ownership.csv` · `cf-04-post-custody-ownership.csv` |
+| Raised with Marcus | Chatter, 02/09 — the staging question above |
+
+### ⚠️ EPIC is not clear — 23 records remain
+
+This ticket was framed as *"666 unowned Opportunities"*, but the EPIC problem was always
+**247 records on a disabled user**. The transfer moved the Opportunities only.
+
+| Still owned by the deactivated `OrgFarm EPIC` | |
+|---|---|
+| EmailTemplate | **13** |
+| Solution | **10** |
+| **Total** | **23** |
+
+**224 of 247 solved, not 247.** They carry no pipeline value and block nothing, which is
+exactly why they will be forgotten — the same reason the 224 sat unnoticed for two weeks
+while everyone discussed the licence decision. **Raised as its own item rather than
+folded into a closed ticket.**

@@ -95,7 +95,7 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-21 | Open-task visibility — report built | W2 · CF-01 | ✅ **DONE 27/08** | — |
 | CF-22 | Every escalation was addressed to a channel that cannot reach anyone | W1–W2 | ✅ **DONE 29/08** — channel built, six notes sent | — |
 | CF-03 | Licence decision — Salesforce is 4 of 4 | W1 · 1.1 | ✅ **ANSWERED 01/09 — buy three.** Priya waits to October | Purchase |
-| CF-04 | Who inherits the 666 unowned Opportunities | W2 · 2.3 | ✅ **ANSWERED 01/09 — Jake, on licence** | Record custodianship |
+| CF-04 | Who inherits the 666 unowned Opportunities | W2 · 2.3 | ✅ **CUSTODY EXECUTED 02/09** — 666 moved, declared | Jake's licence day |
 | CF-05 | Stale-pipeline threshold: 30 days or 14 | W2 · 2.3 | ✅ **30 DAYS — report done 01/09** | Align the 2.3 doc |
 | CF-06 | Confirm Block-on-create for duplicate accounts | W2 · 2.2 | ✅ **DONE 01/09 — keep blocking** | — |
 | CF-07 | Roster an owner for the duplicate queue | W2 · 2.2 | ✅ **ANSWERED 01/09 — Jake, Mondays** | Depends on CF-03 |
@@ -112,6 +112,7 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-18 | `Marketing Campaign Access` permission set | W1 · 1.3 | 🔵 DEFERRED | CF-03 |
 | CF-19 | 47 accounts still violate the naming standard | W2 · 2.2 | 🔵 DEFERRED | CF-20 |
 | CF-20 | Ten middle-initial pairs, held for confirmation | W2 · 2.1 | 🔵 DEFERRED | 08/09/2026 |
+| CF-23 | **23 records still owned by the deactivated OrgFarm EPIC** — 13 EmailTemplates, 10 Solutions | W2 · CF-04 | 🟡 READY | — |
 
 ---
 

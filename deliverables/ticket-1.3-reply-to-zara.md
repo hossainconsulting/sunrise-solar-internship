@@ -6,14 +6,14 @@
 
 ## Delivery
 
-| | |
-|---|---|
-| **To** | Zara |
-| **Channel** | **Email — and it always was.** Zara emailed in (*"Zara, email, Wednesday · Subject: Campaign access"*) and the brief asks for *"a three-sentence email reply"*. **Her address is not recorded anywhere in this repo** — the same gap Marcus's was |
-| **Audit copy** | This document, committed |
+|                |                                                                                                                                                                                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **To**         | Zara                                                                                                                                                                                                                                              |
+| **Channel**    | **Email — and it always was.** Zara emailed in (_"Zara, email, Wednesday · Subject: Campaign access"_) and the brief asks for _"a three-sentence email reply"_. **Her address is not recorded anywhere in this repo** — the same gap Marcus's was |
+| **Audit copy** | This document, committed                                                                                                                                                                                                                          |
 
 > **Zara does not need a Chatter account.** She was briefly listed in CF-22 as a sixth
-> document routed to Chatter, on a grep hit for the word in *"Can: … use Chatter"* — which
+> document routed to Chatter, on a grep hit for the word in _"Can: … use Chatter"_ — which
 > describes **Priya's** Platform-licence access, not a delivery route. **Corrected.** Her
 > channel was never broken; giving her a Chatter Free user would be building something she
 > never asked for and does not use.
@@ -29,25 +29,45 @@ addressed to him went to a Chatter feed he could not receive (CF-22).
 It had been sitting in a draft reply to a manager, as a statement of fact, for eight days.
 
 **This changes what is blocking the reply.** It was recorded as blocked on CF-03 — wrongly:
-the draft is written *for* the unresolved state and says so plainly. **What actually
+the draft is written _for_ the unresolved state and says so plainly. **What actually
 blocked it was that it contained a claim that was not yet true.** The only thing left is
 CF-11, the three-sentence version, which is Hemayet's to write.
 
 ---
 
 **Subject:** Re: Campaign access
+**To:** Zara — ⚠️ **address still needed.** See "The address" below.
 
-Hi Zara — thanks, and welcome back to having an admin.
-
-Priya's account is set up and she'll be able to log in Monday. **Campaign access
-isn't possible yet**, though, and I'd rather tell you now than have her find out on
-her first day: creating and editing Campaigns needs a full Salesforce licence, and
-all four of ours are currently in use.
-
-I've asked Marcus to decide between buying a licence or freeing one up, and I'll
-have Priya's Campaign access switched on the same day that's resolved.
+Hi Zara — Priya's account is set up and she can log in now. The Campaign side needs an
+extra licence we're buying in **October**, so creating and editing Campaigns will start
+then. I'll switch it on for her the day the licence lands and send you a note that
+morning so you know it's live.
 
 — Hemayet
+
+### Why this replaces the 21/08 draft
+
+The original said Campaign access would arrive *"the same day"* the licence decision
+resolved. **Marcus rejected that phrasing outright** on 01/09:
+
+> *"Tell Zara it's October, not 'when the licence is resolved' — she's had a vague answer
+> once already."*
+
+A date she can plan around, not a dependency she has to chase. The 21/08 draft also
+claimed *"I've asked Marcus"* before he had any way of being asked — see the correction
+above.
+
+### The address
+
+**Not yet sendable.** The address supplied was
+`hossainconsulting+zarra@sunrise.hossain.dev`, which mixes the working plus-alias pattern
+with the **fictional domain**. `@sunrise.hossain.dev` accepts no mail — it is why
+`marcus.head`, `marcus.lee`, `ben.carter` and `zara.chan` were all created and **none of
+them ever logged in**. The addresses that work are `@gmail.com`, e.g.
+`hossainconsulting+marcus@gmail.com`.
+
+Note also the spelling: **Zara**, one `r`, as used throughout this repo and on the org
+user record.
 
 ---
 
@@ -63,7 +83,7 @@ use Chatter.
 Two separate walls, and the second one only appears once you've climbed the first.
 
 **1. The Marketing User checkbox.** Campaign create, edit and delete are gated by
-a checkbox on the *user record*, not by the profile. Object permissions can say
+a checkbox on the _user record_, not by the profile. Object permissions can say
 yes and the save still fails. This is what produced the Phase 0 error:
 
 ```
@@ -96,21 +116,21 @@ The obvious wrong answer is granting **System Administrator** "because it works.
 It wouldn't have — the Marketing User checkbox would still be off, and Zara
 wouldn't have noticed while I handed a marketing coordinator full org access.
 
-But the less obvious wrong answer is following the ticket literally: *"create Priya
-on a Platform licence and tick Marketing User."* That instruction cannot be
+But the less obvious wrong answer is following the ticket literally: _"create Priya
+on a Platform licence and tick Marketing User."_ That instruction cannot be
 carried out. Discovering that early is the whole value of checking licence type
 before building — the same lesson as Ticket 1.1, arriving from a different
 direction.
 
 ## Current state
 
-| | |
-|---|---|
-| Priya Sharma | Created, active, `Standard Platform User`, Title *Marketing Coordinator*, Manager set, `Australia/Sydney`, `en_AU` |
-| Password email | Suppressed — she starts Monday |
-| Marketing User | **Not set** — not permitted on this licence type |
-| Campaign access | **None** — object not available on Platform |
-| `Marketing Campaign Access` permission set | **Not built** — deferred until the licence is resolved |
+|                                            |                                                                                                                    |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Priya Sharma                               | Created, active, `Standard Platform User`, Title _Marketing Coordinator_, Manager set, `Australia/Sydney`, `en_AU` |
+| Password email                             | Suppressed — she starts Monday                                                                                     |
+| Marketing User                             | **Not set** — not permitted on this licence type                                                                   |
+| Campaign access                            | **None** — object not available on Platform                                                                        |
+| `Marketing Campaign Access` permission set | **Not built** — deferred until the licence is resolved                                                             |
 
 ## To finish this ticket once a licence is available
 
@@ -122,8 +142,3 @@ direction.
 4. Verify with **Login As**: she can create and edit a Campaign, and cannot see
    Finance data.
 5. Reply to Zara confirming it's live.
-
-> ✍️ **TODO before sending:** the brief asks for a three-sentence reply with no
-> jargon. The draft above is close — read it aloud and cut anything Zara would
-> have to ask you to explain. She does not need to know what a permission set is;
-> she needs to know when Priya can run a campaign.

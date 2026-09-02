@@ -36,7 +36,10 @@ CF-11, the three-sentence version, which is Hemayet's to write.
 ---
 
 **Subject:** Re: Campaign access
-**To:** **Zara Lee — `hossainconsulting+zara@gmail.com`** (confirmed 02/09/2026)
+**To:** **Zara Lee — `hossainconsulting+zara@gmail.com`**
+**Status: SENDABLE.** Address proven by delivery — a Salesforce verification email
+arrived there on 02/09 and was opened. Send from your own mail client; no Salesforce
+account is involved in sending it.
 
 Hi Zara — Priya's account is set up and she can log in now. The Campaign side needs an
 extra licence we're buying in **October**, so creating and editing Campaigns will start
@@ -57,21 +60,30 @@ A date she can plan around, not a dependency she has to chase. The 21/08 draft a
 claimed *"I've asked Marcus"* before he had any way of being asked — see the correction
 above.
 
-### The address — resolved 02/09
+### The address — resolved 02/09, and proven
 
-**`hossainconsulting+zara@gmail.com`.** The first address offered was
-`hossainconsulting+zarra@sunrise.hossain.dev`, which bolted the working plus-alias pattern
-onto the **fictional domain**. `@sunrise.hossain.dev` accepts no mail — it is why
-`marcus.head`, `marcus.lee`, `ben.carter` and `zara.chan` were all created and **none of
-them ever logged in.**
+**`hossainconsulting+zara@gmail.com`**, and it is proven the only way that counts: **a
+real email arrived there and someone opened it.** That is stronger evidence than a field
+in a user record, which is what `marcus.head` and `ben.carter` had before nothing ever
+reached them.
+
+The first address offered was `hossainconsulting+zarra@sunrise.hossain.dev` — the working
+plus-alias pattern bolted onto the **fictional domain**, which accepts no mail.
 
 **Username is not Email.** A Salesforce username only has to be unique and email-shaped;
-it never receives anything. The **Email** field is the one that must be deliverable. Her
-username is still `zara.chan@sunrise.hossain.dev` and that is harmless — the address above
-is what matters.
+it never receives anything. The **Email** field is the deliverable one. That distinction
+produced three of the dud accounts in this org.
 
-Her org user was also reinstated on 02/09 and renamed **Zara Lee** — she had been
-deactivated, and was previously recorded as *Zara Chan*.
+**No Salesforce account is needed to send this reply.** It goes from Hemayet's mail client
+to the address above. The org record was never the channel — treating it as one is what
+made this ticket look blocked for two days.
+
+**Her org accounts, for the record.** Three were created: `zara.chan@sunrise.hossain.dev`
+(29/08, never used), `hossainconsulting+zara@sunrise.hossain.dev` (02/09, the hybrid
+address, abandoned), and **`hossainconsulting+zara@gmail.com` (02/09, active, logged in
+11:52)**. The first two are deactivated. **The ownership gate was run on all three before
+deactivating: 0 Accounts, 0 Opportunities, 0 Cases, 0 Tasks** — nothing stranded, per
+[sop-user-deactivation.md](sop-user-deactivation.md) v1.2.
 
 ---
 

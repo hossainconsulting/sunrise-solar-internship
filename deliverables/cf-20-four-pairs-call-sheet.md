@@ -1,5 +1,12 @@
 # CF-20 — the last four pairs
 
+> ## ✅ SUPERSEDED 05/09/2026 — all four were called the same day.
+> **Kowalski, Bennett and Young are one household each; Singh is two.**
+> CF-20 closed 20 of 20, three days early. Final count: **7 separate, 3 same,
+> customer count 48.** Kept as written — the working sheet the calls were made
+> from, including the 0-for-6 caution that Kowalski disproved within the hour.
+> Outcome: [status-note-marcus-cf-01-range-revision.md](status-note-marcus-cf-01-range-revision.md).
+
 **SunRise Solar · Org `sunrise` · Drafted 05/09/2026 · Owner: Hemayet Hossain**
 **Eight tasks, all Not Started, all due Tuesday 08/09. Monday is the only working day.**
 

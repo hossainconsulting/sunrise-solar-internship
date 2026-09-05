@@ -1,12 +1,14 @@
-# Status note — the customer range you gave Sarah has moved
+# Status note — the customer count is 48, and Sarah has 41–51
 
-**SunRise Solar · Drafted 05/09/2026 · CF-01 / CF-02 / CF-20**
+**SunRise Solar · 05/09/2026 · CF-01 / CF-02 / CF-20**
+*Rewritten 05/09 against the finished result. An earlier draft said 47–51 with six pairs
+answered; all ten are now answered and the number is single.*
 
 | | |
 |---|---|
 | **To** | Marcus |
 | **Channel** | `SunRise Ops — Escalations` — @mention **Marcus Neil** (`005gK00007HBpc5QAD`). **Not Marcus Head or Marcus Lee, both deactivated.** |
-| **Audit copy** | Chatter on `Oliver J. Murphy Residence` (`001gK00001Luv6zQAB`) |
+| **Audit copy** | Chatter on `William J. Kowalski Residence` (`001gK00001Luv6TQAR`) |
 
 Per [sop-escalating-rule-changes.md](sop-escalating-rule-changes.md) v1.1: what changed,
 why, what replaced it, and the ask.
@@ -15,108 +17,140 @@ why, what replaced it, and the ask.
 
 ## The short version — this is what goes in the group
 
-> **@Marcus Neil — the 41–51 you gave Sarah on Tuesday is now 47–51, and I ran past the
-> date you set.**
+> **@Marcus Neil — the customer count is 48. Sarah has 41–51 from Tuesday.**
 >
-> **The six calls are done. All six say their two records are separate households, not
-> duplicates.** So those six pairs don't collapse, and the bottom of the range goes with
-> them — 41 needed all ten pairs to be duplicates and six of them aren't. **It's 47–51, and
-> the four calls left settle it to one number.**
+> **CF-20 is done, all ten pairs, three days early.** Seven are separate households and
+> three are the same customer twice — Kowalski, Bennett and Young. So 51 accounts less
+> three merges is **48 households**. That's a single number, which is what you asked for on
+> the 25th and haven't had since.
 >
-> **Two things I got wrong and you should hear from me.** You said "this week" on Tuesday.
-> I made two of the calls Thursday and the other four today, Saturday — a day past. And I
-> didn't get any of the six to name their own suburb: they all hesitated, I read them the
-> three options, and they picked. That's a weaker confirmation than it sounds and I've
-> written it into each record as prompted rather than confirmed.
+> **The six address confirmations are done too. All six were already right, nothing moved.**
 >
-> **Two asks.** Does Sarah get the corrected range now, or at the board pack? And the last
-> four pairs fall due Tuesday with only Monday to work in — do I make those four calls, or
-> do they wait for Jake?
+> **Three things I need from you, and one I got wrong.** The three merges need your
+> survivorship call before I touch anything — each one throws away a real phone number and
+> I'm not doing that on my own judgement after CF-02. Sarah needs the number. And the
+> licence purchase hasn't landed, so Jake still can't log in.
+>
+> **What I got wrong: I ran a day past the date you set on the six calls, and none of those
+> six customers named their own suburb — I read them the options and they picked. I've
+> written that into each record as prompted rather than confirmed, because it's weaker than
+> it sounds.**
 
 ---
 
-## What changed
+## The number
 
-**On 02/09 you published 41–51 households to Sarah**, on your own instruction to tell her
-before she asked rather than let her find it in the pack.
+**48 households.**
 
-**That range assumed the ten held middle-initial pairs might all be duplicates.** Six have
-now been asked, and **all six are separate households.**
-
-| Household | Answer |
+| | |
 |---|---|
-| Oliver Murphy | separate households |
-| Samuel Fitzgerald | separate households |
-| Lucas Tran | separate households |
-| Andrew Anderson | separate households |
-| Daniel Clark | separate households |
-| Joshua Patel | separate households |
+| Accounts today | **51** |
+| Pairs confirmed **one household** — Kowalski, Bennett, Young | **3** |
+| Pairs confirmed **two households** | **7** |
+| **Customer count once the three merges run** | **48** |
 
-51 accounts stand. Only the four remaining pairs can still collapse:
+**41 is not reachable and never was.** It required all ten pairs to be duplicates. Seven
+are not.
 
-**51 − (0 to 4) = 47 to 51.**
+CF-01's freeze point slipped twice against 08/09 — first when the commitment and the Tasks
+were set on the same day pointing at different dates, then again last week. **It has now
+resolved three days before it was due.**
 
 ---
 
-## Why the old number cannot come back
+## What the hold was worth, and what it wasn't
 
-CF-20 held the ten pairs on this reasoning:
+Every one of the twenty CF-20 tasks carried the same justification:
 
-> *"Evidence is strong but circumstantial: 9 of 10 share a suburb, 10 of 10 split landline
-> vs mobile."*
+> *"EVIDENCE they are one household: matching suburb, and complementary phone formats —
+> landline on one record, mobile on the other — consistent with two import sources for the
+> same customer. That pattern holds on all 10 pairs."*
 
-**That evidence has now been tested six times and been wrong six times.** Every one of the
-six carried exactly that pattern and every one turned out to be two households. It is a
-pattern in how the 17/08 data was loaded, not a signal about customers.
+**It finished 3 for 10.** Every pair carried that pattern and seven of them were two
+different customers.
 
-**Which is the argument for having held them.** Merging on that evidence in August would
-have destroyed six real customers' records — twelve accounts collapsed into six — and
-nothing in the org would have shown it afterwards. **The hold was right and the reason it
-was right is now on the record rather than assumed.**
+**Both halves of that matter, and the second one is the uncomfortable half.**
+
+**Holding them was right.** Merging on that evidence in August would have collapsed seven
+real customers into three and nothing in the org would have shown it afterwards — the same
+irreversible loss as CF-02's addresses, at seven times the scale.
+
+**But the stated reason for holding them was wrong.** The hold was correct because the rule
+was *don't merge on circumstantial evidence*, not because that particular evidence pointed
+anywhere. If the pattern had been treated as strong enough to act on — which is how it
+reads in the task text — the damage would have been done under a written justification.
+
+**The same test caught one more thing.** On Murphy, the org's own evidence said Chatswood —
+two of his four merged records and his pair record both said so — and the customer said
+Campbelltown, which the account already held. **The circumstantial evidence was wrong and
+the record was right.**
 
 ---
 
 ## Two things I got wrong
 
 **1. I ran past the date.** You said "this week" on Tuesday 01/09. Murphy and Fitzgerald
-were done Thursday 03/09; Anderson, Clark, Patel and Tran today, Saturday 05/09 — one day
-past COB Friday. Not a large slip, but you set a date and I should say when I miss one
-rather than let it pass quietly.
+were done Thursday 03/09; the other four on Saturday 05/09 — one day past COB Friday. Not a
+large slip, but you set a date and you should hear about a miss from me.
 
-**2. All six were prompted, and that matters.** None of the six named their suburb unaided.
-Each hesitated, I read out the three candidates, and they chose. **A prompted confirmation
-of the value already on the record is the weakest form this evidence takes** — it invites
-agreement. Every one confirmed what the record already held, and no address changed.
+**2. All six address calls were prompted, and that matters.** None of the six named their
+suburb unaided. Each hesitated, I read out the three candidates, and they chose. **A
+prompted confirmation of the value already on the record is the weakest form this evidence
+takes** — it invites agreement. All six confirmed what was already there and no address
+changed.
 
-It is written into each task as *prompted, not open*, in those words, so nobody reading it
-later takes it for something stronger. **If you want any of the six re-done with an open
-question, say which and I will.**
-
-**One that came out well, worth knowing:** on Murphy, the org's own evidence pointed at
-Chatswood — two of his four merged records and his pair record both said so — and he told
-me Campbelltown, which is what the account already held. **The circumstantial evidence was
-wrong and the record was right.** That is the clearest case yet for not merging on
-name-and-suburb weight.
+It is written into each task as *prompted, not open*, in those words, so nobody later reads
+it as something stronger. **If you want any of the six re-done with an open question, say
+which.**
 
 ---
 
 ## The asks
 
-**1. Does Sarah get the corrected range now, or at the board pack?**
-My recommendation: **now, and from you.** She was told 41–51 four days ago on the principle
-of telling her before she asks. The same principle applies to the correction, and it is
-better news — a narrower range, and after Tuesday a single number.
+### 1. The three merges need your survivorship call
 
-**2. Do I make the last four calls, or do they wait for Jake?**
-Kowalski, Bennett, Young and Singh fall due **Tuesday 08/09**, and Monday is the only
-working day. They are shorter calls than the six — both records in each pair hold an
-identical address, so there is nothing to confirm, only *one household or two*.
-Sheet ready: [cf-20-four-pairs-call-sheet.md](cf-20-four-pairs-call-sheet.md).
+**Nothing has been merged.** All three are recorded as MERGE CANDIDATES and stop there,
+same as the CF-13 Contact rule.
 
-**You said on Tuesday that once Jake is in, this is his standing job.** He still has no
-licence — that is CF-03, where you chose *buy three*, and the purchase has not landed. So
-the four are mine unless you say otherwise, and I would rather ask than assume it a second
-time.
+| Pair | Customer's preferred number | Survivor on that basis | Number that gets discarded |
+|---|---|---|---|
+| **Kowalski** | 0410 110 866 — **mobile** | `William J. Kowalski Residence` | (02) 4406 1434 |
+| **Bennett** | (02) 4522 1558 — **landline** | `Liam Bennett Residence` | 0410 142 542 |
+| **Young** | (02) 7306 4534 — **landline** | `Michael Young Residence` | 0410 269 246 |
 
-**If they go the way the six did, the answer is 51 households** and CF-01 closes on a
-single number for the first time since 25/08.
+**These do not point the same way, so there is no blanket rule to approve.** Kowalski wants
+the mobile, the other two want the landline. Two out of three is a tally, not a rule.
+
+**What I recommend:** survivor = the record holding the number the customer said reaches
+them, and **the discarded number written into the survivor's Description before the merge
+runs.** Salesforce does not keep it. A lost phone number here is the same failure as the
+six addresses CF-02 spent three weeks unwinding, and this time we know in advance.
+
+**Worth noting what this basis is.** Every survivorship decision in this org before this
+week rested on record age — which is what produced CF-02, and what the CF-13 rule had to
+give up on and declare arbitrary rather than dress up. **These three rest on the customer
+saying which number reaches them. It is the first time a merge here has had an actual
+reason behind the choice.**
+
+### 2. Does Sarah get 48 now, or at the board pack?
+
+**My recommendation: now, and from you.** She was told 41–51 on Tuesday on your own
+principle of telling her before she asks. The same principle applies to the correction, and
+this is better news — a single defensible number rather than a ten-wide range.
+
+**Note the number is 48 once the merges run.** Until you approve them the org still holds
+51 accounts, and a report Sarah runs herself will say 51. Either approve the merges first
+or tell her both figures and why they differ.
+
+### 3. The licence purchase has not landed
+
+You chose **buy three** on 01/09. Nothing has arrived, so **Jake still cannot log in.**
+
+That currently blocks the duplicate-queue owner you rostered him for (CF-07), his own
+pipeline report (2.3), and the standing job you described — *"once Jake's in, it's his
+standing job"*. The register recorded this pattern in August as **every open control in
+this org points at a man who cannot log in**, and that is still true five days after the
+decision was made.
+
+**This is not a new decision — it is the one you already made, not yet executed.** If it is
+stuck on procurement rather than on you, say so and I will stop treating it as pending.

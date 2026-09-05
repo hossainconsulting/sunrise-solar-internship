@@ -6,10 +6,14 @@
 
 > ### ⚠️ This document is a draft. Do not treat it as the standard.
 >
-> **Four `✍️ TODO` sections below are unwritten** — §1, §3, §4 and §7. Until they
+> **Three `✍️ TODO` sections below are unwritten** — §1, §3 and §4. Until they
 > are filled in, this SOP cannot be handed to anyone as the way SunRise provisions
 > users, because its reasoning is missing in exactly the places that explain *why*
 > the steps are in the order they are.
+>
+> *(Corrected 03/09/2026: this read "Four — §1, §3, §4 and §7" until today. **§7 was
+> written on 02/09 by CF-09** and the header was never updated, so the document went on
+> declaring a blank it had already filled.)*
 >
 > **Version history:**
 >

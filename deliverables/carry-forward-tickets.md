@@ -52,6 +52,42 @@ written by Hemayet.**
 > duplicates.** The merge needs a survivorship rule from Marcus, so **CF-22 is now
 > blocking build work, not only reporting.**
 
+## ⏱ As at 05/09/2026 — Jake exists. CF-07 does not unblock.
+
+**Jake Mathewson** (`005gK00007VGhKTQA1`, `hossainconsulting+jake@gmail.com`) was created
+at 20:46 on 05/09 and **logged in at 20:47** — a proven login on a real mailbox, added to
+`SunRise Ops — Escalations`, and sent an orientation post (`0D5gK00000VRVAkSAP`).
+
+**He is the last of the four people this register names to become reachable at all.**
+Marcus is mentioned 139 times across the deliverables, Jake 75, Zara 28, Sarah 20; every
+escalation of Weeks 1 and 2 was addressed to a channel none of them could receive. The
+group now holds four members and **all four have actually logged in** — the first time
+that has been true.
+
+> ### ⚠️ He is Chatter Free. Do not read this as CF-07 closing.
+>
+> **Salesforce licences are still 4 of 4.** The *buy three* Marcus approved on 01/09 has
+> not landed. Chatter Free lets Jake read this group and reply. It does **not** let him
+> open an Account, an Opportunity, a Case, or a report.
+>
+> | Assigned to Jake | Status |
+> |---|---|
+> | **CF-07** — duplicate queue, ten minutes Mondays | **Blocked.** A Duplicate Record Set is a record; his licence cannot open one |
+> | **Ticket 2.3** — his own pipeline report | **Blocked.** He cannot open a report. It still emails Jack and Mia, who have never logged in |
+>
+> **This register already wrote this down about Marcus in August** — *"what Chatter Free
+> does not buy: he cannot open the CF-01 report, the pipeline report, or any Account or
+> Opportunity."* Same licence, same wall, different person, five weeks later.
+>
+> **Recording "Jake's in" and closing CF-07 would be a control that reads satisfied and is
+> not** — the fourth instance of the pattern this document exists to catch. The limit was
+> therefore told to Jake directly in the orientation post, not only written here.
+
+**Also open on him:** he has **no `UserRole`**, which places him alongside Jack and Mia in
+CF-12 — records rolling up to nobody.
+
+---
+
 ## ⏱ As at 03/09/2026 — current recount
 
 **Daily session notes now live in [`sessions/`](sessions/), one file per day**
@@ -179,7 +215,7 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-04 | Who inherits the 666 unowned Opportunities | W2 · 2.3 | ✅ **CUSTODY EXECUTED 02/09** — 666 moved, declared | Jake's licence day |
 | CF-05 | Stale-pipeline threshold: 30 days or 14 | W2 · 2.3 | ✅ **30 DAYS — report done 01/09** | Align the 2.3 doc |
 | CF-06 | Confirm Block-on-create for duplicate accounts | W2 · 2.2 | ✅ **DONE 01/09 — keep blocking** | — |
-| CF-07 | Roster an owner for the duplicate queue | W2 · 2.2 | ✅ **ANSWERED 01/09 — Jake, Mondays** | Depends on CF-03 |
+| CF-07 | Roster an owner for the duplicate queue | W2 · 2.2 | 🟠 **STILL BLOCKED 05/09 — Jake exists and is reachable, but Chatter Free cannot open a Duplicate Record Set** | CF-03 purchase |
 | CF-08 | ~~Four~~ **Three** unwritten sections in the provisioning SOP *(§7 closed by CF-09)* | W1 · 1.1 | 🟠 BLOCKED | Hemayet |
 | CF-09 | The freeze-vs-deactivate paragraph | W1 · 1.2 | ✅ **WRITTEN 02/09** — SOP now v1.2 | — |
 | CF-10 | Dormant-user review: the send decision | W1 · 1.2 | 🟠 BLOCKED | Hemayet |

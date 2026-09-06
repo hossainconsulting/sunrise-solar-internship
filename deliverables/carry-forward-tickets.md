@@ -283,6 +283,8 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-19 | 47 accounts still violate the naming standard | W2 · 2.2 | 🔵 DEFERRED | CF-20 |
 | CF-20 | Ten middle-initial pairs, held for confirmation | W2 · 2.1 | ✅ **CLOSED 05/09 — all 10 answered, 3 days early.** 7 separate, 3 same household. **All 20 task records corrected 07/09** — they still asserted the phone-format evidence, which finished **3 for 10**. Merging on it would have been wrong 7 times | — |
 | CF-23 | ~~23~~ **62 records owned by deactivated OrgFarm EPIC** — and it was 39 Flows nobody had counted | W2 · CF-04 | ✅ **CLOSED 02/09 · VERIFIED 03/09** — [sweep artifact](../evidence/week-03/cf-23-ownership-sweep-03-09.md): 185 of 187 confirmed zero, 2 unqueryable | — |
+| CF-24 | **None of Phase 0's three planted bugs exist** — and Week 4.2's was deleted by Ticket 1.1 | P0 · §0.8 | 🔴 **RAISED 07/09.** Week 4.2's subject is gone; Weeks 5.1 and 10.1 still recoverable **today** | Hemayet |
+| CF-25 | **150 leads, $180,000 of campaigns, nobody contacted** | W4 · 4.1 | 🔴 **RAISED 07/09** — 69 days, all `Open - Not Contacted`, all owned by the admin | Marcus: who works them |
 
 ---
 
@@ -542,6 +544,76 @@ email address is still recorded nowhere in this repo.
 **This also lands on CF-03 option (c),** which commits to telling four people the hires
 are unprovisioned: **HR, Sarah, Jake and the two hires. Three of those four have no user
 account either.**
+
+---
+
+## CF-24 — None of Phase 0's three planted bugs exist
+
+**Raised 07/09 while writing the Week 4 brief · Verified in the org, not inferred**
+
+Phase 0 §0.8 says *"Build these now and forget how. In Weeks 4, 5 and 10 you diagnose them
+cold."* **All three are absent.**
+
+| Bug | For | In the org 07/09 |
+|---|---|---|
+| Web-to-Lead form, inactive auto-response, missing State field | **Week 4.2** | **Absent.** No `seed/webform.html`; all 150 leads have a State |
+| `NSW Territory Routing`, entry-order bug | Week 5.1 | **Absent.** Only the stock `Standard` rule |
+| Over-permissioned user + `Legacy Reporting Access` | Week 10.1 | **Absent.** No such perm set; no non-admin holds View All Data |
+
+**Week 4.2's was not skipped — it was deleted.** Build log, **19/08**, Ticket 1.1:
+
+> *"Removed the unused Web-to-Lead config referencing OrgFarm EPIC… Training artifact, no
+> live lead capture. Accepted risk, noted."*
+
+**Every word true.** It was unused, it did block EPIC's deactivation, and removing it was
+right for Ticket 1.1. **It was recorded correctly and connected to nothing.**
+
+> **CF-22's shape, third occurrence — a finding recorded against one ticket does not
+> propagate to the others.** The first two cost escalations that reached nobody. **This one
+> cost a future exercise**, which is why it went unnoticed for nineteen days: nothing was
+> broken *yet*.
+
+**Action, and the two halves have different deadlines:**
+
+1. **Week 4.2 loses its cold diagnosis.** It becomes a *build* — Web-to-Lead done properly,
+   auto-response **active** — with the three failure modes written up rather than staged.
+   **Not recoverable**; do not stage a fake investigation with a known answer.
+2. 🔴 **Plant the Week 5.1 and Week 10.1 bugs today, and do not write down how.** Five
+   minutes each. Week 5 is one week out and Week 10 is six, so both cold diagnoses still
+   survive — **but only if this is done before Week 5 opens.** If it waits, it goes the way
+   this one did.
+
+---
+
+## CF-25 — 150 leads, $180,000 of campaigns, and nobody contacted
+
+**Raised 07/09 · The largest unworked pile yet, and the only one that cost cash**
+
+| | |
+|---|---|
+| Campaigns | **6**, all `Completed`, all ended by 30/06/2026 |
+| Actual spend | **$180,000** |
+| Leads generated | **150** — exactly 25 per campaign |
+| **Contacted** | **0.** All 150 `Open - Not Contacted` |
+| **Converted** | **0.** `NumberOfConvertedLeads` = 0 on all six |
+| Owned by anyone but the admin | **0** |
+| Days since the last campaign ended | **69** |
+
+**Campaign ROI cannot be computed in this org.** Not "is poor" — cannot be computed. No
+lead converted, so no Opportunity carries a `CampaignId`, so all six rank identically at
+−100%. **Nothing here shows the campaigns failed; it shows that what happens after a lead
+arrives was never run.**
+
+> **The fifth instance of one pattern, and the first that was never even flagged.** The 74
+> duplicate sets, CF-02's six addresses, CF-13 Bucket B's 21 groups and CF-07's queue all
+> had *something* — an overdue task, an unread list. **These 150 had no control at all.**
+> A campaign marked `Completed` for the thing that finished, beside 150 records marked
+> `Open - Not Contacted` for the thing that never started. Both accurate. Never read
+> together.
+
+**Blocked on Marcus for the same question CF-07, CF-02 and CF-13 are blocked on** — who is
+rostered to make contact — **arriving a fourth time on a fourth object.** Full treatment in
+[week-04-build-brief.md](week-04-build-brief.md).
 
 ---
 

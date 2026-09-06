@@ -52,7 +52,124 @@ written by Hemayet.**
 > duplicates.** The merge needs a survivorship rule from Marcus, so **CF-22 is now
 > blocking build work, not only reporting.**
 
+## ⏱ As at 05/09/2026 — Jake exists. CF-07 does not unblock.
+
+**Jake Mathewson** (`005gK00007VGhKTQA1`, `hossainconsulting+jake@gmail.com`) was created
+at 20:46 on 05/09 and **logged in at 20:47** — a proven login on a real mailbox, added to
+`SunRise Ops — Escalations`, and sent an orientation post (`0D5gK00000VRVAkSAP`).
+
+**He is the last of the four people this register names to become reachable at all.**
+Marcus is mentioned 139 times across the deliverables, Jake 75, Zara 28, Sarah 20; every
+escalation of Weeks 1 and 2 was addressed to a channel none of them could receive. The
+group now holds four members and **all four have actually logged in** — the first time
+that has been true.
+
+> ### ⚠️ He is Chatter Free. Do not read this as CF-07 closing.
+>
+> **Salesforce licences are still 4 of 4.** The *buy three* Marcus approved on 01/09 has
+> not landed. Chatter Free lets Jake read this group and reply. It does **not** let him
+> open an Account, an Opportunity, a Case, or a report.
+>
+> | Assigned to Jake | Status |
+> |---|---|
+> | **CF-07** — duplicate queue, ten minutes Mondays | **Blocked.** A Duplicate Record Set is a record; his licence cannot open one |
+> | **Ticket 2.3** — his own pipeline report | **Blocked.** He cannot open a report. It still emails Jack and Mia, who have never logged in |
+>
+> **This register already wrote this down about Marcus in August** — *"what Chatter Free
+> does not buy: he cannot open the CF-01 report, the pipeline report, or any Account or
+> Opportunity."* Same licence, same wall, different person, five weeks later.
+>
+> **Recording "Jake's in" and closing CF-07 would be a control that reads satisfied and is
+> not** — the fourth instance of the pattern this document exists to catch. The limit was
+> therefore told to Jake directly in the orientation post, not only written here.
+
+**Also open on him:** he has **no `UserRole`**, which places him alongside Jack and Mia in
+CF-12 — records rolling up to nobody.
+
+---
+
+## ⏱ As at 03/09/2026 — current recount
+
+**Daily session notes now live in [`sessions/`](sessions/), one file per day**
+(`sessions/2026-09-03.md`). This register stays canonical: a session file records what was
+worked, and anything decided in one is mirrored back here before the day closes. The
+session file is the day; this document is the truth.
+
+| Claim | Date set | **As at 03/09** |
+|---|---|---|
+| **CF-02** *"Hemayet makes the six calls this week"* | 01/09 | **Expires COB Fri 04/09 — tomorrow. 0 of 6 done** |
+| **CF-20** twenty held Tasks fall due | 25/08 | **Tue 08/09 — 5 days, 3 working days** |
+| CF-03 *"Unanswered for N days"* | 19/08 | **Clock stopped 01/09 at 13 days** — answered *buy three* |
+| CF-11 sendable, unsent | 02/09 | **1 day** |
+
+> **CF-02's commitment was made on a Tuesday and said "this week". That week ends
+> tomorrow, and none of the six calls have been made.** This is CF-01's shape a second
+> time — a commitment and the mechanism to deliver it set on the same day, pointing at
+> different dates. The first time it was a surprise. It is not one now.
+>
+> **CF-20 remains the harder date:** the twenty pairs fall due Tuesday 08/09, they are the
+> mechanism the **41–51 customer range** depends on, and CF-01's freeze point has already
+> slipped once against exactly this date.
+>
+> **Still one job, still nobody rostered:** CF-02's six addresses, CF-20's ten pairs and
+> CF-13 Bucket B's twenty-one groups are filed as three tickets. Two of the three now have
+> dates inside five days.
+
+### It is one job in a stronger sense than this register knew — 03/09
+
+Building [cf-02-call-list.md](cf-02-call-list.md) established, against the evidence files:
+
+**The six CF-02 households are the "J." halves of six of CF-20's ten pairs**
+(verified in [`accounts-post-merge.csv`](../evidence/week-02/accounts-post-merge.csv)), and
+**their Contact duplicate groups are CF-13's Bucket B**, carrying the same three-suburb
+spread (verified in [`cf-13-post-merge.csv`](../evidence/week-02/cf-13-post-merge.csv)).
+
+**One call to Oliver Murphy answers CF-02, CF-20 and CF-13 Bucket B for that household.**
+
+| | Calls |
+|---|---|
+| The six — closes CF-02, 6 of CF-20's 10, and their Bucket B groups | **6** |
+| CF-20's remaining four — Kowalski, Bennett, Young, Singh | **4** |
+| Bucket B groups in households on neither list | ~11 |
+| **Total** | **~21, not 37** |
+
+**Ten calls close CF-02 and CF-20 outright.** Six are due tomorrow, four on 08/09.
+
+### ⚠️ CF-02's premise is wrong — the discarded addresses are recoverable
+
+[cf-02-address-confirmations.md](cf-02-address-confirmations.md) states **twice** that the
+discarded addresses are unrecoverable from the org, and that is its stated reason the calls
+are the only route. **All 23 pre-merge records for these six households are in
+[`accounts-pre-merge-reconstructed.csv`](../evidence/week-02/accounts-pre-merge-reconstructed.csv)**,
+captured 25/08 with every suburb and postcode intact — a file that same document cites.
+
+> **This is CF-14 a second time.** CF-14 declared Week 1's evidence unrecoverable without
+> opening the folder. Here a document declared the addresses lost while the file holding
+> them sat in its own evidence links. **Both were written by the person who had already
+> captured the evidence.**
+
+**It does not remove the calls** — three candidate suburbs is not an answer, and no seeded
+record is more authoritative than another. **It narrows them.** The street never varies
+within a merge group; only `BillingCity`/`BillingPostalCode` do, across exactly three
+values. The call is now a closed question — *Campbelltown, Chatswood or Penrith?*
+
+**Call order is by contradiction, not alphabet: Murphy → Fitzgerald → Tran → Anderson →
+Clark → Patel.** Murphy's retained suburb is contradicted by every other signal in the org,
+and CF-20 had independently flagged him as the 1 of 10 pairs not sharing a suburb — two
+methods, two tickets, the same record. **The ranking orders calls only. It must never
+change an address:** counting duplicates in seed data is not evidence, and using it as such
+is the substitution Ticket 2.1 §③/§④ already records as the mistake.
+
+**CF-02's document has not been corrected** — the "unrecoverable" sentences still stand
+there. Left visible rather than quietly edited, per this register's practice.
+
+---
+
 ## ⏱ As at 01/09/2026 — recount the clocks before you quote them
+
+> **Superseded by the 03/09 recount above. Left unaltered** — the counts below were correct
+> when written, and rewriting them would falsify the log.
+
 
 **Everything below dated 27/08 or 29/08 is correct as written.** These are the counts
 that keep moving, recomputed today. **Nothing else in this document has been altered** —
@@ -90,15 +207,15 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 
 | # | Ticket | From | Status | Blocked on |
 |---|---|---|---|---|
-| CF-01 | The customer-count freeze point passes today | W2 · 2.1 | ✅ **CLOSED 02/09** — range published, Sarah told | — |
-| CF-02 | Six bucket-C address confirmations due today | W2 · 2.1 | 🔴 **ANSWERED 01/09 — Hemayet makes the six calls this week** | 0 of 6 done |
+| CF-01 | The customer-count freeze point passes today | W2 · 2.1 | ⚠️ **REOPENED 05/09 — the count is 48, a single number.** Sarah holds 41–51 from 02/09; 41 was never reachable | Marcus: tell Sarah |
+| CF-02 | Six bucket-C address confirmations due today | W2 · 2.1 | ✅ **CLOSED 05/09 — 6 of 6 confirmed.** All prompted, all matched the record; no address changed | — |
 | CF-21 | Open-task visibility — report built | W2 · CF-01 | ✅ **DONE 27/08** | — |
 | CF-22 | Every escalation was addressed to a channel that cannot reach anyone | W1–W2 | ✅ **DONE 29/08** — channel built, six notes sent | — |
 | CF-03 | Licence decision — Salesforce is 4 of 4 | W1 · 1.1 | ✅ **ANSWERED 01/09 — buy three.** Priya waits to October | Purchase |
 | CF-04 | Who inherits the 666 unowned Opportunities | W2 · 2.3 | ✅ **CUSTODY EXECUTED 02/09** — 666 moved, declared | Jake's licence day |
 | CF-05 | Stale-pipeline threshold: 30 days or 14 | W2 · 2.3 | ✅ **30 DAYS — report done 01/09** | Align the 2.3 doc |
 | CF-06 | Confirm Block-on-create for duplicate accounts | W2 · 2.2 | ✅ **DONE 01/09 — keep blocking** | — |
-| CF-07 | Roster an owner for the duplicate queue | W2 · 2.2 | ✅ **ANSWERED 01/09 — Jake, Mondays** | Depends on CF-03 |
+| CF-07 | Roster an owner for the duplicate queue | W2 · 2.2 | 🟠 **STILL BLOCKED 05/09 — Jake exists and is reachable, but Chatter Free cannot open a Duplicate Record Set** | CF-03 purchase |
 | CF-08 | ~~Four~~ **Three** unwritten sections in the provisioning SOP *(§7 closed by CF-09)* | W1 · 1.1 | 🟠 BLOCKED | Hemayet |
 | CF-09 | The freeze-vs-deactivate paragraph | W1 · 1.2 | ✅ **WRITTEN 02/09** — SOP now v1.2 | — |
 | CF-10 | Dormant-user review: the send decision | W1 · 1.2 | 🟠 BLOCKED | Hemayet |
@@ -111,8 +228,8 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-17 | Ben's Manager is a placeholder | W1 · 1.1 | 🔵 DEFERRED | Real reporting line |
 | CF-18 | `Marketing Campaign Access` permission set | W1 · 1.3 | 🔵 DEFERRED | CF-03 |
 | CF-19 | 47 accounts still violate the naming standard | W2 · 2.2 | 🔵 DEFERRED | CF-20 |
-| CF-20 | Ten middle-initial pairs, held for confirmation | W2 · 2.1 | 🔵 DEFERRED | 08/09/2026 |
-| CF-23 | ~~23~~ **62 records owned by deactivated OrgFarm EPIC** — and it was 39 Flows nobody had counted | W2 · CF-04 | ✅ **CLOSED 02/09** — all 187 ownable objects sweep to zero | — |
+| CF-20 | Ten middle-initial pairs, held for confirmation | W2 · 2.1 | ✅ **CLOSED 05/09 — all 10 answered, 3 days early.** 7 separate, 3 same household | — |
+| CF-23 | ~~23~~ **62 records owned by deactivated OrgFarm EPIC** — and it was 39 Flows nobody had counted | W2 · CF-04 | ✅ **CLOSED 02/09 · VERIFIED 03/09** — [sweep artifact](../evidence/week-03/cf-23-ownership-sweep-03-09.md): 185 of 187 confirmed zero, 2 unqueryable | — |
 
 ---
 
@@ -508,13 +625,21 @@ Hemayet cannot roster Jake.
 
 # 🟠 Blocked on Hemayet — these cannot be ghost-written
 
-Seven `✍️ TODO` markers remain across four documents. They are marked *"write this in
-your own words"* by design: an SOP in someone else's voice is not yours to defend, and
-these are the paragraphs that show understanding rather than button-knowledge.
+~~Seven~~ **Four** `✍️ TODO` markers remain across ~~four~~ **two** documents. They are
+marked *"write this in your own words"* by design: an SOP in someone else's voice is not
+yours to defend, and these are the paragraphs that show understanding rather than
+button-knowledge.
 
-## CF-08 — Four unwritten sections in the provisioning SOP
+> **Recounted 03/09** — 3 in [sop-user-provisioning.md](sop-user-provisioning.md)
+> (lines 36, 64, 75) and 1 in [dormant-user-review.md](dormant-user-review.md) (line 81).
+> **CF-09 and CF-11 closed theirs**; `sop-user-deactivation.md` and
+> `ticket-1.3-reply-to-zara.md` now carry none. The "seven across four" figure was written
+> 27/08 and had been true then.
 
-**File:** [sop-user-provisioning.md](sop-user-provisioning.md) §1, §3, §4, §7
+## CF-08 — ~~Four~~ Three unwritten sections in the provisioning SOP
+
+**File:** [sop-user-provisioning.md](sop-user-provisioning.md) §1, §3, §4
+*(§7 closed by CF-09 on 02/09 — heading and file reference corrected 03/09)*
 
 The document was reversioned **v1.0 → v0.9 DRAFT** on 26/08 so it no longer *claims*
 to be finished. It goes back to v1.0 when these are written, not before.

@@ -1,8 +1,40 @@
 # CF-02 — Six bucket-C address confirmations
 
 **SunRise Solar · Org `sunrise` · Worked 29/08/2026 · Owner: Hemayet Hossain**
-**Status: OPEN — the six confirmations have still not been made. The control has been
-rebuilt so that this is now visible instead of hidden.**
+
+> ## ✅ Corrected 07/09/2026 — this document was two days out of date and wrong on a point of fact
+>
+> **Status: CLOSED 05/09/2026. All six addresses confirmed with the customer.** Six calls
+> were made, all six customers named the suburb already held on the record, no address
+> needed changing, and all six `Service_Address_Unconfirmed__c` flags are now correctly
+> clear. **Verified in the org 07/09: 0 accounts flagged, 0 open tasks.**
+>
+> **The body below is left as written on 29/08, with its two false claims struck rather
+> than deleted** — this register's practice throughout, because a quietly corrected
+> document loses the finding. Two things in it are now known to be wrong:
+>
+> 1. **"The discarded addresses are not recoverable from the org" — stated twice, and
+>    false both times.** They were recoverable from three independent places, all of which
+>    existed on the day this was written: the pre-merge CSV
+>    (`evidence/week-02/accounts-pre-merge-reconstructed.csv`, a file this very document
+>    cites), the recycle-bin rows, and **the tasks themselves** — every one of the six had
+>    listed its discarded suburbs in its own 25/08 comment the whole time.
+> 2. **"Addresses confirmed: 0 of 6" — now 6 of 6.**
+>
+> **The first is the more useful error.** It is
+> [CF-14](carry-forward-tickets.md#cf-14--week-1-evidence-was-never-captured) a second
+> time: a document
+> declaring evidence lost while the evidence sits in its own citation list. Both were
+> written by the person who had already captured that evidence. **It did not change what
+> had to be done** — three candidate suburbs is not an answer, and the calls were still
+> the only route — **but it was offered as the reason the calls were the only route, and
+> that reason was not true.**
+>
+> **Recorded honestly, because it matters to how much the result is worth:** all six were
+> **prompted**, not open. No customer named their suburb unaided; the three candidates
+> were read out and the customer chose. Each task says so in terms. Six prompted
+> confirmations of six incumbent values is a real result and a soft one, and the Week 10
+> audit will ask.
 
 ---
 
@@ -10,8 +42,10 @@ rebuilt so that this is now visible instead of hidden.**
 
 Six accounts carry a service address that **was never confirmed with the customer**. It
 was selected during the 25/08 deduplication by **record age alone**, because no won
-Opportunity existed on any of the merged records to discriminate between them. The
-discarded addresses are not recoverable from the org.
+Opportunity existed on any of the merged records to discriminate between them.
+~~The discarded addresses are not recoverable from the org.~~ **False — corrected
+07/09. They were in the pre-merge CSV, the recycle bin, and on the six tasks
+themselves. See the header.**
 
 On **29/08 the six Tasks were closed as Completed without any customer contact and
 without any address being changed.** They were reopened the same day. This document
@@ -61,8 +95,10 @@ CF-01 report — built two days earlier precisely to surface this work — went 
 **6 tasks due 27/08** to **0**. The one instrument built to make the problem visible was
 the instrument that stopped showing it.
 
-**The risk did not change at any point.** The discarded addresses remain unrecoverable
-and a wrong one still sends a technician to the wrong house.
+**The risk did not change at any point.** ~~The discarded addresses remain unrecoverable
+and~~ **(false — see the header)** a wrong address still sends a technician to the wrong
+house. **That risk is now retired: all six were confirmed on 05/09 and all six were
+already correct.**
 
 ### ③ Reopened, and the false due date removed
 
@@ -130,32 +166,47 @@ steps, not one.
 
 ## Org state now
 
-| | Before 29/08 | After |
-|---|---|---|
-| Six Tasks | Not Started, due 27/08 (overdue) | **Not Started, no due date** |
-| Six Accounts | No flag | **`Service_Address_Unconfirmed__c` = true** |
-| Open tasks by due date | 6 due 27/08 · 20 due 08/09 | **6 undated · 20 due 08/09** |
-| Addresses confirmed | 0 of 6 | **0 of 6** |
+| | Before 29/08 | After 29/08 | **Verified 07/09** |
+|---|---|---|---|
+| Six Tasks | Not Started, due 27/08 (overdue) | **Not Started, no due date** | **Completed, each with an outcome line** |
+| Six Accounts | No flag | **`Service_Address_Unconfirmed__c` = true** | **flag clear on all six — correctly** |
+| Open tasks by due date | 6 due 27/08 · 20 due 08/09 | **6 undated · 20 due 08/09** | **0 open tasks in the org** |
+| Addresses confirmed | 0 of 6 | ~~0 of 6~~ | **6 of 6 (05/09) — all prompted** |
+| Addresses changed | — | — | **none. All six were already right** |
 
-**That last row is the ticket.** Everything above it is instrumentation. Nothing done on
-29/08 confirmed a single address, and the document should not be read as though it did.
+**That last-but-one row is the ticket.** Everything above it is instrumentation. Nothing
+done on 29/08 confirmed a single address, and the document should not be read as though
+it did. **The 05/09 calls are what closed it**, and the column recording that was added
+on 07/09 — until then this table still read `0 of 6` two days after the work was done.
 
 ---
 
 ## What is still open
 
-1. **Six calls, to six customers.** Nobody has made them and no date is now attached to
+> **Recounted 07/09. Two of these three are closed; the middle one is not.**
+
+1. ~~**Six calls, to six customers.** Nobody has made them and no date is now attached to
    them. This is deliberate — a real date needs a real person rostered, and that is
-   Marcus's call, not the admin's. It is the second ask already sitting in
-   [status-note-marcus-cf-01-freeze-point.md](status-note-marcus-cf-01-freeze-point.md),
-   still unanswered.
-2. **The list view is private.** Set to "All users" — or better, replace it with a report
-   on `Service_Address_Unconfirmed__c` in the SunRise Ops folder, alongside CF-01's.
-   Left as it was built rather than quietly corrected, because the repeat of a defect
-   fixed two days earlier is the more useful thing to notice.
-3. **CF-20's twenty Tasks dated 08/09 have not been rethought**, and they are the same
+   Marcus's call, not the admin's.~~
+   ✅ **CLOSED 05/09.** Hemayet made all six himself rather than wait for the roster
+   decision. All six confirmed, all prompted, no address changed.
+2. 🔴 **The list view is still private — this one is genuinely still open.** `CF-02 ·
+   Address confirmations` remains *"Only I can see this list view"*. Set it to "All
+   users", or better, replace it with a report on `Service_Address_Unconfirmed__c` in the
+   SunRise Ops folder alongside CF-01's.
+   **Now nine days unfixed, and its practical urgency has dropped to nil** — the flag is
+   clear on all six accounts, so the private view currently shows an empty list. **That is
+   exactly why it should be fixed now rather than left**: the next account to be flagged
+   will be visible to one person, and nothing will indicate that. A private control is
+   cheapest to fix while it is empty and hardest to notice at the same moment.
+3. ~~**CF-20's twenty Tasks dated 08/09 have not been rethought**, and they are the same
    shape as the six: an undated obligation wearing a date. When 08/09 arrives the same
-   pressure will apply to twenty records instead of six.
+   pressure will apply to twenty records instead of six.~~
+   ✅ **Overtaken 05/09** — all twenty were answered on the merits three days before the
+   date fell, so the pressure this predicted never arrived. **The prediction was sound and
+   the outcome does not vindicate the design**: twenty undated obligations wearing a date
+   were cleared early by one person working a weekend, not by the control working.
+   **Closing note appended to all twenty on 07/09** recording the final count — see below.
 
 ---
 
@@ -201,3 +252,50 @@ nobody opened the list."* This is the next step along from that.
 The countermeasure is not more discipline. It is that **the thing that gets cleared and
 the thing that records the work should not be the same object** — which is why the flag
 is now on the Account and the task is undated.
+
+---
+
+## Addendum 07/09/2026 — the twenty CF-20 tasks asserted evidence their own answers refuted
+
+**Found while closing out CF-02.** All ten CF-20 pairs were answered by 05/09, but every
+one of the twenty task records still carried its original 25/08 EVIDENCE paragraph:
+
+> *"EVIDENCE they are one household: matching suburb, and complementary phone formats —
+> landline on one record, mobile on the other — consistent with two import sources for the
+> same customer. **That pattern holds on all 10 pairs.**"*
+
+**It did hold on all 10 pairs. It predicted the right answer on 3.**
+
+| | |
+|---|---|
+| Same household | **3** — Kowalski, Bennett, Young |
+| Separate households | **7** — Anderson, Clark, Fitzgerald, Murphy, Patel, Singh, Tran |
+
+Eight of the twenty carried a running tally written at the moment they were answered
+(`1 for 7`, `2 for 8`, `3 for 9`, `3 for 10`). **Twelve carried none, and not one carried
+the final figure.** So twenty closed records stood in the org asserting a hypothesis their
+own answers had disproved — readable by an auditor as the basis on which they were closed.
+
+**Fixed 07/09:** a dated closing note appended to all twenty, naming the paragraph it
+corrects and giving the final count. **The original paragraph is not deleted** — same
+practice as this document's own header. What was believed on 25/08 and what the calls
+established are left to be read against each other.
+
+**The finding: a signal present on every member of a set cannot discriminate between
+them.** That is the substitution
+[ticket-2.1-data-quality-audit.md](ticket-2.1-data-quality-audit.md) §③/§④ already records
+as the mistake, arriving a third time.
+
+**And it vindicates the hold.** Had the ten pairs been merged on name similarity plus the
+phone pattern — which is what the evidence paragraph was arguing for — **7 of 10 would
+have been wrong**, and seven pairs of records for genuinely separate customers would have
+been collapsed irreversibly.
+
+**Generated, not hand-edited:**
+[build-cf-20-closing-note.py](../scripts/build-cf-20-closing-note.py) derives each pair's
+verdict from the task's own answer text in the org rather than from any document,
+cross-checks it against the expected split, and refuses to emit on a mismatch, on
+surviving non-ASCII, or if the note is already present. **Every defect in these records
+since 03/09 entered through hand-editing the Comments box** — the mid-line splits, the
+mojibake, the wrong surnames, the doubled alternatives. Twenty records was not a volume to
+edit by hand a fifth time.

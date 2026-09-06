@@ -4,116 +4,97 @@ This file provides guidance to Claude Code (claude.ai/code) when working in this
 
 ## What this is
 
-Engagement workspace for the **SunRise Solar Solutions internship** — twelve weeks
-as the incoming admin at a fictional 47-person NSW solar installer whose org has
-been unmaintained for six months. Certification track: **Administrator**.
+Engagement workspace for the **SunRise Solar Solutions internship** — a twelve-week
+Salesforce Administrator simulation. Hemayet plays the incoming admin at a fictional
+47-person NSW solar installer whose org has been unmaintained for six months.
+SunRise Solar Solutions Pty Ltd is fictional; no real customer data is in here.
 
-Scope: user management, data quality, executive reporting, attribution, automation,
-custom objects, Service Cloud, security audit, handover.
-
-This is the most advanced repository in the program. Weeks 1 and 2 are worked, 22
-carry-forward tickets are open, and the documentation conventions below are load
-bearing — they are the reason the record is worth anything.
+This is the most advanced of the nine engagement repos — Weeks 1 and 2 are built and
+written up. Read `deliverables/build-log.md` before doing anything: it is the
+authoritative record of org state, and it is more current than this file.
 
 ## The org
 
-Target org alias **`sunrise`**, org ID `00DgK00000WyBZGUA3`.
+Target org alias **`sunrise`** — a Developer Edition org.
 
 ```bash
 sf org display --target-org sunrise
-sf data query --target-org sunrise --query "SELECT COUNT() FROM Contact"
+sf data query --target-org sunrise --query "SELECT COUNT() FROM User WHERE IsActive = true"
 ```
 
-The binding constraint throughout is **4 Salesforce licences, all consumed at the
-start**. Ticket 1.1 recovered one by deactivating the OrgFarm EPIC provisioning
-account, which required sweeping every reference that blocked deactivation.
-Licence arithmetic shapes most decisions here; check the current position before
-proposing anything that needs a user.
+The licence position is the constraint that shapes nearly every decision in this
+engagement, and it is tight: **4 of 4 Salesforce licences used, 6 Salesforce Platform
+licences spare** as of 21/08/2026. Check it before proposing anything that needs a
+user, and re-check after, because "deactivated" is not "licence recovered" until
+Company Information says so.
 
-## The documentation rules — these are not style preferences
+Two licence walls have already been hit and are worth remembering:
 
-**1. A dated note is never rewritten.** If a document says "today" and is dated
-27/08, that means 27/08. Editing it to stay current *falsifies the log*, which is
-the one thing this repository cannot afford. Supersede instead: add a dated block
-quote at the top, and strike through the text it replaces. `carry-forward-tickets.md`
-is the worked example — read how 29/08 and 01/09 were layered onto a 27/08 document
-before editing anything in `deliverables/`.
+- **User licences** — Company Information shows these.
+- **Feature licences** (e.g. Salesforce CRM Content) — Company Information does *not*
+  show these, and the failure surfaces as `LICENSE_LIMIT_EXCEEDED` on insert. Set
+  `UserPermissionsSFContentUser = false` when creating Platform users who don't need it.
 
-**2. Counts move, so date them.** Never quote a number without an "as at" date, and
-recompute against the org rather than copying it forward from an earlier note. The
-decision list carries a correction block for exactly this reason: "unanswered for
-ten days" became thirteen, and the dollar figures moved with it.
+## The division of labour on this engagement
 
-**3. Verify against the org, not against your own notes.** The carry-forward list
-opens by saying everything in it was verified against the org that day. Do the same.
+**Hemayet builds all Setup configuration by hand** — users, roles, profiles, duplicate
+and matching rules, validation rules, reports, assignment rules. The Administrator
+certification tests Setup navigation and so does the job. Do not build config via the
+Metadata API on his behalf unless he asks explicitly.
 
-**4. Correct the reasoning, not just the conclusion.** When "never logged in" turned
-out to be "no interactive human login — three automated logins via `orgfarm_app_1`",
-the deactivation decision stayed and the *justification* was reworded, with the
-correction logged as its own build-log row. That is the pattern: the decision can
-survive while the written record gets fixed.
+**Claude does:** seed data (Apex anonymous, in `seed/`), remediation and migration
+scripts (`scripts/`), verification queries, evidence CSV extraction, code review,
+deployment mechanics, and drafting deliverables. Claude also plays stakeholders in
+character — **Marcus** is the manager who receives status notes and makes the decisions
+Hemayet escalates; **Zara** appears in Ticket 1.3.
 
-**5. Record accepted risks inline.** Several Week 1 deletions would have been
-reassignments or export-then-delete in production. Each says so in the build log.
-A shortcut that is written down is a decision; one that isn't is a defect.
+## Apex gotchas this engagement has already paid for
 
-## The stakeholder channel — check before writing to it
+- **`MIXED_DML_OPERATION`.** User is a setup object. User DML and Account DML cannot
+  share a transaction — the whole script rolls back and can fail silently. Split the
+  script, or use `System.runAs`/`@future`. `seed/week-01-leavers-setup.apex` was
+  corrected for exactly this.
+- **Suppress welcome emails** on seeded users:
+  `DMLOptions.EmailHeader.triggerUserEmail = false`. These users exist to be
+  offboarded; nobody should get mail about them.
+- **Freeze lives on `UserLogin.IsFrozen`, not `User`.** This is the detail most people
+  miss.
 
-Escalations go to Marcus through the Chatter group `SunRise Ops — Escalations`
-(`0F9gK000000YDsTSAW`). This channel has broken twice and the history matters:
+## The ordering rule that is non-negotiable
 
-- **Marcus Head** and **Marcus Lee** are both deactivated. Deactivating Head
-  silently removed him from the group. Every post from 29/08 still @mentions Head —
-  those are **dead mentions in a group he is not in**.
-- The working account as at 01/09 is **Marcus Neil** (`005gK00007HBpc5QAD`, Chatter
-  Free, in the group, and the first non-Hemayet account with a proven login). His
-  address is `hossainconsulting+marcus@gmail.com` — a real mailbox, which is why
-  this attempt worked where the fictional `@sunrise.hossain.dev` addresses did not.
+Offboarding is **freeze → transfer → deactivate**, in that order. Freeze is an urgent
+security action; transfer is a slow data action. Doing the slow one first leaves a
+leaver able to log in while it runs. `deliverables/sop-user-deactivation.md` was
+corrected once for stating this backwards — do not reintroduce the old order.
 
-Before treating any escalation as delivered, confirm the recipient is live, in the
-group, and has actually logged in. "Posted" is not "received" — that was CF-22, and
-it invalidated six earlier escalations.
+## Documentation standards
 
-Other named characters: Jake, Sarah, Zara. None of them has a user account in this org.
+`deliverables/` is the substance and the interview evidence. The configuration proves
+the clicks happened; the documents prove the thinking did.
 
-## The division of labour
+- **Every change goes in `deliverables/build-log.md`** with its date, the component,
+  the change, and the requirement it traces to. Corrections are appended as new rows,
+  never edited over — the log shows the mistake and the fix, and that is the point.
+- **Claim only what was verified.** "Verified 19/08" in the log means a query or a
+  screenshot backs it. An earlier entry was corrected from "never logged in" to
+  "no interactive human login" after `LoginHistory` contradicted it. That standard holds.
+- **Accepted risks are recorded, not hidden.** Where a training-org shortcut was taken
+  (deleting assignment rules rather than reassigning them), the log says what production
+  would have required instead.
+- **Dates are Australian** — `dd/mm/yyyy`. The org is `en_AU`, `Australia/Sydney`.
+- `evidence/week-NN/` holds the before/after CSVs and screenshots for that week.
 
-**Hemayet builds all Setup configuration by hand** — users, profiles, permission
-sets, duplicate and matching rules, validation rules, reports, dashboards, flows.
-The certification tests Setup navigation and so does the job. Do not build config
-via the Metadata API on his behalf unless he asks explicitly.
+## Never commit
 
-**Claude does:** seed data and one-off remediation Apex, verification queries,
-analysis and documentation drafting, build-log entries, code review, and playing
-stakeholders in character. Four of the open tickets are marked as writable only by
-Hemayet — respect that.
+Auth files and sfdx auth URLs — an auth URL is a full credential. `.gitignore` covers
+`**/*authFile*.json`, `**/*sfdxAuthUrl*`, `.env*`, `.sf/` and `.sfdx/`. A credential
+that reaches git history has to be *rotated*, not deleted.
 
-## Repository conventions
+## Agent workflow
 
-| Folder | Contents |
-|---|---|
-| `force-app/` | Metadata **retrieved from** the org — duplicate/matching rules, layouts, objects, reports |
-| `seed/` | Apex that builds the starting data, including its deliberate defects |
-| `scripts/` | One-off remediation Apex tied to a specific ticket (`cf-04-…`, `cf-13-…`, `cf-23-…`) |
-| `deliverables/` | The written work — the substance |
-| `evidence/` | Per-week before/after CSVs and screenshots (`evidence/week-01/`, `week-02/`) |
-
-Keep `seed/` and `scripts/` distinct: `seed/` is re-runnable setup, `scripts/` is a
-dated intervention that traces to a ticket.
-
-File naming in `deliverables/`:
-
-- `ticket-N.N-*.md` — scheduled weekly tickets
-- `cf-NN-*.md` — carry-forward tickets, numbered from `carry-forward-tickets.md`
-- `status-note-marcus-*.md` — escalations, one per decision or ticket
-- `sop-*.md` — standing procedures that outlive the engagement
-- `week-NN-build-brief.md` — the week's plan, written before the week
-
-## Rules worth enforcing in review
-
-- Deliberate defects in seed data are the exercise. Do not quietly fix data a
-  ticket is supposed to find.
-- Destructive Apex in `scripts/` gets a before/after CSV in `evidence/` and a
-  build-log row. `cf-23` is the example — it closed against 62 records, not the 23
-  its name implies, and the record says so.
-- Never commit an sfdx auth URL. It is a full credential. See `.gitignore`.
+Superpowers is expected to be installed as a **user-level plugin**
+(`/plugin install superpowers@claude-plugins-official`), not vendored into this repo.
+Note that most work here is Salesforce Setup configuration and Apex anonymous scripts
+with no test runner, so the TDD and red/green skills apply only to the JS helpers in
+`seed/`. The verification discipline applies everywhere: prove it against a query
+before writing it in the build log.

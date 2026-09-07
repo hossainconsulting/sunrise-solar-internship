@@ -99,9 +99,13 @@ work was not updated, so the org and the repo each told a story that was two day
 opposite directions — the tasks over-claiming their evidence, the document under-claiming
 the result.
 
-**Still genuinely open and nine days unfixed:** the `CF-02 · Address confirmations` list
-view is **still private**. Its urgency is now nil because the list is empty — which is
-precisely when it is cheapest to fix and hardest to notice.
+**The `CF-02 · Address confirmations` list view was shared to all users this evening — and
+that uncovered CF-26.** It was never only private: it has **no filter criteria at all** and
+`filterScope: Mine`, so it renders all 26 Tasks in the org and shows every other user
+nothing. **Nine days of notes called it "private" without once opening the definition.**
+
+**Also this evening: CF-24's two recoverable bugs were planted and verified** — see the
+[07/09 session file](sessions/2026-09-07.md). Weeks 5.1 and 10.1 are diagnosable cold.
 
 ---
 
@@ -283,7 +287,8 @@ a note dated 27/08 saying "today" means 27/08, and rewriting that would falsify 
 | CF-19 | 47 accounts still violate the naming standard | W2 · 2.2 | 🔵 DEFERRED | CF-20 |
 | CF-20 | Ten middle-initial pairs, held for confirmation | W2 · 2.1 | ✅ **CLOSED 05/09 — all 10 answered, 3 days early.** 7 separate, 3 same household. **All 20 task records corrected 07/09** — they still asserted the phone-format evidence, which finished **3 for 10**. Merging on it would have been wrong 7 times | — |
 | CF-23 | ~~23~~ **62 records owned by deactivated OrgFarm EPIC** — and it was 39 Flows nobody had counted | W2 · CF-04 | ✅ **CLOSED 02/09 · VERIFIED 03/09** — [sweep artifact](../evidence/week-03/cf-23-ownership-sweep-03-09.md): 185 of 187 confirmed zero, 2 unqueryable | — |
-| CF-24 | **None of Phase 0's three planted bugs exist** — and Week 4.2's was deleted by Ticket 1.1 | P0 · §0.8 | 🔴 **RAISED 07/09.** Week 4.2's subject is gone; Weeks 5.1 and 10.1 still recoverable **today** | Hemayet |
+| CF-24 | **None of Phase 0's three planted bugs exist** — and Week 4.2's was deleted by Ticket 1.1 | P0 · §0.8 | ✅ **PARTLY CLOSED 07/09 · verified in the org** — Weeks 5.1 and 10.1 planted the same evening. **Week 4.2's is unrecoverable** and becomes a build, not a staged diagnosis | — |
+| CF-26 | **The CF-02 list view has no filter at all** — and is `filterScope: Mine` | W2 · CF-02 | 🔴 **RAISED 07/09.** Sharing fixed; the real defect is underneath it. Described as "private" for nine days without opening the definition | Hemayet: what it should show |
 | CF-25 | **150 leads, $180,000 of campaigns, nobody contacted** | W4 · 4.1 | 🔴 **RAISED 07/09** — 69 days, all `Open - Not Contacted`, all owned by the admin | Marcus: who works them |
 
 ---

@@ -3,48 +3,81 @@
 05/09/2026. The captures live only in OneDrive and reach nothing that reads the
 repo. Week 1's did the same and CF-14 declared them lost while they sat there.
 
-Filed by the week the screenshot was TAKEN:
-  Sat 29/08          -> evidence/week-02/screenshots/   (Week 2 ran Mon 24/08 - Fri 28/08)
-  Mon 31/08 onwards  -> evidence/week-03/screenshots/   (Week 3 opened Mon 31/08)
-
-The source folder is named "week 3" but holds both, which is the misfiling this
-corrects rather than copies.
-
 COPIES, does not move: OneDrive is the capture point and the only backup until
-this branch is pushed. Delete the originals once it is, not before.
+the branch is pushed. Delete the originals once it is, not before.
 
 Zero-byte files are NOT copied - filing an empty artifact makes a gap look filled.
 They are named in the manifest instead.
-"""
-import hashlib, pathlib, shutil, datetime, collections
 
-SRC = pathlib.Path(r"C:/Users/Hemayet Hossain/OneDrive/Pictures/Salesforce"
-                   r"/SunRise-Solar-Internship/evidence/week 3")
+--- Generalised 07/09/2026 -------------------------------------------------
+
+Originally hardcoded to the `week 3` source folder with a single 31/08 boundary,
+because that folder held both Week 2 and Week 3 captures and the point was to
+correct that misfiling rather than copy it.
+
+That boundary is now a table of week start dates, which reproduces the original
+behaviour exactly (29/08 still lands in week-02, 31/08 still lands in week-03)
+and extends to Week 4 without a second copy of this script. The source folder is
+an argument, so a folder named for one week can still hold captures from another
+and they will be filed by the date they were TAKEN, not by the folder name.
+
+Usage:  python file-screenshots.py ["<source folder>" ...]
+Default: the "week 4" folder.
+"""
+import hashlib, pathlib, shutil, datetime, collections, sys
+
+ONEDRIVE = pathlib.Path(r"C:/Users/Hemayet Hossain/OneDrive/Pictures/Salesforce"
+                        r"/SunRise-Solar-Internship/evidence")
 REPO = pathlib.Path(__file__).resolve().parent.parent
-BOUNDARY = datetime.date(2026, 8, 31)          # Monday, first day of Week 3
+TODAY = datetime.date.today()
+
+# Monday of each week of the internship. A capture is filed into the last week
+# whose start date is on or before the day it was taken.
+WEEK_STARTS = [
+    (datetime.date(2026, 8, 17), "week-01"),
+    (datetime.date(2026, 8, 24), "week-02"),
+    (datetime.date(2026, 8, 31), "week-03"),
+    (datetime.date(2026, 9, 7),  "week-04"),
+]
+
+SOURCES = [pathlib.Path(a) for a in sys.argv[1:]] or [ONEDRIVE / "week 4"]
+
+
+def week_of(taken):
+    label = WEEK_STARTS[0][1]
+    for start, name in WEEK_STARTS:
+        if taken >= start:
+            label = name
+    return label
+
 
 def digest(p):
     return hashlib.md5(p.read_bytes()).hexdigest()
 
-copied = collections.defaultdict(list)
-empty, seen = [], {}
 
-for f in sorted(SRC.iterdir()):
-    if not f.is_file():
-        continue
-    taken = datetime.date.fromtimestamp(f.stat().st_mtime)
-    if f.stat().st_size == 0:
-        empty.append((f.name, taken))
-        continue
-    week = "week-03" if taken >= BOUNDARY else "week-02"
-    dest_dir = REPO / "evidence" / week / "screenshots"
-    dest_dir.mkdir(parents=True, exist_ok=True)
-    dest = dest_dir / f.name
-    if not dest.exists() or digest(dest) != digest(f):
-        shutil.copy2(f, dest)
-    d = digest(f)
-    seen.setdefault(d, []).append(f.name)
-    copied[week].append((f.name, taken, f.stat().st_size, d))
+copied = collections.defaultdict(list)
+empty, seen, sources_used = [], {}, []
+
+for src in SOURCES:
+    if not src.is_dir():
+        sys.exit("no such folder: %s" % src)
+    sources_used.append(src)
+    for f in sorted(src.iterdir()):
+        if not f.is_file():
+            continue
+        taken = datetime.date.fromtimestamp(f.stat().st_mtime)
+        if f.stat().st_size == 0:
+            empty.append((f.name, taken))
+            continue
+        week = week_of(taken)
+        dest_dir = REPO / "evidence" / week / "screenshots"
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        dest = dest_dir / f.name
+        if not dest.exists() or digest(dest) != digest(f):
+            shutil.copy2(f, dest)
+        d = digest(f)
+        seen.setdefault(d, []).append(f.name)
+        copied[week].append((f.name, taken, f.stat().st_size, d))
 
 dupes = {d: n for d, n in seen.items() if len(n) > 1}
 
@@ -55,12 +88,11 @@ for week, rows in sorted(copied.items()):
     lines = [
         "# Screenshot evidence - %s" % week,
         "",
-        "**Copied from OneDrive 05/09/2026 by `scripts/file-screenshots.py`.**",
-        "Source: `OneDrive/Pictures/Salesforce/SunRise-Solar-Internship/evidence/week 3/`",
+        "**Copied from OneDrive %s by `scripts/file-screenshots.py`.**"
+        % TODAY.strftime("%d/%m/%Y"),
+        "Source: %s" % ", ".join("`%s`" % s.name for s in sources_used),
         "",
         "Filed by the date the screenshot was taken, not by the folder it was found in.",
-        "The source folder is named `week 3` and holds both Week 2 and Week 3 captures;",
-        "Week 3 opened **Monday 31/08/2026**, so 29/08 belongs to Week 2.",
         "",
         "**%d files, %.1f MB.**" % (len(rows), total_mb),
         "",
@@ -75,7 +107,7 @@ for week, rows in sorted(copied.items()):
     ] + ["| `%s` | %s | %s |" % (n, t.strftime("%d/%m/%Y"), f"{s:,}")
          for n, t, s, _ in rows]
 
-    if empty and week == "week-03":
+    if empty:
         lines += [
             "",
             "## Not copied - zero bytes at source",
@@ -102,3 +134,5 @@ print("zero-byte, not copied: %d" % len(empty))
 for n, t in empty:
     print("   ", n)
 print("duplicate groups: %d" % len(dupes))
+for _, ns in dupes.items():
+    print("   ", ", ".join(ns))

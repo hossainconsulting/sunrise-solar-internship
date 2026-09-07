@@ -42,7 +42,7 @@ jobs:
     name: Repository guardrails
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # An sfdx auth URL is a full credential. The pattern is written as a
       # character class so this file does not match itself.
@@ -100,7 +100,7 @@ jobs:
     needs: guardrails
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Are org credentials configured?
         id: creds
@@ -126,10 +126,10 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
           echo "Skipped: no SFDX_AUTH_URL secret configured."
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         if: steps.creds.outputs.available == 'true'
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install Salesforce CLI
         if: steps.creds.outputs.available == 'true'
